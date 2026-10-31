@@ -1,0 +1,90 @@
+#!/usr/bin/env python3
+"""Collect public Finnish authority RSS headlines, no third-party dependencies."""
+import concurrent.futures, datetime as dt, email.utils, html, json, os, re, urllib.request, urllib.parse, xml.etree.ElementTree as ET
+from html.parser import HTMLParser
+
+ROOT=os.path.dirname(os.path.dirname(__file__))
+OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
+SOURCES=[
+ ("Poliisi","https://poliisi.fi/rss-syotteet"),
+ ("Valtioneuvosto","https://valtioneuvosto.fi/staattiset-feedit"),
+ ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/medialle"),
+]
+class Links(HTMLParser):
+ def __init__(self): super().__init__();self.links=[]
+ def handle_starttag(self,tag,attrs):
+  if tag not in ("a","link"):return
+  d=dict(attrs);u=d.get("href","")
+  if u and (re.search(r"rss|feed|\.xml|atom",u,re.I) or "rss" in d.get("type","").lower()):self.links.append(u)
+def get(url):
+ req=urllib.request.Request(url,headers={"User-Agent":"Viranomaisuutiset/1.0 (public RSS reader)","Accept":"application/rss+xml,application/atom+xml,application/xml,text/xml,text/html;q=0.8"})
+ with urllib.request.urlopen(req,timeout=15) as response:return response.read(2500000),response.geturl()
+def parse_date(s):
+ if not s:return None
+ try:return email.utils.parsedate_to_datetime(s).astimezone(dt.timezone.utc).isoformat()
+ except Exception:
+  try:return dt.datetime.fromisoformat(s.replace("Z","+00:00")).astimezone(dt.timezone.utc).isoformat()
+  except Exception:return None
+def text(node,names):
+ for name in names:
+  v=node.findtext(name)
+  if v:return " ".join(v.split())
+ return ""
+def feed_items(raw,source):
+ try:root=ET.fromstring(raw)
+ except ET.ParseError:return []
+ result=[]
+ if root.tag.lower().endswith("rss") or root.tag.lower().endswith("rdf"):
+  nodes=root.findall(".//item")
+ else:nodes=root.findall("{http://www.w3.org/2005/Atom}entry")
+ for n in nodes:
+  title=html.unescape(text(n,["title","{http://www.w3.org/2005/Atom}title"]))
+  link=text(n,["link"])
+  if not link:
+   for a in n.findall("{http://www.w3.org/2005/Atom}link"):
+    if a.get("rel","alternate")=="alternate":link=a.get("href","");break
+  published=parse_date(text(n,["pubDate","{http://purl.org/dc/elements/1.1/}date","{http://www.w3.org/2005/Atom}published","{http://www.w3.org/2005/Atom}updated"]))
+  if title and link and link.startswith("http"):
+   result.append({"title":title,"link":link,"source":source,"date":published,"region":""})
+ return result
+def collect(source,page):
+ try:raw,url=get(page)
+ except Exception as e:print(source,"listing failed:",e);return []
+ direct=feed_items(raw,source)
+ if direct:return direct
+ parser=Links();parser.feed(raw.decode("utf-8","replace"))
+ candidates=[]
+ for href in parser.links:
+  absolute=urllib.parse.urljoin(url,href)
+  if urllib.parse.urlsplit(absolute).netloc!=urllib.parse.urlsplit(page).netloc:continue
+  if absolute not in candidates:candidates.append(absolute)
+ # Prefer explicit RSS/XML URLs; avoid dozens of unrelated links.
+ candidates=sorted(candidates,key=lambda u:(0 if re.search(r"rss|\.xml",u,re.I) else 1,len(u)))[:18]
+ out=[]
+ with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+  futures={pool.submit(get,u):u for u in candidates}
+  for f in concurrent.futures.as_completed(futures):
+   try:out.extend(feed_items(f.result()[0],source))
+   except Exception:pass
+ print(source,":",len(out),"headlines from",len(candidates),"candidate feeds")
+ return out
+def main():
+ old=[]
+ try:
+  with open(OUTPUT,encoding="utf-8") as f:old=json.load(f).get("items",[])
+ except (OSError,ValueError):pass
+ with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+  futures=[pool.submit(collect,*s) for s in SOURCES]
+  fresh=[n for f in futures for n in f.result()]
+ now=dt.datetime.now(dt.timezone.utc);items={}
+ for n in old+fresh:
+  try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
+  except ValueError:continue
+  if (now-published).days>14:continue
+  key=n["link"].split("?")[0].rstrip("/")
+  if key not in items or (n.get("date") or "")>(items[key].get("date") or ""):items[key]=n
+ ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
+ os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
+ with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh)},f,ensure_ascii=False,indent=2)
+ print("Saved",len(ordered),"authority headlines; new fetched",len(fresh))
+if __name__=="__main__":main()
