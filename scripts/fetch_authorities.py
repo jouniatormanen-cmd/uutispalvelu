@@ -7,7 +7,9 @@ ROOT=os.path.dirname(os.path.dirname(__file__))
 OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
 SOURCES=[
  ("Poliisi","https://poliisi.fi/rss-syotteet"),
+ ("Poliisi – uutiset","https://poliisi.fi/uutishuone"),
  ("Valtioneuvosto","https://valtioneuvosto.fi/staattiset-feedit"),
+ ("Valtioneuvosto – tiedotteet","https://valtioneuvosto.fi/tiedotteet"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
  ("Traficom","https://www.traficom.fi/feed/rss/fi"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
@@ -90,7 +92,7 @@ def main():
  for n in old+fresh:
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
   except ValueError:continue
-  if (now-published).days>14:continue
+  if (now-published).days>30:continue
   key=n["link"].split("?")[0].rstrip("/")
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
  ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
