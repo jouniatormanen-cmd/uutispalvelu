@@ -100,6 +100,7 @@ def main():
  for n in old+fresh:
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
   except ValueError:continue
+  if published>now+dt.timedelta(hours=12):continue
   if (now-published).days>90:continue
   if not consumer_relevant(n):continue
   key=n["link"].split("?")[0].rstrip("/")
