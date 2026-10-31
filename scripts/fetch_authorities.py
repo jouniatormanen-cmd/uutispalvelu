@@ -78,6 +78,13 @@ def collect(source,page):
    except Exception:pass
  print(source,":",len(out),"headlines from",len(candidates),"candidate feeds")
  return out,("toimii" if out else "syötteistä ei saatu uutisia"),len(candidates)
+# Prioritise concrete events and practical notices affecting residents.
+RELEVANT=re.compile(r"onnettomuus|kolari|tulipalo|maastopalo|palo |pelast|poliisi etsii|kadonnut|etsintä|ryöstö|murto|varkau|pahoinpitely|väkival|ampumi|liikennehäi|tie sulj|tiesul|tietyö|kiertotie|ruuhka|junaliiken|liikennekatko|sähkökatko|vesikatko|vedenkeitt|juomaves|myrsky|säävaroit|varoitus|tulva|liukka|pakkan|helle|takaisinveto|tuotevirhe|huijaus|petos|tietomurto|häiriö|katkos|palvelukatko|epidemia|tartunta|terveysriski|saastun|vaaratiedote|evaku|lakko|peruuntu|peruttu|suljettu|avataan|muuttuu|muutos|hinnat|hintojen|etuuden|etuudet|asumistuki|toimeentulotuki|työttömyys|kela",re.I)
+EXCLUDE=re.compile(r"lakiesitys|lausuntokierros|lausunto |lausunto:|hallitus esittää|ministeri tapasi|ministeri osallist|nimitys|nimitettiin|työryhmä|strategia|selonteko|valiokunta|eduskunnan käsittely|asetusehdotus|budjettiriihi|virkanimitys|seminaar|konferenssi|vuosikertomus|tutkimushanke",re.I)
+def consumer_relevant(n):
+ title=n.get("title","")
+ return bool(RELEVANT.search(title)) and not bool(EXCLUDE.search(title))
+
 def main():
  old=[]
  try:
@@ -92,7 +99,8 @@ def main():
  for n in old+fresh:
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
   except ValueError:continue
-  if (now-published).days>30:continue
+  if (now-published).days>90:continue
+  if not consumer_relevant(n):continue
   key=n["link"].split("?")[0].rstrip("/")
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
  ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
