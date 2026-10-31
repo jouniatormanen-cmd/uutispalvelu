@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-31T23:22:16.928720+00:00",
+  "updated": "2026-10-31T23:52:53.183382+00:00",
   "items": [
+    {
+      "title": "Mediatiedote Keski-Suomen pelastuslaitos",
+      "link": "https://www.sttinfo.fi/tiedote/72462827/mediatiedote-keski-suomen-pelastuslaitos?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-31T16:57:44+00:00",
+      "region": "",
+      "description": ""
+    },
     {
       "title": "Poliisi otti useita henkilöitä kiinni huumausainerikoksista epäiltyinä",
       "link": "https://poliisi.fi/-/poliisi-otti-useita-henkiloita-kiinni-huumausainerikoksista-epailtyina",
@@ -8,6 +16,14 @@
       "date": "2026-10-31T13:15:00+00:00",
       "region": "",
       "description": "Helsingin poliisi on kohdentanut tehostettua valvontaa Puhoksen ostoskeskuksen alueelle useita kertoja tänä vuonna. Poliisi on saanut alueen yrittäjiltä ja asukkailta runsaasti havaintoja alueella käytävästä huumausainekaupasta. Valvonnassa kerättyjen sekä kansalaisilta ja sidosryhmiltä saatujen havaintojen perusteella poliisi epäilee, että ostoskeskuksen alueella on käyty järjestäytynyttä huumausainekauppaa. Poliisi suoritti perjantaina rikostutkintoihin liittyvää tutkintaa, kiinniottoja ja etsintöjä Puhoksen ostoskeskuksen alueella sekä muualla. Poliisi otti tehtävän yhteydessä kiinni useita henkilöitä epäiltynä huumausainerikoksista. Lisäksi poliisi takavarikoi epäiltyjä huumausaineita ja käteistä rahaa. Rikosten esitutkinta on kesken, eikä poliisi tällä hetkellä kommentoi asiaa tarkemmin esitutkinnan turvaamiseksi. ]]>"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72462464/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-31T05:40:55+00:00",
+      "region": "",
+      "description": ""
     },
     {
       "title": "Seitsemän henkilöä osallisina kahden auton kolarissa Jyväskylässä",
@@ -42,6 +58,38 @@
       "description": "Poliisi epäilee rikosta myös työntekijöiden maahantuloon liittyvissä järjestelyissä. Esitutkinta koskee sekä suomalaisen henkilöstövuokrausyrityksen, että kiinalaisen käyttäjäyrityksen toimintaa ja toimijoita. Esitutkinta aloitettiin 10. syyskuuta 2026. Sitä ennen poliisi vastaanotti usealta taholta ilmoituksia epäillystä työperäisestä hyväksikäytöstä. Tekojen epäillään kohdistuneen laajaan joukkoon tehtaalla työskenteleviä kiinalaisia työntekijöitä, jotka eivät puhuneet muuta kieltä kuin kiinaa. Heillä ei ole ollut riittävää tietoa Suomen yhteiskunnasta, omista oikeuksistaan tai työnantajan velvollisuuksista. Poliisi on tehnyt asiaan liittyen kiinniottoja. Yhteensä yhdeksän ihmistä on ollut kiinniotettuina. Näistä neljä on tällä hetkellä tutkintavankeudessa. Esitutkintaa suoritetaan epäiltynä Ihmiskauppana ja törkeänä laittoman maahantulon järjestämisenä. ]]>"
     },
     {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72460293/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-30T08:42:29+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72458900/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-30T05:13:24+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72458728/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-29T19:58:59+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72458564/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-29T17:02:33+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
       "title": "Poliisi pyytää havaintoja pizzeriaan murtautumisesta Joensuussa",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-pizzeriaan-murtautumisesta-joensuussa",
       "date": "2026-10-29T13:42:00+02:00",
@@ -56,6 +104,14 @@
       "date": "2026-10-29T13:23:00+02:00",
       "region": "Espoo, Uusimaa",
       "description": "Länsi-Uudenmaan poliisi pyytää havaintoja Espoossa 26.–27. lokakuuta tapahtuneesta väkivallanteosta."
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72454568/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-29T05:06:33+00:00",
+      "region": "",
+      "description": ""
     },
     {
       "title": "Jyväskylässä rasvapalo rivitalon terassilla – palo saatiin sammutettua",
@@ -74,6 +130,14 @@
       "description": "Helsingin poliisilaitoksen valtakunnallinen ihmiskauppatutkintaryhmä tutkii laajaa paritusrikoskokonaisuutta, jonka epäillään liittyvän kansainväliseen järjestäytyneeseen rikollisuuteen. Tekojen epäillään alkaneen elokuussa 2025 ja jatkuneen siitä asti, kunnes poliisi otti epäillyt kiinni. Esitutkinnassa tutkittavat rikosnimikkeet ovat törkeä paritus ja törkeä rahanpesu. Lisäksi esitutkinnan aikana pyritään selvittämään, onko asiassa syytä epäillä ihmiskauppaa. Useita satoja tuhansia euroja rikoshyötyä Rikollisorganisaation epäillään vastanneen parituksesta Helsingin ja muun pääkaupunkiseudun lisäksi myös muissa Suomen suurissa ja keskisuurissa kaupungeissa. Poliisin tiedossa olevia parituksen kohteeksi joutuneita henkilöitä on useita kymmeniä ja he ovat kaikki ulkomaalaistaustaisia. Paritustoiminta on tapahtunut pääsääntöisesti lyhytvuokra-asunnoissa ympäri Suomea. Rikoksella on poliisi"
     },
     {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72450056/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-27T17:33:48+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
       "title": "Poliisi pyytää havaintoja Seinäjoella tapahtuneesta liikenneonnettomuudesta",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-seinajoella-tapahtuneesta-liikenneonnettomuudesta-1",
       "source": "Poliisi",
@@ -82,12 +146,36 @@
       "description": "Poliisi selvittää liikenneonnettomuutta, jossa auto törmäsi polkupyörällä liikkuneeseen lapseen ja kuljettaja poistui paikalta."
     },
     {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72446888/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-27T05:00:47+00:00",
+      "region": "",
+      "description": "Kooste illan ja yön hälytyksistä Keski-Suomen pelastuslaitoksella."
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72446059/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-26T17:01:06+00:00",
+      "region": "",
+      "description": "Kooste Keski-Suomen pelastuslaitoksen alueella kuluneen 12 tunnin aikana olleista hälytyksistä."
+    },
+    {
       "title": "Pohjoismaiset kokoukset aiheuttavat lyhyitä liikennekatkoja Helsingissä",
       "link": "https://poliisi.fi/-/pohjoismaiset-kokoukset-aiheuttavat-lyhyita-liikennekatkoja-helsingissa",
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-26T08:02:00+00:00",
       "region": "",
       "description": "Pohjoismaisten vieraiden siirtymiset voivat katkaista liikenteen tilapäisesti Helsingin keskustassa. Liikenteessä voi olla myös poikkeusjärjestelyjä. Poliisi ohjaa liikennettä tarvittaessa. Poliisi vastaa kokousten turvallisuus- ja liikennejärjestelyistä. ]]>"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72442236/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-26T05:12:06+00:00",
+      "region": "",
+      "description": ""
     },
     {
       "title": "Helsingissä kadonnut on löytynyt",
@@ -114,12 +202,44 @@
       "description": "Noin 60-vuotias mies katosi Lönnrotinkadun ja Fredrikinkadun risteysalueella. Uutista on muokattu löytymisen jälkeen. ]]>"
     },
     {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72441443/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-25T04:58:28+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72441253/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-24T16:13:42+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
       "title": "Poliisi pyytää havaintoja Myllypurosta kadonneesta 80-vuotiaasta miehestä - löytynyt",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-myllypurosta-kadonneesta-80-vuotiaasta-miehesta",
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-24T15:16:00+00:00",
       "region": "",
       "description": "Mies on löytynyt ja uutinen on kokonaan päivitetty. ]]>"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72440885/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-24T04:05:09+00:00",
+      "region": "",
+      "description": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos, Mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72440494/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-10-23T16:07:32+00:00",
+      "region": "",
+      "description": ""
     },
     {
       "title": "Tekoäly nopeuttaa haavoittuvuuksien löytymistä – kriittiset PHP-haavoittuvuudet aiheuttavat palvelukatkoja",
@@ -298,6 +418,14 @@
       "description": "Kello 9:58: Kaistat ovat käytössä normaalisti ja poliisi on poistunut paikalta. Onnettomuus tapahtui, kun kuorma-auto oli vaihtamassa kaistaa ja osui kaistanvaihdon yhteydessä henkilöauton kylkeen. Törmäyksen seurauksena henkilöauto lensi katolleen. Tilanteessa perässä ajanut toinen henkilöauto oli nopean jarrutuksen seurauksena törmännyt keskikaiteeseen. Vakavilta loukkaantumisilta vältyttiin. Poliisi epäilee kuorma-auton kuljettajaa liikenneturvallisuuden vaarantamisesta. Kello 8:35: Onnettomuudessa oli osallisena henkilöauto ja kuorma-auto. Henkilöauto lensi onnettomuuden seurauksena katolleen tielle. Liikenne ruuhkautuu paikan päällä ja kolme vasemmanpuoleista kaistaa länteen päin suljetaan kokonaan raivaus-ja pelastustöiden ajaksi. Onnettomuudessa ei alustavien tietojen mukaan ole tapahtunut vakavia loukkantuumisia. Henkilöauton kuski on itse päässyt autosta ulos. Tätä uutista ei en"
     },
     {
+      "title": "Autoilija törmäsi suojatietä ylittäneeseen jalankulkijaan Vallilassa",
+      "link": "https://poliisi.fi/-/autoilija-tormasi-suojatieta-ylittaneeseen-jalankulkijaan-vallilassa",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-09-23T10:03:00+00:00",
+      "region": "",
+      "description": "Helsingin poliisin rikostutkintayksikkö tutkii tapausta, jossa henkilöauton kuljettajan epäillään törmänneen suojatietä ylittäneeseen jalankulkijaan. Törmäys tapahtui tiistaina 15. syyskuuta 2026 noin kello 5.45 Hämeentiellä Vallilan kirkon lähellä. Tapahtunutta tutkitaan alustavasti törkeänä liikenneturvallisuuden vaarantamisena sekä vammantuottamuksena. Tilanteessa jalankulkija oli lähtenyt ylittämään suojatietä katsottuaan, että suojatietä lähestyvä ajoneuvo hidasti vauhtiaan. Autoilija törmäsi kuitenkin asianomistajaan, joka loukkaantui törmäyksessä. Kuljettaja pysähtyi törmäyksen jälkeen yhdessä sivullisen henkilön kanssa tarkistamaan asianomistajan vointia. Sivullisen henkilön kehotuksesta kuljettaja oli vienyt asianomistajan sairaalaan jättämättä kuitenkaan yhteystietojaan. Tapahtuneessa osallisena ollut ajoneuvo on valkoinen Skoda-merkkinen, farmarimallinen henkilöauto. Autoa kul"
+    },
+    {
       "title": "Helsingin poliisi pyytää havaintoja Niuvanniemestä karanneesta miehestä",
       "link": "https://poliisi.fi/-/helsingin-poliisi-pyytaa-havaintoja-niuvanniemesta-karanneesta-miehesta",
       "source": "Helsingin poliisilaitos",
@@ -362,6 +490,14 @@
       "description": "Helsingin Roihuvuoresta kadonnut nainen on löytynyt kunnossa. Poliisi kiittää kaikkia havaintonsa ilmoittaneita sekä tietoa jakaneita. Tätä tiedotetta ei enää päivitetä. Tiedotteesta on poistettu kadonneen kuva sekä tuntomerkit. ]]>"
     },
     {
+      "title": "Mies kuoli auton ulosajossa Helsingissä",
+      "link": "https://poliisi.fi/-/mies-kuoli-auton-ulosajossa-helsingissa",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-09-09T09:43:00+00:00",
+      "region": "",
+      "description": "Autossa oli kuljettaja, joka kuoli törmäyksessä. Vainaja oli 70-luvulla syntynyt mies. Ilmoituksen hätäkeskukseen teki sivullinen. Ulosajo tapahtui Metsäläntien sillan kohdalla. Auto oli törmännyt sillan tukirakenteeseen. Poliisin tiedossa ei ole, että tapahtuneella olisi silminnäkijöitä. Poliisi tutkii kolariin johtaneita syitä. Tapausta tutkitaan törkeänä liikenneturvallisuuden vaarantamisena. ]]>"
+    },
+    {
       "title": "Helsingin Pasilassa aiemmin kateissa ollut 85-vuotias mies on löytynyt.",
       "link": "https://poliisi.fi/-/helsingin-pasilassa-aiemmin-kateissa-ollut-85-vuotias-mies-on-loytynyt",
       "source": "Helsingin poliisilaitos",
@@ -418,12 +554,28 @@
       "description": "Esitutkinnan perusteella Miinalaisen epäillään liikkuneen Lapissa ennen katoamistaan. Poliisi epäilee, että hän joutui rikoksen uhriksi elokuun loppupuolella vuonna 2022. Mahdollinen tapahtumapaikka sijaitsee Muotkavaaran ja Tiurajärven alueella Muoniossa. Poliisi on tehnyt useita maasto- ja vesistöetsintöjä vuosina 2022–2026. Etsintöihin on osallistunut useita poliisilaitoksia. Lapin poliisilaitos on avustanut etsintöjä merkittävästi. Puolustusvoimat ja Rajavartiolaitos ovat antaneet etsintöihin virka-apua. Etsintöjä on tehty erityisesti Jerisjärven, Äkäsjärven, Äkäsjoen, Aakenuksentien ja Levikairantien alueilla. Viimeisimmät etsinnät tehtiin elokuun alussa Kittilän Tepaston alueella. Etsinnöissä tarkastettiin poliisin saamia vihjeitä. – Olemme tehneet vuosien aikana laajoja etsintöjä useilla alueilla Lapissa. Toivomme nyt erityisesti Muonion seudulla liikkuvien luonnossa liikkujien ap"
     },
     {
+      "title": "Poliisi jatkaa Myllypurossa tapahtuneen kahden bussin peräänajon tutkintaa",
+      "link": "https://poliisi.fi/-/poliisi-jatkaa-myllypurossa-tapahtuneen-kahden-bussin-peraanajon-tutkintaa",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-08-17T09:07:00+00:00",
+      "region": "",
+      "description": "Törmäys tapahtui, kun bussin kuljettaja törmäsi toisen, bussipysäkillä pysähdyksissä olleen bussin perään. Poliisin tietojen mukaan perään ajanut bussin kuljettaja ajoi noin 40 kilometrin tuntivauhtia. Poliisi, pelastuslaitos ja ensihoito saivat ilmoituksen tapahtumasta kello 13.55. Busseissa oli yhteensä noin 30 ihmistä. Pelastuslaitoksen mukaan 18 ihmistä kuljetettiin sairaalaan saamaan hoitoa. Poliisin tietojen mukaan yksi loukkaantuneista on perään ajaneen bussin kuljettaja. Poliisi ei ole toistaiseksi päässyt kuulemaan kuljettajaa. Häntä epäillään alustavasti törkeästä liikenneturvallisuuden vaarantamisesta. – Poliisi selvittää tapahtumien kulkua ja peräänajoon johtaneita syitä. Tutkinta jatkuu muun muassa osallisten kuulemisella, kertoo tutkinnanjohtaja, rikoskomisario Anssi Kauppinen. Poliisi tiedottaa tapauksesta tarvittaessa lisää, kun tutkinnassa on selvinnyt uusia asioita. ]]>"
+    },
+    {
       "title": "Poliisi pyytää havaintoja Helsingissä kadonneesta 27-vuotiaasta",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-helsingissa-kadonneesta-27-vuotiaasta",
       "source": "Helsingin poliisilaitos",
       "date": "2026-08-16T09:43:00+00:00",
       "region": "",
       "description": "18.8. Kello 13.14. Nainen on löytynyt. 16.8. Kello 12.43. Julkaistu tiedote kadonneesta. Poliisi ei epäile, että katoamiseen liittyisi rikosta. Päivitys 18.8. Päivitetty tiedotetta kauttaaltaan löytymisen jälkeen. ]]>"
+    },
+    {
+      "title": "Kahden bussin peräänajo Myllypurossa Helsingissä",
+      "link": "https://poliisi.fi/-/kahden-bussin-peraanajo-myllypurossa-helsingissa",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-08-15T11:24:00+00:00",
+      "region": "",
+      "description": "Kello 17.10: Kehä I:n liikenne kulkee jälleen normaalisti. Tätä uutista ei enää päivitettä. Kello 16.00: Poliisi muistuttaa onnettomuudessa mukana olleita tai silminnäkijöitä, että huolen ja ajatusten kanssa ei tarvitse jäädä yksin. Apua on tarjolla: Tukea helsinkiläisille kriisin hetkellä | Helsingin kaupunki Kello 15.58: Poliisi tutkii onnettomuutta alustavasti rikosnimikkeellä törkeä liikenneturvallisuuden vaarantaminen. Epäilty on perään ajaneen bussin kuljettaja. Kello 14.23: Alustavien tietojen mukaan bussi on ajanut toisen bussin perään. Kehä I:n liikenne Myllypurosta itään on poikki toistaiseksi. ]]>"
     },
     {
       "title": "Poliisi pyytää havaintoja kahden epäillyn törkeän pahoinpitelyn selvittämiseksi",
@@ -451,16 +603,24 @@
     }
   ],
   "sources": [
-    "Poliisi",
+    "Poliisi – RSS-hakemisto",
+    "Poliisi – uutiset",
     "Helsingin poliisilaitos",
+    "Keski-Suomen pelastuslaitos",
     "Ilmatieteen laitos",
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 533,
+  "newly_fetched": 558,
   "monitoring": [
     {
-      "source": "Poliisi",
+      "source": "Poliisi – RSS-hakemisto",
+      "status": "virhe: HTTP Error 403: Forbidden",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Poliisi – uutiset",
       "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
@@ -469,6 +629,12 @@
       "source": "Helsingin poliisilaitos",
       "status": "toimii",
       "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Keski-Suomen pelastuslaitos",
+      "status": "toimii",
+      "fetched": 25,
       "feeds_checked": 1
     },
     {
