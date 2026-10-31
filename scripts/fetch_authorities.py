@@ -6,9 +6,7 @@ from html.parser import HTMLParser
 ROOT=os.path.dirname(os.path.dirname(__file__))
 OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
 SOURCES=[
- ("Poliisi – RSS-hakemisto","https://poliisi.fi/rss-syotteet"),
- ("Poliisi – uutiset","https://poliisi.fi/ajankohtaista/"),
- ("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
  ("Keski-Suomen pelastuslaitos","https://www.sttinfo.fi/uutishuone/keski-suomen-hyvinvointialue?publisherId=69821063"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
@@ -39,7 +37,7 @@ def feed_items(raw,source):
  except ET.ParseError:return []
  result=[]
  if root.tag.lower().endswith("rss") or root.tag.lower().endswith("rdf"):
-  nodes=root.findall(".//item")
+  nodes=[n for n in root.iter() if n.tag.split("}")[-1]=="item"]
  else:nodes=root.findall("{http://www.w3.org/2005/Atom}entry")
  for n in nodes:
   title=html.unescape(text(n,["title","{http://www.w3.org/2005/Atom}title"]))
@@ -92,12 +90,14 @@ def main():
   fresh=[n for result in results for n in result[0]]
   monitoring=[{"source":source,"status":result[1],"fetched":len(result[0]),"feeds_checked":result[2]} for (source,_),result in zip(SOURCES,results)]
  now=dt.datetime.now(dt.timezone.utc);items={}
+ if not fresh:print("WARNING: no fresh feed entries; retaining previous valid data")
  for n in old+fresh:
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
   except ValueError:continue
   if published>now+dt.timedelta(hours=12):continue
-  if (now-published).days>90:continue
+  if (now-published).days>30:continue
   if not consumer_relevant(n):continue
+  if not n.get("date"):continue
   key=n["link"].split("?")[0].rstrip("/")
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
  ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
