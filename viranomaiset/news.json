@@ -2,22 +2,6 @@
   "updated": "2026-10-31T22:56:24.723099+00:00",
   "items": [
     {
-      "title": "Poliisi pyytää havaintoja Espoossa tapahtuneesta väkivallanteosta",
-      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-espoossa-tapahtuneesta-vakivallanteosta",
-      "source": "Poliisi",
-      "date": "2026-10-29T13:23:00+02:00",
-      "region": "Espoo, Uusimaa",
-      "description": "Länsi-Uudenmaan poliisi pyytää havaintoja Espoossa 26.–27. lokakuuta tapahtuneesta väkivallanteosta."
-    },
-    {
-      "title": "Poliisi pyytää havaintoja Seinäjoella tapahtuneesta liikenneonnettomuudesta",
-      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-seinajoella-tapahtuneesta-liikenneonnettomuudesta-1",
-      "source": "Poliisi",
-      "date": "2026-10-27T10:50:00+02:00",
-      "region": "Seinäjoki, Etelä-Pohjanmaa",
-      "description": "Poliisi selvittää liikenneonnettomuutta, jossa auto törmäsi polkupyörällä liikkuneeseen lapseen ja kuljettaja poistui paikalta."
-    },
-    {
       "title": "Yleistiedoksianto Liikenne- ja viestintäviraston liikennepalvelulain (320/2017) mukaisesta päätöksestä (Tasuri Oy)",
       "link": "https://www.traficom.fi/fi/uutiset/yleistiedoksianto-liikenne-ja-viestintaviraston-liikennepalvelulain-3202017-mukaisesta-paatoksesta-tasuri-oy?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
       "source": "Traficom",
@@ -58,6 +42,14 @@
       "description": "Osa sähköisistä palveluista Oma asiointi -palvelussa on pois käytöstä sunnuntaina 1.11. klo 8–12 huoltotöiden vuoksi."
     },
     {
+      "title": "Poliisi pyytää havaintoja Espoossa tapahtuneesta väkivallanteosta",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-espoossa-tapahtuneesta-vakivallanteosta",
+      "source": "Poliisi",
+      "date": "2026-10-29T13:23:00+02:00",
+      "region": "Espoo, Uusimaa",
+      "description": "Länsi-Uudenmaan poliisi pyytää havaintoja Espoossa 26.–27. lokakuuta tapahtuneesta väkivallanteosta."
+    },
+    {
       "title": "Traficomin selvitys antaa keinoja arvioida valtakunnallisesti tärkeitä lentoasemia",
       "link": "https://www.traficom.fi/fi/uutiset/traficomin-selvitys-antaa-keinoja-arvioida-valtakunnallisesti-tarkeita-lentoasemia?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
       "source": "Traficom",
@@ -80,6 +72,14 @@
       "date": "2026-10-29T08:10:55+00:00",
       "region": "",
       "description": "Traficom uusi opas tukee raideliikennealan toimijoita tapausriskiarvioinnin käyttöönotossa ja soveltamisessa."
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Seinäjoella tapahtuneesta liikenneonnettomuudesta",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-seinajoella-tapahtuneesta-liikenneonnettomuudesta-1",
+      "source": "Poliisi",
+      "date": "2026-10-27T10:50:00+02:00",
+      "region": "Seinäjoki, Etelä-Pohjanmaa",
+      "description": "Poliisi selvittää liikenneonnettomuutta, jossa auto törmäsi polkupyörällä liikkuneeseen lapseen ja kuljettaja poistui paikalta."
     },
     {
       "title": "Kasvihuonekaasujen pitoisuudet ilmakehässä olivat ennätyksellisen korkeita vuonna 2025",
@@ -168,6 +168,38 @@
       "date": "2026-10-19T05:57:53+00:00",
       "region": "",
       "description": "Traficom pyytää lausuntoja määräysluonnokseen auton ja sen perävaunun rakenteiden muuttamisesta. Tavoitteena on päivittää nykyinen ns. rakennemuutosmääräys ensi kevään aikana. Lausuntoja voi jättää tämän vuoden loppuun saakka."
+    },
+    {
+      "title": "Vakava liikenneonnettomuus Taipalsaarella – poliisi pyytää havaintoja",
+      "link": "https://poliisi.fi/-/yksi-loukkaantui-vakavasti-liikenneonnettomuudessa-taipalsaarella-poliisi-pyytaa-silminnakijahavaintoja",
+      "source": "Poliisi",
+      "date": "2026-10-16T12:57:00+03:00",
+      "region": "Taipalsaari, Etelä-Karjala",
+      "description": "Henkilöauton kuljettaja loukkaantui vakavasti ulosajossa 16.10. Poliisi pyytää mahdollisia silminnäkijöitä kertomaan havainnoistaan."
+    },
+    {
+      "title": "Poliisi pyytää vihjeitä Helsingissä kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-vihjeita-helsingissa-kadonneesta-miehesta",
+      "source": "Poliisi",
+      "date": "2026-10-15T13:41:00+03:00",
+      "region": "Helsinki, Uusimaa",
+      "description": "Helsingin poliisi pyysi havaintoja 12.10. kadonneesta miehestä ja tämän mahdollisesti käyttämästä autosta. Tarkista ajantasainen tilanne alkuperäisestä tiedotteesta."
+    },
+    {
+      "title": "Kadonnut mies Loviisassa – poliisi pyysi havaintoja",
+      "link": "https://poliisi.fi/-/kadonnut-mies-loviisassa",
+      "source": "Poliisi",
+      "date": "2026-10-13T20:49:00+03:00",
+      "region": "Loviisa, Uusimaa",
+      "description": "Itä-Uudenmaan poliisi julkaisi 13.10. katoamistiedotteen Loviisasta. Kyseessä on arkistoitu, mahdollisesti päivittynyt uutinen; tarkista tilanne poliisin alkuperäisestä tiedotteesta."
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Seinäjoen liikenneonnettomuudesta",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-seinajoella-tapahtuneesta-liikenneonnettomuudesta",
+      "source": "Poliisi",
+      "date": "2026-10-13T13:15:00+03:00",
+      "region": "Seinäjoki, Etelä-Pohjanmaa",
+      "description": "Poliisi selvittää 6.10. tapahtunutta tilannetta, jossa pakettiauto osui tietyömaalla liikennettä ohjanneeseen henkilöön. Kuljettajaa ja silminnäkijöitä pyydetään ilmoittautumaan."
     }
   ],
   "sources": [
