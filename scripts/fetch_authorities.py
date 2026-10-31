@@ -9,6 +9,7 @@ SOURCES=[
  ("Poliisi","https://poliisi.fi/rss-syotteet"),
  ("Valtioneuvosto","https://valtioneuvosto.fi/staattiset-feedit"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
+ ("Traficom","https://www.traficom.fi/feed/rss/fi"),
 ]
 class Links(HTMLParser):
  def __init__(self): super().__init__();self.links=[]
@@ -43,9 +44,11 @@ def feed_items(raw,source):
   if not link:
    for a in n.findall("{http://www.w3.org/2005/Atom}link"):
     if a.get("rel","alternate")=="alternate":link=a.get("href","");break
+  description=html.unescape(re.sub(r"<[^>]+>"," ",text(n,["description","{http://www.w3.org/2005/Atom}summary","{http://www.w3.org/2005/Atom}content"])))
+  description=" ".join(description.split())[:900]
   published=parse_date(text(n,["pubDate","{http://purl.org/dc/elements/1.1/}date","{http://www.w3.org/2005/Atom}published","{http://www.w3.org/2005/Atom}updated"]))
   if title and link and link.startswith("http"):
-   result.append({"title":title,"link":link,"source":source,"date":published,"region":""})
+   result.append({"title":title,"link":link,"source":source,"date":published,"region":"","description":description})
  return result
 def collect(source,page):
  try:raw,url=get(page)
@@ -82,7 +85,7 @@ def main():
   except ValueError:continue
   if (now-published).days>14:continue
   key=n["link"].split("?")[0].rstrip("/")
-  if key not in items or (n.get("date") or "")>(items[key].get("date") or ""):items[key]=n
+  if key not in items or (n.get("date") or "")>(items[key].get("date") or "") or (not items[key].get("description") and n.get("description")):items[key]=n
  ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
  with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring},f,ensure_ascii=False,indent=2)
