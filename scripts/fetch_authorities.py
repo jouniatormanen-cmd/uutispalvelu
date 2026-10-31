@@ -17,7 +17,7 @@ class Links(HTMLParser):
   d=dict(attrs);u=d.get("href","")
   if u and (re.search(r"rss|feed|\.xml|atom",u,re.I) or "rss" in d.get("type","").lower()):self.links.append(u)
 def get(url):
- req=urllib.request.Request(url,headers={"User-Agent":"Viranomaisuutiset/1.0 (public RSS reader)","Accept":"application/rss+xml,application/atom+xml,application/xml,text/xml,text/html;q=0.8"})
+ req=urllib.request.Request(url,headers={"User-Agent":"Tilanneuutiset/1.0 (public RSS reader)","Accept":"application/rss+xml,application/atom+xml,application/xml,text/xml,text/html;q=0.8"})
  with urllib.request.urlopen(req,timeout=15) as response:return response.read(2500000),response.geturl()
 def parse_date(s):
  if not s:return None
@@ -49,9 +49,9 @@ def feed_items(raw,source):
  return result
 def collect(source,page):
  try:raw,url=get(page)
- except Exception as e:print(source,"listing failed:",e);return []
+ except Exception as e:print(source,"listing failed:",e);return [],"virhe: "+str(e)[:160],0
  direct=feed_items(raw,source)
- if direct:return direct
+ if direct:return direct,"toimii",1
  parser=Links();parser.feed(raw.decode("utf-8","replace"))
  candidates=[]
  for href in parser.links:
@@ -75,7 +75,7 @@ def main():
  except (OSError,ValueError):pass
  with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
   futures=[pool.submit(collect,*s) for s in SOURCES]
-  fresh=[n for f in futures for n in f.result()]
+  results=[f.result() for f in futures]\n  fresh=[n for result in results for n in result[0]]\n  monitoring=[{"source":source,"status":result[1],"fetched":len(result[0]),"feeds_checked":result[2]} for (source,_),result in zip(SOURCES,results)]
  now=dt.datetime.now(dt.timezone.utc);items={}
  for n in old+fresh:
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
@@ -85,6 +85,6 @@ def main():
   if key not in items or (n.get("date") or "")>(items[key].get("date") or ""):items[key]=n
  ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
- with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh)},f,ensure_ascii=False,indent=2)
+ with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring},f,ensure_ascii=False,indent=2)
  print("Saved",len(ordered),"authority headlines; new fetched",len(fresh))
 if __name__=="__main__":main()
