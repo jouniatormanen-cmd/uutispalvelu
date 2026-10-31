@@ -10,6 +10,11 @@ SOURCES=[
  ("Valtioneuvosto","https://valtioneuvosto.fi/staattiset-feedit"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
  ("Traficom","https://www.traficom.fi/feed/rss/fi"),
+ ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
+ ("Traficom – raideliikenne","https://www.traficom.fi/feed/rss/fi/68"),
+ ("Traficom – kyberturvallisuus","https://www.traficom.fi/feed/rss/fi/117"),
+ ("Traficom – merenkulku","https://www.traficom.fi/feed/rss/fi/254"),
+ ("Traficom – ilmailu","https://www.traficom.fi/feed/rss/fi/23"),
 ]
 class Links(HTMLParser):
  def __init__(self): super().__init__();self.links=[]
@@ -70,22 +75,24 @@ def collect(source,page):
    try:out.extend(feed_items(f.result()[0],source))
    except Exception:pass
  print(source,":",len(out),"headlines from",len(candidates),"candidate feeds")
- return out
+ return out,("toimii" if out else "syötteistä ei saatu uutisia"),len(candidates)
 def main():
  old=[]
  try:
   with open(OUTPUT,encoding="utf-8") as f:old=json.load(f).get("items",[])
  except (OSError,ValueError):pass
- with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+ with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
   futures=[pool.submit(collect,*s) for s in SOURCES]
-  results=[f.result() for f in futures]\n  fresh=[n for result in results for n in result[0]]\n  monitoring=[{"source":source,"status":result[1],"fetched":len(result[0]),"feeds_checked":result[2]} for (source,_),result in zip(SOURCES,results)]
+  results=[f.result() for f in futures]
+  fresh=[n for result in results for n in result[0]]
+  monitoring=[{"source":source,"status":result[1],"fetched":len(result[0]),"feeds_checked":result[2]} for (source,_),result in zip(SOURCES,results)]
  now=dt.datetime.now(dt.timezone.utc);items={}
  for n in old+fresh:
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
   except ValueError:continue
   if (now-published).days>14:continue
   key=n["link"].split("?")[0].rstrip("/")
-  if key not in items or (n.get("date") or "")>(items[key].get("date") or "") or (not items[key].get("description") and n.get("description")):items[key]=n
+  if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
  ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
  with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring},f,ensure_ascii=False,indent=2)
