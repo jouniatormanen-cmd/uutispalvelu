@@ -8,7 +8,7 @@ OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
 SOURCES=[
  ("Poliisi","https://poliisi.fi/rss-syotteet"),
  ("Valtioneuvosto","https://valtioneuvosto.fi/staattiset-feedit"),
- ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/medialle"),
+ ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
 ]
 class Links(HTMLParser):
  def __init__(self): super().__init__();self.links=[]
