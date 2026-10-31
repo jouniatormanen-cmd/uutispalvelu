@@ -7,6 +7,7 @@ ROOT=os.path.dirname(os.path.dirname(__file__))
 OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
 SOURCES=[
  ("Poliisi","https://poliisi.fi/rss-syotteet"),
+ ("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
  ("Poliisi – uutiset","https://poliisi.fi/uutishuone"),
  ("Valtioneuvosto","https://valtioneuvosto.fi/staattiset-feedit"),
  ("Valtioneuvosto – tiedotteet","https://valtioneuvosto.fi/tiedotteet"),
@@ -79,7 +80,7 @@ def collect(source,page):
  print(source,":",len(out),"headlines from",len(candidates),"candidate feeds")
  return out,("toimii" if out else "syötteistä ei saatu uutisia"),len(candidates)
 # Prioritise concrete events and practical notices affecting residents.
-RELEVANT=re.compile(r"onnettomuus|kolari|tulipalo|maastopalo|palo |pelast|poliisi etsii|kadonnut|etsintä|ryöstö|murto|varkau|pahoinpitely|väkival|ampumi|liikennehäi|tie sulj|tiesul|tietyö|kiertotie|ruuhka|junaliiken|liikennekatko|sähkökatko|vesikatko|vedenkeitt|juomaves|myrsky|säävaroit|varoitus|tulva|liukka|pakkan|helle|takaisinveto|tuotevirhe|huijaus|petos|tietomurto|häiriö|katkos|palvelukatko|epidemia|tartunta|terveysriski|saastun|vaaratiedote|evaku|lakko|peruuntu|peruttu|suljettu|avataan|muuttuu|muutos|hinnat|hintojen|etuuden|etuudet|asumistuki|toimeentulotuki|työttömyys|kela",re.I)
+RELEVANT=re.compile(r"poliisi|rikos|ratti|ylinopeus|liikennevalvonta|kadonnut|löytynyt|etsii|havainto|operaati|tehtävä|kiinniotto|epäil|tutki|onnettomuus|kolari|tulipalo|maastopalo|palo |pelast|poliisi etsii|kadonnut|etsintä|ryöstö|murto|varkau|pahoinpitely|väkival|ampumi|liikennehäi|tie sulj|tiesul|tietyö|kiertotie|ruuhka|junaliiken|liikennekatko|sähkökatko|vesikatko|vedenkeitt|juomaves|myrsky|säävaroit|varoitus|tulva|liukka|pakkan|helle|takaisinveto|tuotevirhe|huijaus|petos|tietomurto|häiriö|katkos|palvelukatko|epidemia|tartunta|terveysriski|saastun|vaaratiedote|evaku|lakko|peruuntu|peruttu|suljettu|avataan|muuttuu|muutos|hinnat|hintojen|etuuden|etuudet|asumistuki|toimeentulotuki|työttömyys|kela",re.I)
 EXCLUDE=re.compile(r"lakiesitys|lausuntokierros|lausunto |lausunto:|hallitus esittää|ministeri tapasi|ministeri osallist|nimitys|nimitettiin|työryhmä|strategia|selonteko|valiokunta|eduskunnan käsittely|asetusehdotus|budjettiriihi|virkanimitys|seminaar|konferenssi|vuosikertomus|tutkimushanke",re.I)
 def consumer_relevant(n):
  title=n.get("title","")
