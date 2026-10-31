@@ -8,16 +8,9 @@ OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
 SOURCES=[
  ("Poliisi","https://poliisi.fi/rss-syotteet"),
  ("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
- ("Poliisi – uutiset","https://poliisi.fi/ajankohtaista/"),
- ("Pelastuslaitosten uutiset","https://www.pelastuslaitokset.fi/uutiset/"),
- ("Keski-Suomen pelastuslaitos","https://www.sttinfo.fi/uutishuone/keski-suomen-hyvinvointialue?publisherId=69821063"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
- ("Traficom","https://www.traficom.fi/feed/rss/fi"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
- ("Traficom – raideliikenne","https://www.traficom.fi/feed/rss/fi/68"),
  ("Traficom – kyberturvallisuus","https://www.traficom.fi/feed/rss/fi/117"),
- ("Traficom – merenkulku","https://www.traficom.fi/feed/rss/fi/254"),
- ("Traficom – ilmailu","https://www.traficom.fi/feed/rss/fi/23"),
 ]
 class Links(HTMLParser):
  def __init__(self): super().__init__();self.links=[]
