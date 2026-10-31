@@ -10,6 +10,7 @@ SOURCES=[
  ("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
  ("Poliisi – uutiset","https://poliisi.fi/ajankohtaista/"),
  ("Pelastuslaitosten uutiset","https://www.pelastuslaitokset.fi/uutiset/"),
+ ("Keski-Suomen pelastuslaitos","https://www.sttinfo.fi/uutishuone/keski-suomen-hyvinvointialue?publisherId=69821063"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
  ("Traficom","https://www.traficom.fi/feed/rss/fi"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
