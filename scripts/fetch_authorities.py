@@ -177,6 +177,29 @@ def consumer_relevant(n):
   return bool(MEDIA_EVENTS.search(title)) and not bool(MEDIA_EXCLUDE.search(title))
  return bool(RELEVANT.search(title)) and not bool(EXCLUDE.search(title))
 
+def same_event(a,b):
+ # Conservative cross-source deduplication: only near-identical headlines
+ # published within 24 hours. Distinct developments remain separate.
+ if a.get("source")==b.get("source"):return False
+ try:
+  ta=dt.datetime.fromisoformat(a["date"])
+  tb=dt.datetime.fromisoformat(b["date"])
+  if abs((ta-tb).total_seconds())>86400:return False
+ except (KeyError,TypeError,ValueError):return False
+ def tokens(item):
+  words=re.findall(r"[^\\W_]+",item.get("title","").casefold(),re.UNICODE)
+  return set(w for w in words if len(w)>=4)
+ x,y=tokens(a),tokens(b)
+ if len(x)<5 or len(y)<5:return False
+ common=len(x&y)
+ return common>=5 and common/min(len(x),len(y))>=0.85 and common/max(len(x),len(y))>=0.70
+
+def remove_cross_source_duplicates(ordered):
+ kept=[]
+ for item in ordered:
+  if not any(same_event(item,prior) for prior in kept):kept.append(item)
+ return kept
+
 def main():
  old=[]
  try:
@@ -213,7 +236,7 @@ def main():
   if not n.get("date"):continue
   key=n["link"].split("?")[0].rstrip("/")
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
- ordered=sorted((enrich_location(n) for n in items.values()),key=lambda n:n.get("date") or "",reverse=True)
+ ordered=remove_cross_source_duplicates(sorted((enrich_location(n) for n in items.values()),key=lambda n:n.get("date") or "",reverse=True))
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
  with open(ARCHIVE,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered},f,ensure_ascii=False,indent=2)
  recent=[n for n in ordered if dt.timedelta(0)<=now-dt.datetime.fromisoformat(n["date"])<=dt.timedelta(days=30)]
