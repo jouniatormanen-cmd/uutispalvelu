@@ -127,6 +127,21 @@ def enrich_location(item):
   item.setdefault("province","")
  return item
 
+# Identify explicitly mentioned locations, not the publisher's headquarters.
+LOCAL_PLACES={"Uusimaa":"Porvoo Sipoo Loviisa Askola Lapinjärvi Myrskylä Pukkila Helsinki Espoo Vantaa Kerava Tuusula Järvenpää","Varsinais-Suomi":"Turku Salo Raisio Naantali","Pirkanmaa":"Tampere Nokia Kangasala","Päijät-Häme":"Lahti Heinola","Kymenlaakso":"Kotka Kouvola Hamina","Keski-Suomi":"Jyväskylä Jämsä","Pohjois-Pohjanmaa":"Oulu Raahe","Lappi":"Rovaniemi Kemi Tornio"}
+def add_area(n):
+ if n.get("municipality"):return n
+ headline=n.get("title","")
+ matches=[]
+ for province,names in LOCAL_PLACES.items():
+  for name in names.split():
+   if re.search(r"(?<!\\w)"+re.escape(name)+r"(?:ssa|ssä|sta|stä|lla|llä|lta|ltä|n)?(?!\\w)",headline,re.I):
+    matches.append((name,province))
+ if len(matches)==1:
+  n["municipality"],n["province"]=matches[0]
+  n["region"]=matches[0][0]
+ return n
+
 def consumer_relevant(n):
  title=n.get("title","")
  return bool(RELEVANT.search(title)) and not bool(EXCLUDE.search(title))
