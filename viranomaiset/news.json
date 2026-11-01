@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T10:44:15.195947+00:00",
+  "updated": "2026-11-01T11:15:03.963661+00:00",
   "items": [
     {
       "title": "Epäiltyjä rattijuopumuksia lauantaina Outokummussa ja Kiteellä",
@@ -1394,7 +1394,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 708,
+  "newly_fetched": 908,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1416,15 +1416,15 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1520,11 +1520,11 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
+      "Hämeen",
+      "Itä-Suomen",
+      "Itä-Uudenmaan"
     ],
     "police_missing": [
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
