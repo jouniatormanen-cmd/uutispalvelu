@@ -91,6 +91,42 @@ def collect(source,page):
 # Prioritise concrete events and practical notices affecting residents.
 RELEVANT=re.compile(r"rakennuspalo|savuhavainto|palohälytys|ulosajo|peräänajo|törmäys|törmäsi|puukotus|öljyvahinko|kaasuvuoto|rikos|ratti|ylinopeus|liikennevalvonta|kadonnut|löytynyt|etsii|havainto|operaati|kiinniotto|epäil|onnettomuus|kolari|tulipalo|maastopalo|palo |pelast|poliisi etsii|kadonnut|etsintä|ryöstö|murto|varkau|pahoinpitely|väkival|ampumi|liikennehäi|tie sulj|tiesul|tietyö|kiertotie|ruuhka|junaliiken|liikennekatko|sähkökatko|vesikatko|vedenkeitt|juomaves|myrsky|säävaroit|varoitus|tulva|liukka|pakkan|helle|takaisinveto|tuotevirhe|huijaus|petos|tietomurto|häiriö|katkos|palvelukatko|epidemia|tartunta|terveysriski|saastun|vaaratiedote|evaku|lakko|peruuntu|peruttu|suljettu|avataan|muuttuu|muutos|hinnat|hintojen|etuuden|etuudet|asumistuki|toimeentulotuki|työttömyys|kela",re.I)
 EXCLUDE=re.compile(r"webinaari|vaalitavoitteet|yleistiedoksianto|kuulutus|hankintailmoitus|huutokauppa|lakiesitys|lausuntokierros|lausunto |lausunto:|hallitus esittää|ministeri tapasi|ministeri osallist|nimitys|nimitettiin|työryhmä|strategia|selonteko|valiokunta|eduskunnan käsittely|asetusehdotus|budjettiriihi|virkanimitys|seminaar|konferenssi|vuosikertomus|tutkimushanke",re.I)
+# Enrich municipal metadata without guessing locations from the publisher's name.
+MUNICIPALITIES = {
+ "Uusimaa":["Askola","Espoo","Hanko","Helsinki","Hyvinkää","Inkoo","Järvenpää","Karkkila","Kauniainen","Kerava","Kirkkonummi","Lapinjärvi","Lohja","Loviisa","Myrskylä","Mäntsälä","Nurmijärvi","Pornainen","Porvoo","Pukkila","Raasepori","Sipoo","Siuntio","Tuusula","Vantaa","Vihti"],
+ "Varsinais-Suomi":["Turku","Kaarina","Raisio","Naantali","Salo","Parainen","Lieto","Loimaa","Uusikaupunki"],
+ "Pirkanmaa":["Tampere","Nokia","Ylöjärvi","Kangasala","Lempäälä","Pirkkala","Valkeakoski","Sastamala"],
+ "Päijät-Häme":["Lahti","Hollola","Heinola","Orimattila"],
+ "Kanta-Häme":["Hämeenlinna","Riihimäki","Forssa"],
+ "Kymenlaakso":["Kotka","Kouvola","Hamina"],
+ "Etelä-Karjala":["Lappeenranta","Imatra"],
+ "Etelä-Savo":["Mikkeli","Savonlinna","Pieksämäki"],
+ "Pohjois-Savo":["Kuopio","Iisalmi","Varkaus"],
+ "Pohjois-Karjala":["Joensuu","Lieksa","Nurmes"],
+ "Keski-Suomi":["Jyväskylä","Jämsä","Äänekoski"],
+ "Etelä-Pohjanmaa":["Seinäjoki","Kauhava","Kurikka"],
+ "Pohjanmaa":["Vaasa","Mustasaari","Pietarsaari"],
+ "Keski-Pohjanmaa":["Kokkola","Kannus"],
+ "Pohjois-Pohjanmaa":["Oulu","Raahe","Kuusamo","Ylivieska"],
+ "Kainuu":["Kajaani","Sotkamo","Kuhmo"],
+ "Lappi":["Rovaniemi","Kemi","Tornio","Kemijärvi","Inari"],
+ "Satakunta":["Pori","Rauma","Ulvila"],
+ "Ahvenanmaa":["Maarianhamina"],
+}
+# Only title and description are used: publisher coverage does not imply event location.
+PLACE_PATTERNS = [(place,province,re.compile(r"(?<!\\w)"+re.escape(place)+r"(?:ssa|ssä|sta|stä|lla|llä|lta|ltä|n|an|en|in|on|un|yn|een|iin|lle)?(?!\\w)",re.I)) for province,places in MUNICIPALITIES.items() for place in places]
+def enrich_location(item):
+ if item.get("municipality"):return item
+ content=" ".join((item.get("title",""),item.get("description","")))
+ found=[(place,province) for place,province,pattern in PLACE_PATTERNS if pattern.search(content)]
+ if len(found)==1:
+  item["municipality"],item["province"]=found[0]
+  item["region"]=found[0][0]
+ elif not found:
+  item.setdefault("municipality","")
+  item.setdefault("province","")
+ return item
+
 def consumer_relevant(n):
  title=n.get("title","")
  return bool(RELEVANT.search(title)) and not bool(EXCLUDE.search(title))
@@ -128,7 +164,7 @@ def main():
   if not n.get("date"):continue
   key=n["link"].split("?")[0].rstrip("/")
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
- ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
+ ordered=sorted((enrich_location(n) for n in items.values()),key=lambda n:n.get("date") or "",reverse=True)[:1500]
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
  with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring,"coverage":coverage},f,ensure_ascii=False,indent=2)
  print("Saved",len(ordered),"authority headlines; new fetched",len(fresh))
