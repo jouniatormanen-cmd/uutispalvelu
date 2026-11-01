@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T14:42:57.906979+00:00",
+  "updated": "2026-11-01T15:15:38.443950+00:00",
   "items": [
     {
       "title": "Rattijuopumuksia viikonlopun aikana Pohjois-Savossa.",
@@ -1232,6 +1232,16 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Pedersöressä kadonnut mies on löytynyt menehtyneenä",
+      "link": "https://poliisi.fi/-/pedersoressa-kadonnut-mies-on-loytynyt-menehtyneena",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-12T06:42:00+00:00",
+      "region": "",
+      "description": "Pedersöressä kadonnut mies on löytynyt menehtyneenä",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Oulun poliisilaitoksen alueella rattijuoppoja ja hirvikolareita",
       "link": "https://poliisi.fi/-/oulun-poliisilaitoksen-alueella-rattijuoppoja-ja-hirvikolareita",
       "source": "Oulun poliisilaitos",
@@ -1352,6 +1362,16 @@
       "province": "Satakunta"
     },
     {
+      "title": "Poliisi tutkii törkeää huumausainerikosta Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-torkeaa-huumausainerikosta-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-08T12:42:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii törkeää huumausainerikosta Seinäjoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi pyytää havaintoja Kuopiossa kauppakeskus Matkuksen läheisyydessä naisia ahdistelleesta henkilöstä",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kuopiossa-kauppakeskus-matkuksen-laheisyydessa-naisia-ahdistelleesta-henkilosta",
       "source": "Itä-Suomen poliisilaitos",
@@ -1360,6 +1380,16 @@
       "description": "Poliisi pyytää havaintoja Kuopiossa kauppakeskus Matkuksen läheisyydessä naisia ahdistelleesta henkilöstä",
       "municipality": "Kuopio",
       "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Poliisi pyytää edelleen havaintoja Pedersören Lappforsissa kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-edelleen-havaintoja-pedersoren-lappforsissa-kadonneesta-miehesta",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-08T11:05:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää edelleen havaintoja Pedersören Lappforsissa kadonneesta miehestä",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi tutkii kahta vakavaa väkivallantekoa – epäillyt vangittu",
@@ -1583,10 +1613,9 @@
     "Pirkanmaan pelastuslaitos",
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus",
-    "Ilta-Sanomat",
-    "Iltalehti"
+    "Ilta-Sanomat"
   ],
-  "newly_fetched": 1128,
+  "newly_fetched": 1408,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1614,21 +1643,21 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1638,9 +1667,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1650,21 +1679,21 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Pohjanmaan poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
-      "source": "Poliisihallitus",
+      "source": "Pohjanmaan poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Poliisihallitus",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1720,15 +1749,15 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Oulun"
-    ],
-    "police_missing": [
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin",
       "Lounais-Suomen",
+      "Pohjanmaan"
+    ],
+    "police_missing": [
+      "Lapin",
       "Länsi-Uudenmaan",
-      "Pohjanmaan",
+      "Oulun",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -1760,7 +1789,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-02T14:42:57.906979+00:00",
+  "window_start": "2026-10-02T15:15:38.443950+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -1773,7 +1802,7 @@
     "Lounais-Suomen poliisilaitos": 17,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 16,
-    "Pohjanmaan poliisilaitos": 0,
+    "Pohjanmaan poliisilaitos": 3,
     "Poliisihallitus": 1,
     "Sisä-Suomen poliisilaitos": 10,
     "Keski-Suomen pelastuslaitos": 21,
@@ -1782,7 +1811,6 @@
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 1,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 7,
-    "Iltalehti": 1
+    "Ilta-Sanomat": 7
   }
 }

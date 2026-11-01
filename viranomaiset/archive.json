@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T14:42:57.906979+00:00",
+  "updated": "2026-11-01T15:15:38.443950+00:00",
   "items": [
     {
       "title": "Rattijuopumuksia viikonlopun aikana Pohjois-Savossa.",
@@ -1232,6 +1232,16 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Pedersöressä kadonnut mies on löytynyt menehtyneenä",
+      "link": "https://poliisi.fi/-/pedersoressa-kadonnut-mies-on-loytynyt-menehtyneena",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-12T06:42:00+00:00",
+      "region": "",
+      "description": "Pedersöressä kadonnut mies on löytynyt menehtyneenä",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Oulun poliisilaitoksen alueella rattijuoppoja ja hirvikolareita",
       "link": "https://poliisi.fi/-/oulun-poliisilaitoksen-alueella-rattijuoppoja-ja-hirvikolareita",
       "source": "Oulun poliisilaitos",
@@ -1352,6 +1362,16 @@
       "province": "Satakunta"
     },
     {
+      "title": "Poliisi tutkii törkeää huumausainerikosta Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-torkeaa-huumausainerikosta-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-08T12:42:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii törkeää huumausainerikosta Seinäjoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi pyytää havaintoja Kuopiossa kauppakeskus Matkuksen läheisyydessä naisia ahdistelleesta henkilöstä",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kuopiossa-kauppakeskus-matkuksen-laheisyydessa-naisia-ahdistelleesta-henkilosta",
       "source": "Itä-Suomen poliisilaitos",
@@ -1360,6 +1380,16 @@
       "description": "Poliisi pyytää havaintoja Kuopiossa kauppakeskus Matkuksen läheisyydessä naisia ahdistelleesta henkilöstä",
       "municipality": "Kuopio",
       "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Poliisi pyytää edelleen havaintoja Pedersören Lappforsissa kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-edelleen-havaintoja-pedersoren-lappforsissa-kadonneesta-miehesta",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-08T11:05:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää edelleen havaintoja Pedersören Lappforsissa kadonneesta miehestä",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi tutkii kahta vakavaa väkivallantekoa – epäillyt vangittu",
@@ -1602,12 +1632,52 @@
       "province": ""
     },
     {
+      "title": "Kadonnut henkilö Pedersören kunnassa",
+      "link": "https://poliisi.fi/-/kadonnut-henkilo-pedersoren-kunnassa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-01T22:44:00+00:00",
+      "region": "",
+      "description": "Kadonnut henkilö Pedersören kunnassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Keskusrikospoliisin esitutkinta kolmeen törkeään ihmiskauppaan liittyen on valmistunut",
       "link": "https://poliisi.fi/-/keskusrikospoliisin-esitutkinta-kolmeen-torkeaan-ihmiskauppaan-liittyen-on-valmistunut",
       "source": "Keskusrikospoliisi",
       "date": "2026-10-01T11:38:00+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi selvittää Vaasassa nuorten keskuudessa suunniteltua tappelutapahtumaa – poliisi kannustaa ilmoittamaan väkivallan uhasta ajoissa",
+      "link": "https://poliisi.fi/-/poliisi-selvittaa-vaasassa-nuorten-keskuudessa-suunniteltua-tappelutapahtumaa-poliisi-kannustaa-ilmoittamaan-vakivallan-uhasta-ajoissa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-10-01T10:49:00+00:00",
+      "region": "Vaasa",
+      "description": "Poliisi selvittää Vaasassa nuorten keskuudessa suunniteltua tappelutapahtumaa – poliisi kannustaa ilmoittamaan väkivallan uhasta ajoissa",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
+    },
+    {
+      "title": "Seksuaalirikossarjan esitutkinta on valmistunut",
+      "link": "https://poliisi.fi/-/seksuaalirikossarjan-esitutkinta-on-valmistunut",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-30T12:30:00+00:00",
+      "region": "",
+      "description": "Seksuaalirikossarjan esitutkinta on valmistunut",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Yksi ihminen kuoli rakennuspalossa Mynämäellä",
+      "link": "https://poliisi.fi/-/yksi-ihminen-kuoli-rakennuspalossa-mynamaella",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-30T09:17:00+00:00",
+      "region": "",
+      "description": "Yksi ihminen kuoli rakennuspalossa Mynämäellä",
       "municipality": "",
       "province": ""
     },
@@ -1622,6 +1692,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi jatkaa Isonkyrön väkivaltarikoksen tutkintaa",
+      "link": "https://poliisi.fi/-/poliisi-jatkaa-isonkyron-vakivaltarikoksen-tutkintaa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-30T07:49:00+00:00",
+      "region": "",
+      "description": "Poliisi jatkaa Isonkyrön väkivaltarikoksen tutkintaa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisin palvelupäivystys on poikkeuksellisesti suljettu 14.10. Torniossa",
       "link": "https://poliisi.fi/-/poliisin-palvelupaivystys-on-poikkeuksellisesti-suljettu-14.10.-torniossa",
       "source": "Lapin poliisilaitos",
@@ -1630,6 +1710,16 @@
       "description": "Poliisin palvelupäivystys on poikkeuksellisesti suljettu 14.10. Torniossa",
       "municipality": "Tornio",
       "province": "Lappi"
+    },
+    {
+      "title": "Poliisi selvittää väkivaltarikosta Isossakyrössä",
+      "link": "https://poliisi.fi/-/poliisi-selvittaa-vakivaltarikosta-isossakyrossa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-29T18:19:00+00:00",
+      "region": "",
+      "description": "Poliisi selvittää väkivaltarikosta Isossakyrössä",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Toinen Kuopion henkirikoksen epäillyistä vapautettu",
@@ -1652,6 +1742,26 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Kaustisella kadonnut mies on löytynyt menehtyneenä",
+      "link": "https://poliisi.fi/-/kaustisella-kadonnut-mies-on-loytynyt-menehtyneena",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-29T07:42:00+00:00",
+      "region": "",
+      "description": "Kaustisella kadonnut mies on löytynyt menehtyneenä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi esittää Naantalin epäiltyä ampujaa vangittavaksi",
+      "link": "https://poliisi.fi/-/poliisi-esittaa-naantalin-epailtya-ampujaa-vangittavaksi",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-29T06:08:00+00:00",
+      "region": "Naantali",
+      "description": "Poliisi esittää Naantalin epäiltyä ampujaa vangittavaksi",
+      "municipality": "Naantali",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Sotkamosta löytynyt moottorivene",
       "link": "https://poliisi.fi/-/sotkamosta-loytynyt-moottorivene",
       "source": "Oulun poliisilaitos",
@@ -1670,6 +1780,16 @@
       "description": "Poliisi tutkii epäiltyjä tuhopolttoja Kajaanissa",
       "municipality": "Kajaani",
       "province": "Kainuu"
+    },
+    {
+      "title": "Henkilöauton kuljettaja kuoli ulosajossa Salossa",
+      "link": "https://poliisi.fi/-/henkiloauton-kuljettaja-kuoli-ulosajossa-salossa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-28T08:25:00+00:00",
+      "region": "Salo",
+      "description": "Henkilöauton kuljettaja kuoli ulosajossa Salossa",
+      "municipality": "Salo",
+      "province": "Varsinais-Suomi"
     },
     {
       "title": "Poliisi etsii veden varaan joutunutta henkilöä",
@@ -1702,6 +1822,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi on ottanut kiinni neljä henkilöä Naantalin ampumistapaukseen liittyen",
+      "link": "https://poliisi.fi/-/poliisi-on-ottanut-kiinni-nelja-henkiloa-naantalin-ampumistapaukseen-liittyen",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-27T13:06:00+00:00",
+      "region": "Naantali",
+      "description": "Poliisi on ottanut kiinni neljä henkilöä Naantalin ampumistapaukseen liittyen",
+      "municipality": "Naantali",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Kaksi henkilöä loukkaantui Savonlinnassa ja yksi henkilö menehtyi Kangasniemellä henkilöautojen ulosajoissa",
       "link": "https://poliisi.fi/-/kaksi-henkiloa-loukkaantui-savonlinnassa-ja-yksi-henkilo-menehtyi-kangasniemella-henkiloautojen-ulosajoissa",
       "source": "Itä-Suomen poliisilaitos",
@@ -1718,6 +1848,26 @@
       "date": "2026-09-27T05:15:00+00:00",
       "region": "",
       "description": "Rattijuoppo suistui ojaan Riihimäellä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisilla on väkivaltatehtävä Naantalin kylpylän alueella",
+      "link": "https://poliisi.fi/-/poliisilla-on-vakivaltatehtava-naantalin-kylpylan-alueella",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-26T20:15:00+00:00",
+      "region": "Naantali",
+      "description": "Poliisilla on väkivaltatehtävä Naantalin kylpylän alueella",
+      "municipality": "Naantali",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Alajärvellä henkilövahinkoon johtanut liikenneonnettomuus mopomiitin yhteydessä",
+      "link": "https://poliisi.fi/-/alajarvella-henkilovahinkoon-johtanut-liikenneonnettomuus-mopomiitin-yhteydessa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-25T19:57:00+00:00",
+      "region": "",
+      "description": "Alajärvellä henkilövahinkoon johtanut liikenneonnettomuus mopomiitin yhteydessä",
       "municipality": "",
       "province": ""
     },
@@ -1822,6 +1972,16 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Yksi kuoli ulosajossa Kokkolassa",
+      "link": "https://poliisi.fi/-/yksi-kuoli-ulosajossa-kokkolassa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-22T15:41:00+00:00",
+      "region": "Kokkola",
+      "description": "Yksi kuoli ulosajossa Kokkolassa",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
       "title": "Poliisi jatkaa Kuopion henkirikoksen tutkintaa – kaksi henkilöä vangittu epäiltynä taposta",
       "link": "https://poliisi.fi/-/poliisi-jatkaa-kuopion-henkirikoksen-tutkintaa-kaksi-henkiloa-vangittu-epailtyna-taposta",
       "source": "Itä-Suomen poliisilaitos",
@@ -1840,6 +2000,16 @@
       "description": "Liikenneonnettomuus Ylitorniolla",
       "municipality": "Ylitornio",
       "province": "Lappi"
+    },
+    {
+      "title": "Rauman Kortelan ampumistapaus syyteharkintaan",
+      "link": "https://poliisi.fi/-/rauman-kortelan-ampumistapaus-syyteharkintaan",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-22T12:50:00+00:00",
+      "region": "Rauma",
+      "description": "Rauman Kortelan ampumistapaus syyteharkintaan",
+      "municipality": "Rauma",
+      "province": "Satakunta"
     },
     {
       "title": "Epäiltyjä törkeitä rattijuopumuksia Kuopiossa ja Suonenjoella",
@@ -1902,6 +2072,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi selvitti asevarkauden Huittisissa",
+      "link": "https://poliisi.fi/-/poliisi-selvitti-asevarkauden-huittisissa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-21T10:24:00+00:00",
+      "region": "",
+      "description": "Poliisi selvitti asevarkauden Huittisissa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi tutkii Joensuun keskustassa tapahtunutta epäiltyä tapon yritystä",
       "link": "https://poliisi.fi/-/poliisi-tutkii-joensuun-keskustassa-tapahtunutta-epailtya-tapon-yritysta",
       "source": "Itä-Suomen poliisilaitos",
@@ -1910,6 +2090,16 @@
       "description": "Poliisi tutkii Joensuun keskustassa tapahtunutta epäiltyä tapon yritystä",
       "municipality": "Joensuu",
       "province": "Pohjois-Karjala"
+    },
+    {
+      "title": "Törkeitä rattijuopumuksia Porissa",
+      "link": "https://poliisi.fi/-/torkeita-rattijuopumuksia-porissa-3",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-21T06:26:00+00:00",
+      "region": "Pori",
+      "description": "Törkeitä rattijuopumuksia Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
     },
     {
       "title": "Törkeä rattijuopumus Kontiolahdella",
@@ -1932,6 +2122,16 @@
       "province": ""
     },
     {
+      "title": "Kadonnut henkilö Lapualla",
+      "link": "https://poliisi.fi/-/kadonnut-henkilo-lapualla",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-20T22:08:00+00:00",
+      "region": "Lapua",
+      "description": "Kadonnut henkilö Lapualla",
+      "municipality": "Lapua",
+      "province": "Etelä-Pohjanmaa"
+    },
+    {
       "title": "Itä-Suomen poliisilaitos tutkii henkirikosta Kuopiossa",
       "link": "https://poliisi.fi/-/ita-suomen-poliisilaitos-tutkii-henkirikosta-kuopiossa",
       "source": "Itä-Suomen poliisilaitos",
@@ -1940,6 +2140,16 @@
       "description": "Itä-Suomen poliisilaitos tutkii henkirikosta Kuopiossa",
       "municipality": "Kuopio",
       "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Poliisi pyytää havaintoja murrosta Ilmajoella",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-murrosta-ilmajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-20T10:46:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja murrosta Ilmajoella",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Viisi epäiltyä rattijuopumusta Etelä-Savossa",
@@ -1992,6 +2202,26 @@
       "province": "Päijät-Häme"
     },
     {
+      "title": "Seinäjoella kadonnut nainen löytynyt",
+      "link": "https://poliisi.fi/-/seinajoella-kadonnut-nainen-loytynyt",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-18T14:34:00+00:00",
+      "region": "",
+      "description": "Seinäjoella kadonnut nainen löytynyt",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi etsii Seinäjoelta kadonnutta naista",
+      "link": "https://poliisi.fi/-/poliisi-etsii-seinajoelta-kadonnutta-naista",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-18T13:30:00+00:00",
+      "region": "",
+      "description": "Poliisi etsii Seinäjoelta kadonnutta naista",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi pyytää havaintoja kahdesta tulipalosta Lahdessa",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kahdesta-tulipalosta-lahdessa",
       "source": "Hämeen poliisilaitos",
@@ -2002,12 +2232,42 @@
       "province": "Päijät-Häme"
     },
     {
+      "title": "Salolaismies vangittiin useista petoksista epäiltynä",
+      "link": "https://poliisi.fi/-/salolaismies-vangittiin-useista-petoksista-epailtyna",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-18T12:53:00+00:00",
+      "region": "",
+      "description": "Salolaismies vangittiin useista petoksista epäiltynä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kokkolan keskustan väkivaltarikoksen tutkinta etenee – kahta epäiltyä vaaditaan vangittavaksi",
+      "link": "https://poliisi.fi/-/kokkolan-keskustan-vakivaltarikoksen-tutkinta-etenee-kahta-epailtya-vaaditaan-vangittavaksi",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-18T11:15:00+00:00",
+      "region": "Kokkola",
+      "description": "Kokkolan keskustan väkivaltarikoksen tutkinta etenee – kahta epäiltyä vaaditaan vangittavaksi",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
       "title": "Törkeästä tietomurrosta epäilty mies on vangittu",
       "link": "https://poliisi.fi/-/torkeasta-tietomurrosta-epailty-mies-on-vangittu",
       "source": "Keskusrikospoliisi",
       "date": "2026-09-18T11:06:00+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi etsii Kaustisella kadonnutta miestä",
+      "link": "https://poliisi.fi/-/poliisi-etsii-kaustisella-kadonnutta-miesta",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-18T10:58:00+00:00",
+      "region": "",
+      "description": "Poliisi etsii Kaustisella kadonnutta miestä",
       "municipality": "",
       "province": ""
     },
@@ -2072,6 +2332,16 @@
       "province": "Kymenlaakso"
     },
     {
+      "title": "Rattijuopumuksia Porissa",
+      "link": "https://poliisi.fi/-/rattijuopumuksia-porissa-29",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-17T06:32:00+00:00",
+      "region": "Pori",
+      "description": "Rattijuopumuksia Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
       "title": "Liikenneonnettomuus Kuopion Petosella - alaikäinen jalankulkija loukkaantui",
       "link": "https://poliisi.fi/-/liikenneonnettomuus-kuopion-petosella-alaikainen-jalankulkija-loukkaantui",
       "source": "Itä-Suomen poliisilaitos",
@@ -2112,6 +2382,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi tutkii tapon yritystä Kokkolan keskustassa – kolme epäiltyä otettu kiinni",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-tapon-yritysta-kokkolan-keskustassa-kolme-epailtya-otettu-kiinni",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-16T09:29:00+00:00",
+      "region": "Kokkola",
+      "description": "Poliisi tutkii tapon yritystä Kokkolan keskustassa – kolme epäiltyä otettu kiinni",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
       "title": "Rattijuopumustutkimus: Yhä harvempi lähtee liikenteeseen alkoholia nauttineena",
       "link": "https://poliisi.fi/-/rattijuopumustutkimus-yha-harvempi-lahtee-liikenteeseen-alkoholia-nauttineena",
       "source": "Poliisihallitus",
@@ -2128,6 +2408,16 @@
       "date": "2026-09-15T10:56:00+00:00",
       "region": "",
       "description": "Itä-Uudenmaan poliisin partioille viime viikolla välitetyissä keikoissa näkyivät kadonneet, raskaalla kaasujalalla liikenteessä olleet kuljettajat ja muun muassa sähköpotkulautoihin kohdistuneet varkaudet.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Tietyömaasta kertova liikennemerkki ei ole turha – hiljennä!",
+      "link": "https://poliisi.fi/-/tietyomaasta-kertova-liikennemerkki-ei-ole-turha-hiljenna-",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-15T05:55:00+00:00",
+      "region": "",
+      "description": "Tietyömaasta kertova liikennemerkki ei ole turha – hiljennä!",
       "municipality": "",
       "province": ""
     },
@@ -2150,6 +2440,16 @@
       "description": "Helsingin Savelassa sijaitsevassa luhtitalossa syttyi maanantai-iltapäivällä tulipalo. Hätäkeskus sai ilmoituksen rakennuspalosta noin kello 13.11. Paikalla oli useita eri viranomaisten yksiköitä. Talon asukkaat evakuoitiin asunnoista ja viranomaiset eristivät alueen. Poliisin alustavien tietojen mukaan palo oli saanut alkunsa sähköpotkulaudan latauksesta asunnon parvekkeella. Poliisi jatkaa palonsyyntutkintaa. ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
+    },
+    {
+      "title": "Kaarinassa henkilöauton ja mopon välinen liikenneonnettomuus",
+      "link": "https://poliisi.fi/-/kaarinassa-henkiloauton-ja-mopon-valinen-liikenneonnettomuus",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-14T14:02:00+00:00",
+      "region": "Kaarina",
+      "description": "Kaarinassa henkilöauton ja mopon välinen liikenneonnettomuus",
+      "municipality": "Kaarina",
+      "province": "Varsinais-Suomi"
     },
     {
       "title": "Rikosten määrä jäi poikkeuksellisen alhaiseksi Kaakkois-Suomessa",
@@ -2178,6 +2478,16 @@
       "date": "2026-09-14T09:40:00+00:00",
       "region": "",
       "description": "Poliisi sai valmiiksi esitutkinnan – miestä epäillään 14 seksuaalirikoksesta",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Harjavallassa kadonneesta naisesta",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-harjavallassa-kadonneesta-naisesta",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-14T05:47:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja Harjavallassa kadonneesta naisesta",
       "municipality": "",
       "province": ""
     },
@@ -2222,6 +2532,16 @@
       "province": ""
     },
     {
+      "title": "Kadonnut mies Kurikassa",
+      "link": "https://poliisi.fi/-/kadonnut-mies-kurikassa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-12T16:34:00+00:00",
+      "region": "",
+      "description": "Kadonnut mies Kurikassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Lapissa rattijuopumuksia ja häiriökäyttäytymistä",
       "link": "https://poliisi.fi/-/lapissa-rattijuopumuksia-ja-hairiokayttaytymista",
       "source": "Lapin poliisilaitos",
@@ -2240,6 +2560,16 @@
       "description": "Jatkotiedote Varkaudessa 10.9.2026 tapahtuneeseen mopo-onnettomuuteen",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Mies kuoli ulosajossa Salossa",
+      "link": "https://poliisi.fi/-/mies-kuoli-ulosajossa-salossa-1",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-12T07:53:00+00:00",
+      "region": "Salo",
+      "description": "Mies kuoli ulosajossa Salossa",
+      "municipality": "Salo",
+      "province": "Varsinais-Suomi"
     },
     {
       "title": "Liikennejuopumusepäilyjä Etelä-Savon toiminta-alueella",
@@ -2352,6 +2682,26 @@
       "province": ""
     },
     {
+      "title": "Uudenkaarlepyyn pahoinpitelyasian esitutkinta jatkuu – etälamauttimen käyttö arvioitu erikseen",
+      "link": "https://poliisi.fi/-/uudenkaarlepyyn-pahoinpitelyasian-esitutkinta-jatkuu-etalamauttimen-kaytto-arvioitu-erikseen",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-10T10:56:00+00:00",
+      "region": "",
+      "description": "Uudenkaarlepyyn pahoinpitelyasian esitutkinta jatkuu – etälamauttimen käyttö arvioitu erikseen",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii Pietarsaaressa tapahtunutta törkeää ryöstöä",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-pietarsaaressa-tapahtunutta-torkeaa-ryostoa-1",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-10T10:37:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii Pietarsaaressa tapahtunutta törkeää ryöstöä",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Äkäslompolon tulipalon esitutkinta on saatu valmiiksi",
       "link": "https://poliisi.fi/-/akaslompolon-tulipalon-esitutkinta-on-saatu-valmiiksi",
       "source": "Lapin poliisilaitos",
@@ -2370,6 +2720,16 @@
       "description": "Helsingin Roihuvuoresta kadonnut nainen on löytynyt kunnossa. Poliisi kiittää kaikkia havaintonsa ilmoittaneita sekä tietoa jakaneita. Tätä tiedotetta ei enää päivitetä. Tiedotteesta on poistettu kadonneen kuva sekä tuntomerkit. ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
+    },
+    {
+      "title": "Poliisi on selvittänyt Seinäjoen Vaasantiellä syttyneen tulipalon tapahtumia",
+      "link": "https://poliisi.fi/-/poliisi-on-selvittanyt-seinajoen-vaasantiella-syttyneen-tulipalon-tapahtumia",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-09T12:40:00+00:00",
+      "region": "",
+      "description": "Poliisi on selvittänyt Seinäjoen Vaasantiellä syttyneen tulipalon tapahtumia",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Mies kuoli auton ulosajossa Helsingissä",
@@ -2402,6 +2762,16 @@
       "province": "Pohjois-Pohjanmaa"
     },
     {
+      "title": "Yksi henkilö vangittu Kokkolan tapon yrityksistä epäiltynä",
+      "link": "https://poliisi.fi/-/yksi-henkilo-vangittu-kokkolan-tapon-yrityksista-epailtyna",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-08T11:42:00+00:00",
+      "region": "Kokkola",
+      "description": "Yksi henkilö vangittu Kokkolan tapon yrityksistä epäiltynä",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
       "title": "Omaisuusrikosten kasvu taittui Kaakkois-Suomessa",
       "link": "https://poliisi.fi/-/omaisuusrikosten-kasvu-taittui-kaakkois-suomessa",
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -2432,6 +2802,16 @@
       "province": ""
     },
     {
+      "title": "Porissa kateissa ollut nainen on löytynyt",
+      "link": "https://poliisi.fi/-/porissa-kateissa-ollut-nainen-on-loytynyt",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-07T14:19:00+00:00",
+      "region": "Pori",
+      "description": "Porissa kateissa ollut nainen on löytynyt",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
       "title": "Vedestä löytyi vainaja Helsingissä, poliisi ei epäile rikosta",
       "link": "https://poliisi.fi/-/vedesta-loytyi-vainaja-helsingissa-poliisi-ei-epaile-rikosta",
       "source": "Helsingin poliisilaitos",
@@ -2440,6 +2820,26 @@
       "description": "Vainaja löytyi merestä Kulosaaren ja Herttoniemen väliseltä vesialueelta. Alustavan tiedon mukaan kyseessä on mies ja hän on ollut vedessä jonkin aikaa. Tässä vaiheessa poliisi ei epäile asiaan liittyvän rikosta. Asiaa tutkitaan kuolemansyyn selvittämisenä, joka on lain mukaan salassa pidettävää tietoa, eikä siitä sen vuoksi tiedoteta enempää. ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
+    },
+    {
+      "title": "Ulosajoja ja rattijuopumuksia Vakka-Suomen alueella",
+      "link": "https://poliisi.fi/-/ulosajoja-ja-rattijuopumuksia-vakka-suomen-alueella",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-07T10:56:00+00:00",
+      "region": "",
+      "description": "Ulosajoja ja rattijuopumuksia Vakka-Suomen alueella",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/rattijuopumus-porissa-12",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-07T06:40:00+00:00",
+      "region": "Pori",
+      "description": "Rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
     },
     {
       "title": "Oulussa ja Iissä törkeiksi epäillyt liikennerikokset",
@@ -2468,6 +2868,26 @@
       "date": "2026-09-05T11:07:00+00:00",
       "region": "",
       "description": "Outokummussa epäilty rattijuopumus",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii Kokkolassa tapahtuneita väkivaltarikoksia",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-kokkolassa-tapahtuneita-vakivaltarikoksia",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-05T10:13:00+00:00",
+      "region": "Kokkola",
+      "description": "Poliisi tutkii Kokkolassa tapahtuneita väkivaltarikoksia",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
+      "title": "Ilmajoella kadonnut nainen on löytynyt",
+      "link": "https://poliisi.fi/-/ilmajoella-kadonnut-nainen-on-loytynyt",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-05T01:17:00+00:00",
+      "region": "",
+      "description": "Ilmajoella kadonnut nainen on löytynyt",
       "municipality": "",
       "province": ""
     },
@@ -2512,6 +2932,26 @@
       "province": ""
     },
     {
+      "title": "Poliisi on havainnut alfa-PVP:n käytön ja välittämisen lisääntyneen Etelä-Pohjanmaalla – muutos näkyy erityisesti Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-on-havainnut-alfa-pvp-n-kayton-ja-valittamisen-lisaantyneen-etela-pohjanmaalla-muutos-nakyy-erityisesti-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-09-03T07:25:00+00:00",
+      "region": "",
+      "description": "Poliisi on havainnut alfa-PVP:n käytön ja välittämisen lisääntyneen Etelä-Pohjanmaalla – muutos näkyy erityisesti Seinäjoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Törkeä rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/torkea-rattijuopumus-porissa-19",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-03T06:16:00+00:00",
+      "region": "Pori",
+      "description": "Törkeä rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
       "title": "Poliisi pyytää havaintoja Kajaanissa kadonneesta naisesta",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kajaanissa-kadonneesta-naisesta",
       "source": "Oulun poliisilaitos",
@@ -2532,12 +2972,42 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Ruskolla kuorma-auton ja mopon välinen liikenneonnettomuus",
+      "link": "https://poliisi.fi/-/ruskolla-kuorma-auton-ja-mopon-valinen-liikenneonnettomuus",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-02T13:08:00+00:00",
+      "region": "Rusko",
+      "description": "Ruskolla kuorma-auton ja mopon välinen liikenneonnettomuus",
+      "municipality": "Rusko",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Poliisin viikossa pahoinpitelyitä, päihtyneitä, häiriköitä ja kovia nopeuksia",
       "link": "https://poliisi.fi/-/poliisin-viikossa-pahoinpitelyita-paihtyneita-hairikoita-ja-kovia-nopeuksia",
       "source": "Itä-Uudenmaan poliisilaitos",
       "date": "2026-09-01T10:57:00+00:00",
       "region": "",
       "description": "Itä-Uudenmaan poliisilaitoksen alueen viime viikon tehtävissä näkyivät muun muassa väkivaltaan liittyvät tehtävät, päihtynet, häiriökäyttäytyminen sekä kovat nopeudet.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Henkilöauton ulosajo Paimiossa",
+      "link": "https://poliisi.fi/-/henkiloauton-ulosajo-paimiossa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-09-01T10:04:00+00:00",
+      "region": "Paimio",
+      "description": "Henkilöauton ulosajo Paimiossa",
+      "municipality": "Paimio",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Poliisi epäilee Vaasan ja Laihian kuolemaan johtaneiden tapahtumien liittyvän toisiinsa – yhtä miestä epäillään kahdesta murhasta",
+      "link": "https://poliisi.fi/-/poliisi-epailee-vaasan-ja-laihian-kuolemaan-johtaneiden-tapahtumien-liittyvan-toisiinsa-yhta-miesta-epaillaan-kahdesta-murhasta",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-31T12:12:00+00:00",
+      "region": "",
+      "description": "Poliisi epäilee Vaasan ja Laihian kuolemaan johtaneiden tapahtumien liittyvän toisiinsa – yhtä miestä epäillään kahdesta murhasta",
       "municipality": "",
       "province": ""
     },
@@ -2550,6 +3020,16 @@
       "description": "Poliisi on selvittänyt Kuopion Pihkainmäen tulipalossa kuolleen henkilöllisyyden",
       "municipality": "Kuopio",
       "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Törkeä rattijuopumus Nakkilassa",
+      "link": "https://poliisi.fi/-/torkea-rattijuopumus-nakkilassa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-08-31T05:48:00+00:00",
+      "region": "Nakkila",
+      "description": "Törkeä rattijuopumus Nakkilassa",
+      "municipality": "Nakkila",
+      "province": "Satakunta"
     },
     {
       "title": "Tulipalo Vieremällä",
@@ -2590,6 +3070,16 @@
       "description": "Veneisiin kohdistunut omaisuusrikos Puumalassa",
       "municipality": "Puumala",
       "province": "Etelä-Savo"
+    },
+    {
+      "title": "Henkilöauton ja mopon välinen kolari Kokemäellä",
+      "link": "https://poliisi.fi/-/henkiloauton-ja-mopon-valinen-kolari-kokemaella",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-08-28T11:21:00+00:00",
+      "region": "Kolari",
+      "description": "Henkilöauton ja mopon välinen kolari Kokemäellä",
+      "municipality": "Kolari",
+      "province": "Lappi"
     },
     {
       "title": "Poliisi kohtaa yhä useammin uhkaavia tilanteita – väkivaltainen vastustaminen kaksinkertaistui 10 vuodessa",
@@ -2792,6 +3282,16 @@
       "province": ""
     },
     {
+      "title": "Poliisin esitutkinta Vaasassa tapahtuneesta epäillystä henkirikoksesta valmistui",
+      "link": "https://poliisi.fi/-/poliisin-esitutkinta-vaasassa-tapahtuneesta-epaillysta-henkirikoksesta-valmistui",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-25T10:24:00+00:00",
+      "region": "Vaasa",
+      "description": "Poliisin esitutkinta Vaasassa tapahtuneesta epäillystä henkirikoksesta valmistui",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
+    },
+    {
       "title": "Poliisin hallussa useita anastetuksi epäiltyjä pyöriä",
       "link": "https://poliisi.fi/-/poliisin-hallussa-useita-anastetuksi-epailtyja-pyoria",
       "source": "Itä-Suomen poliisilaitos",
@@ -2820,6 +3320,16 @@
       "description": "Kaakkois-Suomen poliisilaitoksen alueella järjestettiin viikonloppuna useita yleisötapahtumia. Poliisi varautui tapahtumiin ennakolta ja ne sujuivat ilman suurempia järjestyshäiriöitä.",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja asuntomurroista Porin Kalaholmassa",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-asuntomurroista-porin-kalaholmassa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-08-25T08:35:00+00:00",
+      "region": "Pori",
+      "description": "Poliisi pyytää havaintoja asuntomurroista Porin Kalaholmassa",
+      "municipality": "Pori",
+      "province": "Satakunta"
     },
     {
       "title": "Poliisi pyytää havaintoja törkeästä ryöstöstä Hämeenlinnassa",
@@ -2852,6 +3362,16 @@
       "province": "Kainuu"
     },
     {
+      "title": "Törkeä rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/torkea-rattijuopumus-porissa-18",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-08-24T07:36:00+00:00",
+      "region": "Pori",
+      "description": "Törkeä rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
       "title": "Liikenneonnettomuus Liperissä",
       "link": "https://poliisi.fi/-/liikenneonnettomuus-liperissa-1",
       "source": "Itä-Suomen poliisilaitos",
@@ -2872,6 +3392,16 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Poliisi tutkii törkeää ryöstöä Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-torkeaa-ryostoa-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-21T09:59:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii törkeää ryöstöä Seinäjoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi etsii miestä Kittilässä Maunujoella",
       "link": "https://poliisi.fi/-/poliisi-etsii-miesta-kittilassa-maunujoella",
       "source": "Lapin poliisilaitos",
@@ -2880,6 +3410,26 @@
       "description": "Poliisi etsii miestä Kittilässä Maunujoella",
       "municipality": "Kittilä",
       "province": "Lappi"
+    },
+    {
+      "title": "Kolme epäiltyä kiinni Pedersören törkeän varkauden yrityksestä",
+      "link": "https://poliisi.fi/-/kolme-epailtya-kiinni-pedersoren-torkean-varkauden-yrityksesta",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-20T09:53:00+00:00",
+      "region": "",
+      "description": "Kolme epäiltyä kiinni Pedersören törkeän varkauden yrityksestä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Epäilty törkeä rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/epailty-torkea-rattijuopumus-porissa-1",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-08-20T07:02:00+00:00",
+      "region": "Pori",
+      "description": "Epäilty törkeä rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
     },
     {
       "title": "Liikenneonnettomuus Porvoossa – poliisi pyytää havaintoja",
@@ -2898,6 +3448,26 @@
       "date": "2026-08-19T09:10:00+00:00",
       "region": "",
       "description": "Esitutkinnan perusteella Miinalaisen epäillään liikkuneen Lapissa ennen katoamistaan. Poliisi epäilee, että hän joutui rikoksen uhriksi elokuun loppupuolella vuonna 2022. Mahdollinen tapahtumapaikka sijaitsee Muotkavaaran ja Tiurajärven alueella Muoniossa. Poliisi on tehnyt useita maasto- ja vesistöetsintöjä vuosina 2022–2026. Etsintöihin on osallistunut useita poliisilaitoksia. Lapin poliisilaitos on avustanut etsintöjä merkittävästi. Puolustusvoimat ja Rajavartiolaitos ovat antaneet etsintöihin virka-apua. Etsintöjä on tehty erityisesti Jerisjärven, Äkäsjärven, Äkäsjoen, Aakenuksentien ja Levikairantien alueilla. Viimeisimmät etsinnät tehtiin elokuun alussa Kittilän Tepaston alueella. Etsinnöissä tarkastettiin poliisin saamia vihjeitä. – Olemme tehneet vuosien aikana laajoja etsintöjä useilla alueilla Lapissa. Toivomme nyt erityisesti Muonion seudulla liikkuvien luonnossa liikkujien ap",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Moottoripyöräilijä menehtyi ulosajossa Harjavallassa",
+      "link": "https://poliisi.fi/-/moottoripyorailija-menehtyi-ulosajossa-harjavallassa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-08-19T06:04:00+00:00",
+      "region": "",
+      "description": "Moottoripyöräilijä menehtyi ulosajossa Harjavallassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Rattijuopumuksia Harjavallassa ja Huittisissa",
+      "link": "https://poliisi.fi/-/rattijuopumuksia-harjavallassa-ja-huittisissa-2",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-08-17T12:29:00+00:00",
+      "region": "",
+      "description": "Rattijuopumuksia Harjavallassa ja Huittisissa",
       "municipality": "",
       "province": ""
     },
@@ -2982,6 +3552,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi pyytää havaintoja moottoripyöräilijästä Pedersöressä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-moottoripyorailijasta-pedersoressa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-14T12:13:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja moottoripyöräilijästä Pedersöressä",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi tutkii Vantaan Myyrmäessä tapahtunutta vakavaa väkivallantekoa",
       "link": "https://poliisi.fi/-/poliisi-tutkii-vantaan-myyrmaessa-tapahtunutta-vakavaa-vakivallantekoa",
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -3032,6 +3612,36 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Kaksi törkeää varkautta Suupohjassa",
+      "link": "https://poliisi.fi/-/kaksi-torkeaa-varkautta-suupohjassa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-10T13:15:00+00:00",
+      "region": "",
+      "description": "Kaksi törkeää varkautta Suupohjassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii kuolemaan johtanutta ulosajoa Ilmajoella",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-kuolemaan-johtanutta-ulosajoa-ilmajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-10T08:18:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii kuolemaan johtanutta ulosajoa Ilmajoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii törkeää pahoinpitelyä Power Truck -tapahtumassa",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-torkeaa-pahoinpitelya-power-truck-tapahtumassa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-10T08:01:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii törkeää pahoinpitelyä Power Truck -tapahtumassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi epäilee 15-vuotiasta törkeästä liikenneturvallisuuden vaarantamisesta Tuusulassa",
       "link": "https://poliisi.fi/-/poliisi-epailee-15-vuotiasta-torkeasta-liikenneturvallisuuden-vaarantamisesta-tuusulassa",
       "source": "Helsingin poliisilaitos",
@@ -3062,6 +3672,16 @@
       "province": "Päijät-Häme"
     },
     {
+      "title": "Poliisi tutki epäilyttävää esinettä Mustasaaressa, todettiin vaarattomaksi",
+      "link": "https://poliisi.fi/-/poliisi-tutki-epailyttavaa-esinetta-mustasaaressa-todettiin-vaarattomaksi",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-07T11:16:00+00:00",
+      "region": "",
+      "description": "Poliisi tutki epäilyttävää esinettä Mustasaaressa, todettiin vaarattomaksi",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi on saanut valmiiksi poikkeuksellisen huumausainerikostutkinnan",
       "link": "https://poliisi.fi/-/poliisi-on-saanut-valmiiksi-poikkeuksellisen-huumausainerikostutkinnan",
       "source": "Lapin poliisilaitos",
@@ -3070,6 +3690,16 @@
       "description": "Poliisi on saanut valmiiksi poikkeuksellisen huumausainerikostutkinnan",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Henkilö menehtyi ulosajossa Teuvalla",
+      "link": "https://poliisi.fi/-/henkilo-menehtyi-ulosajossa-teuvalla",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-07T09:05:00+00:00",
+      "region": "Teuva",
+      "description": "Henkilö menehtyi ulosajossa Teuvalla",
+      "municipality": "Teuva",
+      "province": "Etelä-Pohjanmaa"
     },
     {
       "title": "Poliisi pyysi yleisövihjeitä Keravalla heinäkuussa tapahtuneeseen törkeään ryöstöön",
@@ -3142,6 +3772,16 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Vakava onnettomuus laittomassa mopomiitissä Seinäjoella",
+      "link": "https://poliisi.fi/-/vakava-onnettomuus-laittomassa-mopomiitissa-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-08-04T11:53:00+00:00",
+      "region": "",
+      "description": "Vakava onnettomuus laittomassa mopomiitissä Seinäjoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Huumausaineiden levitystä koskevan rikoskokonaisuuden esitutkinta valmis",
       "link": "https://poliisi.fi/-/huumausaineiden-levitysta-koskevan-rikoskokonaisuuden-esitutkinta-valmis-1",
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -3202,6 +3842,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi etsii autoilijaa joka törmäsi pyöräilijään Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-etsii-autoilijaa-joka-tormasi-pyorailijaan-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-31T12:19:00+00:00",
+      "region": "",
+      "description": "Poliisi etsii autoilijaa joka törmäsi pyöräilijään Seinäjoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Kadonnut poika Vantaalla",
       "link": "https://poliisi.fi/-/kadonnut-poika-vantaalla",
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -3252,6 +3902,16 @@
       "province": "Päijät-Häme"
     },
     {
+      "title": "Poliisi tutkii törkeitä varkauksia Lapualla ja Soinissa",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-torkeita-varkauksia-lapualla-ja-soinissa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-29T13:08:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii törkeitä varkauksia Lapualla ja Soinissa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisin aktiivinen liikennevalvonta kesällä parantaa liikenneturvallisuutta – rattijuopumukset laskussa",
       "link": "https://poliisi.fi/-/poliisin-aktiivinen-liikennevalvonta-kesalla-parantaa-liikenneturvallisuutta-rattijuopumukset-laskussa",
       "source": "Poliisihallitus",
@@ -3268,6 +3928,16 @@
       "date": "2026-07-28T07:22:00+00:00",
       "region": "",
       "description": "Poliisi julkaisi 25. heinäkuuta tiedotteen, jossa pyydettiin vihjeitä Eirassa kadonneesta noin 60-vuotiaasta miehestä. Mies on löytynyt kunnossa tiistaina aamupäivällä 28. heinäkuuta. Poliisi kiittää saamistaan vihjeistä. ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii ampumistapausta Alavudella",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-ampumistapausta-alavudella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-26T11:54:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii ampumistapausta Alavudella",
       "municipality": "",
       "province": ""
     },
@@ -3300,6 +3970,16 @@
       "description": "Rovaniemellä pahoinpitelyitä, Torniossa asuntomurtoja",
       "municipality": "Tornio",
       "province": "Lappi"
+    },
+    {
+      "title": "Vaasan epäillyn törkeän pahoinpitelyn tapahtumien kulku on pääosin selvitetty",
+      "link": "https://poliisi.fi/-/vaasan-epaillyn-torkean-pahoinpitelyn-tapahtumien-kulku-on-paaosin-selvitetty",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-23T08:11:00+00:00",
+      "region": "Vaasa",
+      "description": "Vaasan epäillyn törkeän pahoinpitelyn tapahtumien kulku on pääosin selvitetty",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
     },
     {
       "title": "Poliisi etsii Helsingissä kadonnutta 16-vuotiasta poikaa",
@@ -3342,6 +4022,26 @@
       "province": ""
     },
     {
+      "title": "Poliisi julkaisee kuvia Kauhajoen törkeästä varkaudesta epäillyistä",
+      "link": "https://poliisi.fi/-/poliisi-julkaisee-kuvia-kauhajoen-torkeasta-varkaudesta-epaillyista",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-21T11:45:00+00:00",
+      "region": "",
+      "description": "Poliisi julkaisee kuvia Kauhajoen törkeästä varkaudesta epäillyistä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii törkeää varkautta Kauhajoella",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-torkeaa-varkautta-kauhajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-21T07:49:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii törkeää varkautta Kauhajoella",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Sipoon törkeästä pahoinpitelystä epäilty mies löytyi kuolleena",
       "link": "https://poliisi.fi/-/sipoon-torkeasta-pahoinpitelysta-epailty-mies-loytyi-kuolleena",
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -3372,6 +4072,26 @@
       "province": ""
     },
     {
+      "title": "Poliisi on jatkanut Vaasassa tapahtuneen törkeän pahoinpitelyn tutkintaa",
+      "link": "https://poliisi.fi/-/poliisi-on-jatkanut-vaasassa-tapahtuneen-torkean-pahoinpitelyn-tutkintaa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-20T11:04:00+00:00",
+      "region": "Vaasa",
+      "description": "Poliisi on jatkanut Vaasassa tapahtuneen törkeän pahoinpitelyn tutkintaa",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
+    },
+    {
+      "title": "Poliisi pyytää havaintoja liikenneonnettomuudesta Vaasassa",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-liikenneonnettomuudesta-vaasassa-2",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-20T08:17:00+00:00",
+      "region": "Vaasa",
+      "description": "Poliisi pyytää havaintoja liikenneonnettomuudesta Vaasassa",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
+    },
+    {
       "title": "Lahden keskustan lähettyvillä kadonnut iltapäivän aikana vanhempi nainen",
       "link": "https://poliisi.fi/-/lahden-keskustan-lahettyvilla-kadonnut-iltapaivan-aikana-vanhempi-nainen",
       "source": "Hämeen poliisilaitos",
@@ -3380,6 +4100,26 @@
       "description": "Lahden keskustan lähettyvillä kadonnut iltapäivän aikana vanhempi nainen",
       "municipality": "Lahti",
       "province": "Päijät-Häme"
+    },
+    {
+      "title": "Kokkolassa kadonnut mies löytyi kuolleena",
+      "link": "https://poliisi.fi/-/kokkolassa-kadonnut-mies-loytyi-kuolleena",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-18T12:48:00+00:00",
+      "region": "Kokkola",
+      "description": "Kokkolassa kadonnut mies löytyi kuolleena",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Kokkolassa kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kokkolassa-kadonneesta-miehesta-1",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-17T12:48:00+00:00",
+      "region": "Kokkola",
+      "description": "Poliisi pyytää havaintoja Kokkolassa kadonneesta miehestä",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
     },
     {
       "title": "Loviisassa heinäkuun alussa kadonnut veneen kuljettaja on löytynyt",
@@ -3422,6 +4162,26 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Poliisi pyytää havaintoja ryöstöstä Vaasassa",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-ryostosta-vaasassa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-16T11:34:00+00:00",
+      "region": "Vaasa",
+      "description": "Poliisi pyytää havaintoja ryöstöstä Vaasassa",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Kauhavalta löytyneistä eläinten jäänteistä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kauhavalta-loytyneista-elainten-jaanteista",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-16T09:56:00+00:00",
+      "region": "Kauhava",
+      "description": "Poliisi pyytää havaintoja Kauhavalta löytyneistä eläinten jäänteistä",
+      "municipality": "Kauhava",
+      "province": "Etelä-Pohjanmaa"
+    },
+    {
       "title": "Kouvolassa kaksi aseellista ryöstöä keskiviikkona 15.7.2026",
       "link": "https://poliisi.fi/-/kouvolassa-kaksi-aseellista-ryostoa-keskiviikkona-15.7.2026",
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -3430,6 +4190,16 @@
       "description": "Kahden nuoren miehen epäillään tulleen lähes samanaikaisesti ryöstetyksi Kouvolassa keskustan läheisyydessä keskiviikkona 15.7.2026 noin kello 15.",
       "municipality": "Kouvola",
       "province": "Kymenlaakso"
+    },
+    {
+      "title": "Poliisi tutkii Vaasassa tapahtunutta lapsen törkeää pahoinpitelyä",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-vaasassa-tapahtunutta-lapsen-torkeaa-pahoinpitelya",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-15T08:16:00+00:00",
+      "region": "Vaasa",
+      "description": "Poliisi tutkii Vaasassa tapahtunutta lapsen törkeää pahoinpitelyä",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
     },
     {
       "title": "Kaahareita, rattijuoppoja ja varkauksia Itä-Uudellamaalla",
@@ -3480,6 +4250,16 @@
       "description": "Iäkäs nainen kateissa Kolarin Äkäslompolossa",
       "municipality": "Kolari",
       "province": "Lappi"
+    },
+    {
+      "title": "Poliisi pyytää havaintoja koiran hyökkäyksestä Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-koiran-hyokkayksesta-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-10T12:54:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja koiran hyökkäyksestä Seinäjoella",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Kruunuvuorenrannasta merestä löytynyt vainaja on tunnistettu",
@@ -3542,6 +4322,16 @@
       "province": ""
     },
     {
+      "title": "Samaa moottoripyöräilijää epäillään kahdesta törkeästä liikenneturvallisuuden vaarantamisesta Mustasaaressa",
+      "link": "https://poliisi.fi/-/samaa-moottoripyorailijaa-epaillaan-kahdesta-torkeasta-liikenneturvallisuuden-vaarantamisesta-mustasaaressa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-07T09:41:00+00:00",
+      "region": "",
+      "description": "Samaa moottoripyöräilijää epäillään kahdesta törkeästä liikenneturvallisuuden vaarantamisesta Mustasaaressa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Lasten verkkovälitteinen seksuaaliväkivalta yleistyy – ennaltaehkäisy vaatii avointa keskustelua ja valppautta",
       "link": "https://poliisi.fi/-/lasten-verkkovalitteinen-seksuaalivakivalta-yleistyy-ennaltaehkaisy-vaatii-avointa-keskustelua-ja-valppautta",
       "source": "Poliisihallitus",
@@ -3560,6 +4350,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja liikenneonnettomuudesta Vaasassa",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-liikenneonnettomuudesta-vaasassa-1",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-07-06T13:04:00+00:00",
+      "region": "Vaasa",
+      "description": "Poliisi pyytää havaintoja liikenneonnettomuudesta Vaasassa",
+      "municipality": "Vaasa",
+      "province": "Pohjanmaa"
     },
     {
       "title": "Pirkanmaan pelastuslaitos: Viranomaistietojen vertailusta uusia mahdollisuuksia paloriskiasuntojen tunnistamiseen",
