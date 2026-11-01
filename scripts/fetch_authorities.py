@@ -10,7 +10,6 @@ SOURCES=[
  ("Poliisi – koko Suomi","https://poliisi.fi/ajankohtaista/-/asset_publisher/yCqu73OvueAR/"),
  ("Keski-Suomen pelastuslaitos","https://www.sttinfo.fi/uutishuone/keski-suomen-hyvinvointialue?publisherId=69821063"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
- ("Ilmatieteen laitos – säävaroitukset","https://alerts.fmi.fi/cap/feed/rss_fi-FI.rss"),
  ("Pirkanmaan pelastuslaitos","https://www.sttinfo.fi/uutishuone/69819808/pirkanmaan-pelastuslaitos/r"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
  ("Traficom – kyberturvallisuus","https://www.traficom.fi/feed/rss/fi/117"),
@@ -119,6 +118,8 @@ def main():
  now=dt.datetime.now(dt.timezone.utc);items={}
  if not fresh:print("WARNING: no fresh feed entries; retaining previous valid data")
  for n in old+fresh:
+  # Active weather alerts belong only on the separate warnings page.
+  if n.get("source")=="Ilmatieteen laitos – säävaroitukset":continue
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
   except ValueError:continue
   if published>now+dt.timedelta(hours=12):continue
