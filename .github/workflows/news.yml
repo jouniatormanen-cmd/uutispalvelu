@@ -21,6 +21,7 @@ jobs:
         run: |
           python scripts/fetch_news.py
           python scripts/fetch_authorities.py
+          python scripts/fetch_warnings.py
       - name: Validate collected authority news
         run: |
           python - <<'PY'
@@ -43,5 +44,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json viranomaiset/news.json
+          git add news.json viranomaiset/news.json viranomaiset/warnings.json
           git diff --cached --quiet || (git commit -m "Update Finnish headlines" && (git push || (git pull --rebase && git push)))
