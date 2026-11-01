@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:10:17.442802+00:00",
+  "updated": "2026-11-01T03:54:00.471438+00:00",
   "items": [
     {
       "title": "Mediatiedote Keski-Suomen pelastuslaitos",
@@ -1204,7 +1204,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 1008,
+  "newly_fetched": 808,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1232,27 +1232,27 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Lapin poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Lapin poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1331,12 +1331,12 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Lapin"
     ],
     "police_missing": [
       "Itä-Suomen",
-      "Lapin",
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
