@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-01T20:44:23.829701+00:00",
+  "updated": "2026-11-01T21:16:33.952956+00:00",
   "items": [
+    {
+      "title": "Sipoon alueella kadonnut mies on löytynyt",
+      "link": "https://www.is.fi/kotimaa/art-2000012381298.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-01T20:57:00+00:00",
+      "region": "Sipoo",
+      "description": "",
+      "municipality": "Sipoo",
+      "province": "Uusimaa"
+    },
     {
       "title": "Sipoon alueella kadonnut 54-vuotias mies",
       "link": "https://poliisi.fi/-/sipoon-alueella-kadonnut-54-vuotias-mies",
@@ -1615,7 +1625,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1208,
+  "newly_fetched": 1408,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1655,9 +1665,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1667,13 +1677,13 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1751,10 +1761,10 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
+      "Lapin",
+      "Lounais-Suomen"
     ],
     "police_missing": [
-      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -1789,7 +1799,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-02T20:44:23.829701+00:00",
+  "window_start": "2026-10-02T21:16:33.952956+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -1811,6 +1821,6 @@
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 1,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 7
+    "Ilta-Sanomat": 8
   }
 }
