@@ -22,16 +22,6 @@
       "province": "Pohjois-Karjala"
     },
     {
-      "title": "Selvitimme: Tällainen on tapaus, josta 17-vuotiaana murhannutta Terhiä syytetään nyt",
-      "link": "https://www.iltalehti.fi/kotimaa/a/9e2d8377-d393-4166-8d63-31538480317b?utm_source=rss",
-      "source": "Iltalehti",
-      "date": "2026-11-01T08:07:38+00:00",
-      "region": "",
-      "description": "",
-      "municipality": "",
-      "province": ""
-    },
-    {
       "title": "Hämeessä viikonloppuna runsaasti rattijuoppoja liikenteessä",
       "link": "https://poliisi.fi/-/hameessa-viikonloppuna-runsaasti-rattijuoppoja-liikenteessa",
       "source": "Hämeen poliisilaitos",
@@ -1722,12 +1712,6 @@
       "source": "Ilta-Sanomat",
       "status": "toimii",
       "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Iltalehti",
-      "status": "toimii",
-      "fetched": 20,
       "feeds_checked": 1
     }
   ],
