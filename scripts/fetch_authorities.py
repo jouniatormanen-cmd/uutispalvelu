@@ -28,7 +28,6 @@ SOURCES=[
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
  ("Traficom – kyberturvallisuus","https://www.traficom.fi/feed/rss/fi/117"),
  ("Ilta-Sanomat","https://www.is.fi/rss/kotimaa.xml"),
- ("Iltalehti","https://www.iltalehti.fi/rss/uutiset.xml"),
 ]
 # Nationwide coverage targets are monitored separately from verified working feeds.
 POLICE_TARGETS = [
@@ -169,7 +168,7 @@ def add_area(n):
   n["region"]=matches[0][0]
  return n
 
-MEDIA_SOURCES={"Ilta-Sanomat","Iltalehti"}
+MEDIA_SOURCES={"Ilta-Sanomat"}
 MEDIA_EVENTS=re.compile(r"onnettomuu|kolari|törmä|ulosajo|tulipalo|rakennuspalo|maastopalo|räjähd|kaasuvuoto|evaku|pelastusoperaati|liikenneonnettomuu|liikennekatko|tie sulj|junaliikenne|sähkökatko|vesikatko|vaaratiedote|ampumi|puukot|henkirikos|murha|tappo|ryöstö|pahoinpitely|kadonnut|etsintä|kiinniot|pidätet|poliisioperaati|myrsky|tulv|säävaroit",re.I)
 MEDIA_EXCLUDE=re.compile(r"kommentti|kolumni|mielipide|analyysi|arvostelu|urheilu|jääkiekko|jalkapallo|viihde|julkkis|resepti|horoskooppi|lotto",re.I)
 def consumer_relevant(n):
