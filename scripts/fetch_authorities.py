@@ -27,6 +27,8 @@ SOURCES=[
  ("Pirkanmaan pelastuslaitos","https://www.sttinfo.fi/uutishuone/69819808/pirkanmaan-pelastuslaitos/r"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
  ("Traficom – kyberturvallisuus","https://www.traficom.fi/feed/rss/fi/117"),
+ ("Ilta-Sanomat","https://www.is.fi/rss/kotimaa.xml"),
+ ("Iltalehti","https://www.iltalehti.fi/rss/uutiset.xml"),
 ]
 # Nationwide coverage targets are monitored separately from verified working feeds.
 POLICE_TARGETS = [
@@ -167,8 +169,13 @@ def add_area(n):
   n["region"]=matches[0][0]
  return n
 
+MEDIA_SOURCES={"Ilta-Sanomat","Iltalehti"}
+MEDIA_EVENTS=re.compile(r"onnettomuu|kolari|törmä|ulosajo|tulipalo|rakennuspalo|maastopalo|räjähd|kaasuvuoto|evaku|pelastusoperaati|liikenneonnettomuu|liikennekatko|tie sulj|junaliikenne|sähkökatko|vesikatko|vaaratiedote|ampumi|puukot|henkirikos|murha|tappo|ryöstö|pahoinpitely|kadonnut|etsintä|kiinniot|pidätet|poliisioperaati|myrsky|tulv|säävaroit",re.I)
+MEDIA_EXCLUDE=re.compile(r"kommentti|kolumni|mielipide|analyysi|arvostelu|urheilu|jääkiekko|jalkapallo|viihde|julkkis|resepti|horoskooppi|lotto",re.I)
 def consumer_relevant(n):
  title=n.get("title","")
+ if n.get("source") in MEDIA_SOURCES:
+  return bool(MEDIA_EVENTS.search(title)) and not bool(MEDIA_EXCLUDE.search(title))
  return bool(RELEVANT.search(title)) and not bool(EXCLUDE.search(title))
 
 def main():
@@ -203,6 +210,7 @@ def main():
   except ValueError:continue
   if published>now+dt.timedelta(hours=12):continue
   if not consumer_relevant(n):continue
+  if n.get("source") in MEDIA_SOURCES:n["description"]=""
   if not n.get("date"):continue
   key=n["link"].split("?")[0].rstrip("/")
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
