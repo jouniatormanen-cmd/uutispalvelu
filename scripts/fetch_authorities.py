@@ -7,7 +7,19 @@ ROOT=os.path.dirname(os.path.dirname(__file__))
 OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
 SOURCES=[
 ("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
- ("Poliisi – koko Suomi","https://poliisi.fi/ajankohtaista/-/asset_publisher/yCqu73OvueAR/"),
+ ("Poliisi – valtakunnallinen RSS","https://poliisi.fi/etusivu/-/asset_publisher/mhkofNyGe9wn/rss"),
+ ("Hämeen poliisilaitos","https://poliisi.fi/hameen-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Itä-Suomen poliisilaitos","https://poliisi.fi/ita-suomen-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Itä-Uudenmaan poliisilaitos","https://poliisi.fi/ita-uudenmaan-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Kaakkois-Suomen poliisilaitos","https://poliisi.fi/kaakkois-suomen-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Keskusrikospoliisi","https://poliisi.fi/keskusrikospoliisi/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Lapin poliisilaitos","https://poliisi.fi/lapin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Lounais-Suomen poliisilaitos","https://poliisi.fi/lounais-suomen-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Länsi-Uudenmaan poliisilaitos","https://poliisi.fi/lansi-uudenmaan-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Oulun poliisilaitos","https://poliisi.fi/oulun-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Pohjanmaan poliisilaitos","https://poliisi.fi/pohjanmaan-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Poliisihallitus","https://poliisi.fi/poliisihallitus/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Sisä-Suomen poliisilaitos","https://poliisi.fi/sisa-suomen-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
  ("Keski-Suomen pelastuslaitos","https://www.sttinfo.fi/uutishuone/keski-suomen-hyvinvointialue?publisherId=69821063"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
  ("Pirkanmaan pelastuslaitos","https://www.sttinfo.fi/uutishuone/69819808/pirkanmaan-pelastuslaitos/r"),
@@ -151,7 +163,7 @@ def main():
  try:
   with open(OUTPUT,encoding="utf-8") as f:old=json.load(f).get("items",[])
  except (OSError,ValueError):pass
- with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
   futures=[pool.submit(collect,*s) for s in SOURCES]
   results=[f.result() for f in futures]
   fresh=[n for result in results for n in result[0]]
