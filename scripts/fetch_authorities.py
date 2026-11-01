@@ -21,6 +21,7 @@ SOURCES=[
  ("Poliisihallitus","https://poliisi.fi/poliisihallitus/-/asset_publisher/ZtAEeHB39Lxr/rss"),
  ("Sisä-Suomen poliisilaitos","https://poliisi.fi/sisa-suomen-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
  ("Keski-Suomen pelastuslaitos","https://www.sttinfo.fi/uutishuone/keski-suomen-hyvinvointialue?publisherId=69821063"),
+ ("Helsingin pelastuslaitos","https://www.sttinfo.fi/uutishuone/69817736/helsingin-kaupungin-pelastuslaitos/r"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
  ("Pirkanmaan pelastuslaitos","https://www.sttinfo.fi/uutishuone/69819808/pirkanmaan-pelastuslaitos/r"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
