@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T12:26:57.047669+00:00",
+  "updated": "2026-11-01T13:19:19.995756+00:00",
   "items": [
     {
       "title": "Epäiltyjä rattijuopumuksia lauantaina Outokummussa ja Kiteellä",
@@ -1480,46 +1480,6 @@
       "description": "Kolari ruuhkauttaa liikennettä Lahdessa valtatie 12:lla",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Huittisissa auto törmäsi lapseen suojatiellä – poliisi pyysi havaintoja",
-      "link": "https://poliisi.fi/-/poliisi-pyytaa-silminnakijahavaintoja-huittisissa-lapseen-tormanneesta-autoilijasta",
-      "date": "2026-10-02T12:30:00+03:00",
-      "region": "",
-      "description": "Poliisin mukaan auto törmäsi 6-vuotiaaseen lapseen Lauttakylänkadulla ja kuljettaja poistui paikalta. Lapsi ei loukkaantunut vakavasti. Lokakuun arkistotiedote.",
-      "source": "Poliisi",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Poliisi etsii yli 90-vuotiasta kadonnutta miestä Keiteleeltä",
-      "link": "https://poliisi.fi/-/poliisi-etsii-yli-90-vuotiasta-kadonnutta-miesta-keiteleelta",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-02T11:54:00+00:00",
-      "region": "",
-      "description": "Poliisi etsii yli 90-vuotiasta kadonnutta miestä Keiteleeltä",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Vakava varoitus Citrix NetScaler -haavoittuvuuksia on käytetty tietomurtoihin Suomessa",
-      "link": "https://www.traficom.fi/fi/uutiset/vakava-varoitus-citrix-netscaler-haavoittuvuuksia-kaytetty-tietomurtoihin-suomessa?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "source": "Traficom – kyberturvallisuus",
-      "date": "2026-10-02T10:46:25+00:00",
-      "region": "",
-      "description": "Traficomin Kyberturvallisuuskeskus varoittaa Citrix NetScaler -haavoittuvuuksista, joita on käytetty tietomurtoihin Suomessa jo ennen korjausten julkaisua.",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Nuorten juhlat Rosendahlin rannassa – Vakava varoitus!",
-      "link": "https://poliisi.fi/-/nuorten-juhlat-rosendahlin-rannassa-vakava-varoitus-",
-      "source": "Sisä-Suomen poliisilaitos",
-      "date": "2026-10-02T07:56:00+00:00",
-      "region": "",
-      "description": "Nuorten juhlat Rosendahlin rannassa – Vakava varoitus!",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -1544,7 +1504,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 708,
+  "newly_fetched": 908,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1578,15 +1538,15 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1670,12 +1630,12 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
+      "Hämeen",
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
