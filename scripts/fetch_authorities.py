@@ -109,7 +109,7 @@ EXCLUDE=re.compile(r"webinaari|vaalitavoitteet|yleistiedoksianto|kuulutus|hankin
 def load_municipalities():
  path=os.path.join(ROOT,"viranomaiset","index.html")
  with open(path,encoding="utf-8") as f:page=f.read()
- match=re.search(r"const municipalityMap=(\\{.*?\\});function norm\\(",page,re.S)
+ match=re.search(r"const municipalityMap=(\{.*?\});function norm\(",page,re.S)
  if not match:raise RuntimeError("Municipality map not found in website")
  result=json.loads(match.group(1))
  if len(result)!=19 or sum(len(v) for v in result.values())!=308:
