@@ -147,7 +147,7 @@ PLACE_ALIASES={
  "Kitee":["Kitee","Kiteellä","Kiteeltä","Kiteelle","Kiteen"],
 }
 PLACE_PATTERNS=[
- (place,province,re.compile(r"(?<!\\w)(?:"+ "|".join(re.escape(v) for v in PLACE_ALIASES.get(place,[place,place+"ssa",place+"ssä",place+"sta",place+"stä",place+"lla",place+"llä",place+"lta",place+"ltä",place+"lle",place+"n"])) +r")(?!\\w)",re.I))
+ (place,province,re.compile(r"(?<!\w)(?:"+ "|".join(re.escape(v) for v in PLACE_ALIASES.get(place,[place,place+"ssa",place+"ssä",place+"sta",place+"stä",place+"lla",place+"llä",place+"lta",place+"ltä",place+"lle",place+"n"])) +r")(?!\w)",re.I))
  for province,places in MUNICIPALITIES.items() for place in places
 ]
 def enrich_location(item):
