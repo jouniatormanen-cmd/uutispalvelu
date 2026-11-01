@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-01T17:55:32.753030+00:00",
+  "updated": "2026-11-01T18:23:51.196795+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Suomenlahti, ti 14.00 - ke 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-01/15-30-57Z/2.49.0.1.246.0.0.2026.26321457.141109538284521365703077900120116235625.xml",
-      "description": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 40 % tiistaipäivästä tiistain ja keskiviikon väliseen yöhön.",
-      "starts": null,
-      "expires": "2026-11-03T22:00:00+00:00"
-    },
-    {
       "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ti 5.00 - 17.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-01/15-30-57Z/2.49.0.1.246.0.0.2026.26321457.8704559355110255625130088353194256761.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-01/18-00-04Z/2.49.0.1.246.0.0.2026.26330404.8704559355110255625130088353194256761.xml",
       "description": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 60 % tiistaina aamulla ja päivällä.",
       "starts": null,
       "expires": "2026-11-03T15:00:00+00:00"
     },
     {
+      "title": "Keltainen tuulivaroitus merelle: Suomenlahti, ti 14.00 - ke 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-01/18-00-04Z/2.49.0.1.246.0.0.2026.26330404.141109538284521365703077900120116235625.xml",
+      "description": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 40 % tiistaipäivästä tiistain ja keskiviikon väliseen yöhön.",
+      "starts": null,
+      "expires": "2026-11-03T22:00:00+00:00"
+    },
+    {
       "title": "Keltainen liikennesää: Paikoin maan keski- ja pohjoisosa, ma 2.00 - 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-01/15-30-57Z/2.49.0.1.246.0.0.2026.26321457.69492191939524304530310525245080991596.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-01/18-00-04Z/2.49.0.1.246.0.0.2026.26330404.69492191939524304530310525245080991596.xml",
       "description": "Liikennesää: Ajokeli muuttuu huonoksi yöllä ja aamulla tienpintojen jäätymisen vuoksi.",
       "starts": null,
       "expires": "2026-11-02T07:00:00+00:00"
