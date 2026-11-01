@@ -105,27 +105,18 @@ def collect(source,page):
 RELEVANT=re.compile(r"rakennuspalo|savuhavainto|palohälytys|ulosajo|peräänajo|törmäys|törmäsi|puukotus|öljyvahinko|kaasuvuoto|rikos|ratti|ylinopeus|liikennevalvonta|kadonnut|löytynyt|etsii|havainto|operaati|kiinniotto|epäil|onnettomuus|kolari|tulipalo|maastopalo|palo |pelast|poliisi etsii|kadonnut|etsintä|ryöstö|murto|varkau|pahoinpitely|väkival|ampumi|liikennehäi|tie sulj|tiesul|tietyö|kiertotie|ruuhka|junaliiken|liikennekatko|sähkökatko|vesikatko|vedenkeitt|juomaves|myrsky|säävaroit|varoitus|tulva|liukka|pakkan|helle|takaisinveto|tuotevirhe|huijaus|petos|tietomurto|häiriö|katkos|palvelukatko|epidemia|tartunta|terveysriski|saastun|vaaratiedote|evaku|lakko|peruuntu|peruttu|suljettu|avataan|muuttuu|muutos|hinnat|hintojen|etuuden|etuudet|asumistuki|toimeentulotuki|työttömyys|kela",re.I)
 EXCLUDE=re.compile(r"webinaari|vaalitavoitteet|yleistiedoksianto|kuulutus|hankintailmoitus|huutokauppa|lakiesitys|lausuntokierros|lausunto |lausunto:|hallitus esittää|ministeri tapasi|ministeri osallist|nimitys|nimitettiin|työryhmä|strategia|selonteko|valiokunta|eduskunnan käsittely|asetusehdotus|budjettiriihi|virkanimitys|seminaar|konferenssi|vuosikertomus|tutkimushanke",re.I)
 # Enrich municipal metadata without guessing locations from the publisher's name.
-MUNICIPALITIES = {
- "Uusimaa":["Askola","Espoo","Hanko","Helsinki","Hyvinkää","Inkoo","Järvenpää","Karkkila","Kauniainen","Kerava","Kirkkonummi","Lapinjärvi","Lohja","Loviisa","Myrskylä","Mäntsälä","Nurmijärvi","Pornainen","Porvoo","Pukkila","Raasepori","Sipoo","Siuntio","Tuusula","Vantaa","Vihti"],
- "Varsinais-Suomi":["Turku","Kaarina","Raisio","Naantali","Salo","Parainen","Lieto","Loimaa","Uusikaupunki"],
- "Pirkanmaa":["Tampere","Nokia","Ylöjärvi","Kangasala","Lempäälä","Pirkkala","Valkeakoski","Sastamala"],
- "Päijät-Häme":["Lahti","Hollola","Heinola","Orimattila"],
- "Kanta-Häme":["Hämeenlinna","Riihimäki","Forssa"],
- "Kymenlaakso":["Kotka","Kouvola","Hamina"],
- "Etelä-Karjala":["Lappeenranta","Imatra"],
- "Etelä-Savo":["Mikkeli","Savonlinna","Pieksämäki"],
- "Pohjois-Savo":["Kuopio","Iisalmi","Varkaus"],
- "Pohjois-Karjala":["Joensuu","Lieksa","Nurmes"],
- "Keski-Suomi":["Jyväskylä","Jämsä","Äänekoski"],
- "Etelä-Pohjanmaa":["Seinäjoki","Kauhava","Kurikka"],
- "Pohjanmaa":["Vaasa","Mustasaari","Pietarsaari"],
- "Keski-Pohjanmaa":["Kokkola","Kannus"],
- "Pohjois-Pohjanmaa":["Oulu","Raahe","Kuusamo","Ylivieska"],
- "Kainuu":["Kajaani","Sotkamo","Kuhmo"],
- "Lappi":["Rovaniemi","Kemi","Tornio","Kemijärvi","Inari"],
- "Satakunta":["Pori","Rauma","Ulvila"],
- "Ahvenanmaa":["Maarianhamina"],
-}
+# Use the same complete municipality/region map as the website, avoiding drift.
+def load_municipalities():
+ path=os.path.join(ROOT,"viranomaiset","index.html")
+ with open(path,encoding="utf-8") as f:page=f.read()
+ match=re.search(r"const municipalityMap=(\\{.*?\\});function norm\\(",page,re.S)
+ if not match:raise RuntimeError("Municipality map not found in website")
+ result=json.loads(match.group(1))
+ if len(result)!=19 or sum(len(v) for v in result.values())!=308:
+  raise RuntimeError("Municipality map incomplete")
+ return result
+MUNICIPALITIES=load_municipalities()
+
 # Only title and description are used: publisher coverage does not imply event location.
 # Match actual Finnish place-name forms; do not infer an event's location from its publisher.
 PLACE_ALIASES={
