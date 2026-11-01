@@ -127,17 +127,37 @@ MUNICIPALITIES = {
  "Ahvenanmaa":["Maarianhamina"],
 }
 # Only title and description are used: publisher coverage does not imply event location.
-PLACE_PATTERNS = [(place,province,re.compile(r"(?<!\w)"+re.escape(place)+r"(?:ssa|ssä|sta|stä|lla|llä|lta|ltä|n|an|en|in|on|un|yn|een|iin|lle)?(?!\w)",re.I)) for province,places in MUNICIPALITIES.items() for place in places]
+# Match actual Finnish place-name forms; do not infer an event's location from its publisher.
+PLACE_ALIASES={
+ "Helsinki":["Helsinki","Helsingissä","Helsingistä","Helsinkiin","Helsingin","Helsingille"],
+ "Turku":["Turku","Turussa","Turusta","Turkuun","Turun"],
+ "Tampere":["Tampere","Tampereella","Tampereelta","Tampereelle","Tampereen"],
+ "Lahti":["Lahti","Lahdessa","Lahdesta","Lahteen","Lahden"],
+ "Oulu":["Oulu","Oulussa","Oulusta","Ouluun","Oulun"],
+ "Pori":["Pori","Porissa","Porista","Poriin","Porin"],
+ "Kemi":["Kemi","Kemissä","Kemistä","Kemiin","Kemin"],
+ "Kotka":["Kotka","Kotkassa","Kotkasta","Kotkaan","Kotkan"],
+ "Hämeenlinna":["Hämeenlinna","Hämeenlinnassa","Hämeenlinnasta","Hämeenlinnaan","Hämeenlinnan"],
+ "Jyväskylä":["Jyväskylä","Jyväskylässä","Jyväskylästä","Jyväskylään","Jyväskylän"],
+ "Porvoo":["Porvoo","Porvoossa","Porvoosta","Porvooseen","Porvoon"],
+ "Vantaa":["Vantaa","Vantaalla","Vantaalta","Vantaalle","Vantaan"],
+ "Espoo":["Espoo","Espoossa","Espoosta","Espooseen","Espoon"],
+ "Sipoo":["Sipoo","Sipoossa","Sipoosta","Sipooseen","Sipoon"],
+ "Loviisa":["Loviisa","Loviisassa","Loviisasta","Loviisaan","Loviisan"],
+ "Kitee":["Kitee","Kiteellä","Kiteeltä","Kiteelle","Kiteen"],
+}
+PLACE_PATTERNS=[
+ (place,province,re.compile(r"(?<!\\w)(?:"+ "|".join(re.escape(v) for v in PLACE_ALIASES.get(place,[place,place+"ssa",place+"ssä",place+"sta",place+"stä",place+"lla",place+"llä",place+"lta",place+"ltä",place+"lle",place+"n"])) +r")(?!\\w)",re.I))
+ for province,places in MUNICIPALITIES.items() for place in places
+]
 def enrich_location(item):
- if item.get("municipality"):return item
  content=" ".join((item.get("title",""),item.get("description","")))
- found=[(place,province) for place,province,pattern in PLACE_PATTERNS if pattern.search(content)]
+ found={(place,province) for place,province,pattern in PLACE_PATTERNS if pattern.search(content)}
+ # Retained news is checked again instead of trusting old, potentially incorrect metadata.
+ item["municipality"]=item["province"]=item["region"]=""
  if len(found)==1:
-  item["municipality"],item["province"]=found[0]
-  item["region"]=found[0][0]
- elif not found:
-  item.setdefault("municipality","")
-  item.setdefault("province","")
+  place,province=next(iter(found))
+  item.update(municipality=place,province=province,region=place)
  return item
 
 # Identify explicitly mentioned locations, not the publisher's headquarters.
