@@ -42,6 +42,15 @@ def main():
   result["status"]="ok"
  except Exception as exc:
   print("FMI warnings unavailable:",exc)
+  # Do not overwrite a previously successful feed with a misleading empty result.
+  try:
+   with open(OUT,encoding="utf-8") as previous_file:previous=json.load(previous_file)
+   if previous.get("status")=="ok":
+    previous["status"]="unavailable"
+    previous["updated"]=now.isoformat()
+    previous["items"]=[]
+    result=previous
+  except (OSError,ValueError):pass
  os.makedirs(os.path.dirname(OUT),exist_ok=True)
  with open(OUT,"w",encoding="utf-8") as f:json.dump(result,f,ensure_ascii=False,indent=2)
  print("Current verified-expiry warnings:",len(result["items"]),result["status"])
