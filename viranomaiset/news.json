@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:59:02.383955+00:00",
+  "updated": "2026-11-01T07:50:14.891703+00:00",
   "items": [
     {
       "title": "Hämeessä viikonloppuna runsaasti rattijuoppoja liikenteessä",
@@ -1384,7 +1384,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 908,
+  "newly_fetched": 1008,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1412,9 +1412,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1424,15 +1424,15 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lapin poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Lapin poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1442,7 +1442,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1512,11 +1512,11 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Lapin"
+      "Itä-Uudenmaan"
     ],
     "police_missing": [
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
