@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-01T06:06:23.988305+00:00",
+  "updated": "2026-11-01T06:59:02.383955+00:00",
   "items": [
+    {
+      "title": "Hämeessä viikonloppuna runsaasti rattijuoppoja liikenteessä",
+      "link": "https://poliisi.fi/-/hameessa-viikonloppuna-runsaasti-rattijuoppoja-liikenteessa",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-11-01T06:44:00+00:00",
+      "region": "",
+      "description": "Hämeessä viikonloppuna runsaasti rattijuoppoja liikenteessä",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Keski-Suomen pelastuslaitoksen mediatiedote",
       "link": "https://www.sttinfo.fi/tiedote/72463025/keski-suomen-pelastuslaitoksen-mediatiedote?lang=fi",
@@ -1350,16 +1360,6 @@
       "description": "",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Poliisi on tavoittanut miehen, josta pyysi havaintoja Jyväskylässä",
-      "link": "https://poliisi.fi/-/poliisi-on-tavoittanut-miehen-josta-pyysi-havaintoja-jyvaskylassa",
-      "source": "Sisä-Suomen poliisilaitos",
-      "date": "2026-10-01T06:38:00+00:00",
-      "region": "Jyväskylä",
-      "description": "Poliisi on tavoittanut miehen, josta pyysi havaintoja Jyväskylässä",
-      "municipality": "Jyväskylä",
-      "province": "Keski-Suomi"
     }
   ],
   "sources": [
@@ -1384,7 +1384,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 1208,
+  "newly_fetched": 908,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1412,27 +1412,27 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Lapin poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Lapin poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1466,9 +1466,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -1512,16 +1512,16 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Sisä-Suomen"
+      "Lapin"
     ],
     "police_missing": [
-      "Lapin",
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",

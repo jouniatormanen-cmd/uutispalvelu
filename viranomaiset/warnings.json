@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-01T06:06:16.338684+00:00",
+  "updated": "2026-11-01T06:58:56.845499+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, su 5.08 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-01/03-08-52Z/2.49.0.1.246.0.0.2026.26276932.82422306182917938148502042673533276266.xml",
-      "description": "Kovan tuulen varoitus: Lounaistuulta aluksi 15 m/s.",
+      "title": "Keltainen tuulivaroitus merelle: Perämeren pohjoisosa, su 8.35 - 11.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-01/06-35-44Z/2.49.0.1.246.0.0.2026.26289344.82422306182917938148502042673533276266.xml",
+      "description": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
       "starts": null,
-      "expires": "2026-11-01T12:00:00+00:00"
+      "expires": "2026-11-01T09:00:00+00:00"
     }
   ]
 }
