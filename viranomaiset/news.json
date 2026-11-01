@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-01T09:22:50.636701+00:00",
+  "updated": "2026-11-01T10:05:55.313099+00:00",
   "items": [
+    {
+      "title": "Epäiltyjä rattijuopumuksia lauantaina Outokummussa ja Kiteellä",
+      "link": "https://poliisi.fi/-/epailtyja-rattijuopumuksia-lauantaina-outokummussa-ja-kiteella",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-01T09:36:00+00:00",
+      "region": "Kitee",
+      "description": "Epäiltyjä rattijuopumuksia lauantaina Outokummussa ja Kiteellä",
+      "municipality": "Kitee",
+      "province": "Pohjois-Karjala"
+    },
     {
       "title": "Hämeessä viikonloppuna runsaasti rattijuoppoja liikenteessä",
       "link": "https://poliisi.fi/-/hameessa-viikonloppuna-runsaasti-rattijuoppoja-liikenteessa",
@@ -1384,7 +1394,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 1008,
+  "newly_fetched": 1208,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1412,9 +1422,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1430,9 +1440,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1512,11 +1522,11 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Kaakkois-Suomen"
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
+      "Lapin"
     ],
     "police_missing": [
-      "Itä-Uudenmaan",
-      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
