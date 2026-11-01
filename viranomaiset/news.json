@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:43:52.383849+00:00",
+  "updated": "2026-11-01T20:12:54.065661+00:00",
   "items": [
     {
       "title": "Sipoon alueella kadonnut 54-vuotias mies",
@@ -1615,7 +1615,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 908,
+  "newly_fetched": 1408,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1637,27 +1637,27 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1691,9 +1691,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1748,12 +1748,12 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Lapin"
-    ],
-    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
+      "Lapin"
+    ],
+    "police_missing": [
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
@@ -1789,7 +1789,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-02T19:43:52.383849+00:00",
+  "window_start": "2026-10-02T20:12:54.065661+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
