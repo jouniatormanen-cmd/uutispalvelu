@@ -1,15 +1,8 @@
 {
-  "updated": "2026-11-01T11:45:49.547611+00:00",
+  "updated": "2026-11-01T12:26:51.456264+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
-    {
-      "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, su 11.29 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-01/09-29-35Z/2.49.0.1.246.0.0.2026.26299775.33008353125333833156118627232592453710.xml",
-      "description": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
-      "starts": null,
-      "expires": "2026-11-01T12:00:00+00:00"
-    },
     {
       "title": "Keltainen liikennesää: Paikoin maan keski- ja pohjoisosa, ma 2.00 - 9.00",
       "link": "https://alerts.fmi.fi/cap/2026/11-01/09-29-35Z/2.49.0.1.246.0.0.2026.26299775.69492191939524304530310525245080991596.xml",
