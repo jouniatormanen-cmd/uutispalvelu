@@ -11,7 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,9 +19,17 @@ jobs:
           python-version: '3.12'
       - name: Fetch feeds
         run: |
-          python scripts/fetch_news.py
-          python scripts/fetch_authorities.py
-          python scripts/fetch_warnings.py
+          python scripts/fetch_news.py &
+          p1=$!
+          python scripts/fetch_authorities.py &
+          p2=$!
+          python scripts/fetch_warnings.py &
+          p3=$!
+          wait "$p1"; r1=$?
+          wait "$p2"; r2=$?
+          wait "$p3"; r3=$?
+          echo "Collector results: general=$r1 authority=$r2 warnings=$r3"
+          test "$r1" -eq 0 && test "$r2" -eq 0 && test "$r3" -eq 0
       - name: Validate collected authority news
         run: |
           python - <<'PY'
