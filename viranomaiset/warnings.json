@@ -1,0 +1,21 @@
+{
+  "updated": "2026-11-01T00:19:41.298669+00:00",
+  "source": "Ilmatieteen laitos",
+  "status": "ok",
+  "items": [
+    {
+      "title": "Keltainen tuulivaroitus merelle: Perämeri, su 0.01 - 14.00",
+      "link": "https://alerts.fmi.fi/cap/2026/10-31/22-01-03Z/2.49.0.1.246.0.0.2026.26258463.82422306182917938148502042673533276266.xml",
+      "description": "Kovan tuulen varoitus: Lounaistuulta aluksi 15 m/s.",
+      "starts": null,
+      "expires": "2026-11-01T12:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, su 3.00 - 14.00",
+      "link": "https://alerts.fmi.fi/cap/2026/10-31/22-01-03Z/2.49.0.1.246.0.0.2026.26258463.258490502377566429962024821762487047750.xml",
+      "description": "Kovan tuulen varoitus: Etelän ja lounaan välistä tuulta aluksi 14 m/s.",
+      "starts": null,
+      "expires": "2026-11-01T12:00:00+00:00"
+    }
+  ]
+}
