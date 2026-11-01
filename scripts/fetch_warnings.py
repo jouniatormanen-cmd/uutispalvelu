@@ -28,6 +28,12 @@ def main():
    # RSS publication time is not the warning expiry time.
    # Never present an alert as active without a verified CAP expiry.
    expires=date(child(item,"expires"))
+   if not expires and link.startswith("https://alerts.fmi.fi/"):
+    try:
+     with urllib.request.urlopen(urllib.request.Request(link,headers={"User-Agent":"Tilanneuutiset/1.0"}),timeout=8) as cap_response:
+      cap=ET.fromstring(cap_response.read(500000))
+     expires=date(child(cap,"expires"))
+    except Exception:pass
    starts=date(child(item,"onset")) or date(child(item,"effective"))
    kind=child(item,"msgType")
    if kind=="Cancel" or not expires or expires<=now or (starts and starts>now+dt.timedelta(days=5)):continue
