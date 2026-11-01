@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-01T14:04:40.871511+00:00",
+  "updated": "2026-11-01T14:42:57.906979+00:00",
   "items": [
+    {
+      "title": "Rattijuopumuksia viikonlopun aikana Pohjois-Savossa.",
+      "link": "https://poliisi.fi/-/rattijuopumuksia-viikonlopun-aikana-pohjois-savossa-1",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-01T13:30:00+00:00",
+      "region": "",
+      "description": "Rattijuopumuksia viikonlopun aikana Pohjois-Savossa.",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Epäiltyjä rattijuopumuksia lauantaina Outokummussa ja Kiteellä",
       "link": "https://poliisi.fi/-/epailtyja-rattijuopumuksia-lauantaina-outokummussa-ja-kiteella",
@@ -1586,7 +1596,7 @@
     "Ilta-Sanomat",
     "Iltalehti"
   ],
-  "newly_fetched": 1228,
+  "newly_fetched": 1128,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1608,21 +1618,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Itä-Uudenmaan poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -1632,9 +1642,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1644,7 +1654,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1662,9 +1672,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1725,13 +1735,13 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Lapin",
+      "Itä-Suomen",
       "Oulun"
     ],
     "police_missing": [
-      "Itä-Suomen",
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Pohjanmaan",
@@ -1766,12 +1776,12 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-02T14:04:40.871511+00:00",
+  "window_start": "2026-10-02T14:42:57.906979+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 9,
-    "Itä-Suomen poliisilaitos": 23,
+    "Itä-Suomen poliisilaitos": 24,
     "Itä-Uudenmaan poliisilaitos": 12,
     "Kaakkois-Suomen poliisilaitos": 5,
     "Keskusrikospoliisi": 2,
