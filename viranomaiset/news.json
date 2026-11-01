@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-01T04:37:35.717116+00:00",
+  "updated": "2026-11-01T05:25:21.176436+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitoksen mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72463025/keski-suomen-pelastuslaitoksen-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-01T04:54:39+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Mediatiedote Keski-Suomen pelastuslaitos",
       "link": "https://www.sttinfo.fi/tiedote/72462827/mediatiedote-keski-suomen-pelastuslaitos?lang=fi",
@@ -1374,7 +1384,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 1208,
+  "newly_fetched": 1008,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1396,9 +1406,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -1426,13 +1436,13 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1501,13 +1511,13 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Lounais-Suomen"
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
+      "Itä-Suomen",
       "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
