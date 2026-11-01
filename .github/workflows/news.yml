@@ -25,9 +25,9 @@ jobs:
           p2=$!
           python scripts/fetch_warnings.py &
           p3=$!
-          wait "$p1"; r1=$?
-          wait "$p2"; r2=$?
-          wait "$p3"; r3=$?
+          r1=0; wait "$p1" || r1=$?
+          r2=0; wait "$p2" || r2=$?
+          r3=0; wait "$p3" || r3=$?
           echo "Collector results: general=$r1 authority=$r2 warnings=$r3"
           test "$r1" -eq 0 && test "$r2" -eq 0 && test "$r3" -eq 0
       - name: Validate collected authority news
