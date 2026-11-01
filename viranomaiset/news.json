@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:33:26.715215+00:00",
+  "updated": "2026-11-01T09:22:50.636701+00:00",
   "items": [
     {
       "title": "Hämeessä viikonloppuna runsaasti rattijuoppoja liikenteessä",
@@ -1384,7 +1384,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 908,
+  "newly_fetched": 1008,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1412,21 +1412,21 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
     },
     {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1512,10 +1512,10 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
-      "Kaakkois-Suomen",
+      "Itä-Uudenmaan",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
