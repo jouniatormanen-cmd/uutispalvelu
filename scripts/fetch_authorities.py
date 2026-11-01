@@ -5,6 +5,7 @@ from html.parser import HTMLParser
 
 ROOT=os.path.dirname(os.path.dirname(__file__))
 OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
+ARCHIVE=os.path.join(ROOT,"viranomaiset","archive.json")
 SOURCES=[
 ("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
  ("Poliisi – valtakunnallinen RSS","https://poliisi.fi/etusivu/-/asset_publisher/mhkofNyGe9wn/rss"),
@@ -175,6 +176,9 @@ def main():
  try:
   with open(OUTPUT,encoding="utf-8") as f:old=json.load(f).get("items",[])
  except (OSError,ValueError):pass
+ try:
+  with open(ARCHIVE,encoding="utf-8") as f:old+=json.load(f).get("items",[])
+ except (OSError,ValueError):pass
  with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
   futures=[pool.submit(collect,*s) for s in SOURCES]
   results=[f.result() for f in futures]
@@ -198,13 +202,14 @@ def main():
   try:published=dt.datetime.fromisoformat(n["date"]) if n.get("date") else now
   except ValueError:continue
   if published>now+dt.timedelta(hours=12):continue
-  if (now-published).days>30:continue
   if not consumer_relevant(n):continue
   if not n.get("date"):continue
   key=n["link"].split("?")[0].rstrip("/")
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
- ordered=sorted((enrich_location(n) for n in items.values()),key=lambda n:n.get("date") or "",reverse=True)[:1500]
+ ordered=sorted((enrich_location(n) for n in items.values()),key=lambda n:n.get("date") or "",reverse=True)
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
- with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring,"coverage":coverage},f,ensure_ascii=False,indent=2)
+ with open(ARCHIVE,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered},f,ensure_ascii=False,indent=2)
+ recent=[n for n in ordered if now-dt.datetime.fromisoformat(n["date"])<=dt.timedelta(days=30)][:1500]
+ with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":recent,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring,"coverage":coverage},f,ensure_ascii=False,indent=2)
  print("Saved",len(ordered),"authority headlines; new fetched",len(fresh))
 if __name__=="__main__":main()
