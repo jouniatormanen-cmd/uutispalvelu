@@ -217,7 +217,8 @@ def main():
  ordered=sorted((enrich_location(n) for n in items.values()),key=lambda n:n.get("date") or "",reverse=True)
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
  with open(ARCHIVE,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered},f,ensure_ascii=False,indent=2)
- recent=[n for n in ordered if now-dt.datetime.fromisoformat(n["date"])<=dt.timedelta(days=30)][:1500]
- with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":recent,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring,"coverage":coverage},f,ensure_ascii=False,indent=2)
+ recent=[n for n in ordered if dt.timedelta(0)<=now-dt.datetime.fromisoformat(n["date"])<=dt.timedelta(days=30)]
+ source_counts={source:sum(n.get("source")==source for n in recent) for source,_ in SOURCES}
+ with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":recent,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring,"coverage":coverage,"window_days":30,"window_start":(now-dt.timedelta(days=30)).isoformat(),"source_counts_30d":source_counts},f,ensure_ascii=False,indent=2)
  print("Saved",len(ordered),"authority headlines; new fetched",len(fresh))
 if __name__=="__main__":main()
