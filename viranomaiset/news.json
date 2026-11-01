@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:54:00.471438+00:00",
+  "updated": "2026-11-01T04:37:35.717116+00:00",
   "items": [
     {
       "title": "Mediatiedote Keski-Suomen pelastuslaitos",
@@ -222,6 +222,16 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Vakava liikenneonnettomuus Turun Vehkaniitunkadulla",
+      "link": "https://poliisi.fi/-/vakava-liikenneonnettomuus-turun-vehkaniitunkadulla",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-29T09:53:00+00:00",
+      "region": "Turku",
+      "description": "Vakava liikenneonnettomuus Turun Vehkaniitunkadulla",
+      "municipality": "Turku",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Tampereella kadonnut nainen on löytynyt",
       "link": "https://poliisi.fi/-/tampereella-kadonnut-nainen-on-loytynyt-3",
       "source": "Sisä-Suomen poliisilaitos",
@@ -230,6 +240,36 @@
       "description": "Tampereella kadonnut nainen on löytynyt",
       "municipality": "Tampere",
       "province": "Pirkanmaa"
+    },
+    {
+      "title": "Kaarinasta kadonnut 78- vuotias löytyi Turusta",
+      "link": "https://poliisi.fi/-/kaarinasta-kadonnut-78-vuotias-loytyi-turusta",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-29T07:34:00+00:00",
+      "region": "",
+      "description": "Kaarinasta kadonnut 78- vuotias löytyi Turusta",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Rattijuopumuksia Porissa",
+      "link": "https://poliisi.fi/-/rattijuopumuksia-porissa-30",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-29T07:16:00+00:00",
+      "region": "Pori",
+      "description": "Rattijuopumuksia Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
+      "title": "Kaarinan Poikluomalta kadonnut vanhus",
+      "link": "https://poliisi.fi/-/kaarinan-poikluomalta-kadonnut-vanhus",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-29T06:50:00+00:00",
+      "region": "Kaarina",
+      "description": "Kaarinan Poikluomalta kadonnut vanhus",
+      "municipality": "Kaarina",
+      "province": "Varsinais-Suomi"
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -532,6 +572,16 @@
       "province": ""
     },
     {
+      "title": "Hoivakotikuolemaan liittyvä rikosepäily syyteharkintaan",
+      "link": "https://poliisi.fi/-/hoivakotikuolemaan-liittyva-rikosepaily-syyteharkintaan",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-23T12:38:00+00:00",
+      "region": "",
+      "description": "Hoivakotikuolemaan liittyvä rikosepäily syyteharkintaan",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Havaintopyyntö Kouvolassa polttoainetta perävaunussa kuljettaneesta ajoneuvosta",
       "link": "https://poliisi.fi/-/havaintopyynto-kouvolassa-polttoainetta-peravaunussa-kuljettaneesta-ajoneuvosta",
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -578,6 +628,26 @@
       "date": "2026-10-23T06:58:14+00:00",
       "region": "",
       "description": "Traficomin mukaan tietoturvahaavoittuvuuksia löydetään ennätystahtia. Kehitys edellyttää organisaatioilta entistä nopeampaa reagointia.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi selvitti Kemiönsaaren syyskuiset perämoottorivarkaudet",
+      "link": "https://poliisi.fi/-/poliisi-selvitti-kemionsaaren-syyskuiset-peramoottorivarkaudet",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-22T13:37:00+00:00",
+      "region": "",
+      "description": "Poliisi selvitti Kemiönsaaren syyskuiset perämoottorivarkaudet",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi sai kukkalähettihuijarin kiinni – tutkinnassa 20 epäiltyä rikosta",
+      "link": "https://poliisi.fi/-/poliisi-sai-kukkalahettihuijarin-kiinni-tutkinnassa-20-epailtya-rikosta",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-22T12:35:00+00:00",
+      "region": "",
+      "description": "Poliisi sai kukkalähettihuijarin kiinni – tutkinnassa 20 epäiltyä rikosta",
       "municipality": "",
       "province": ""
     },
@@ -722,6 +792,16 @@
       "province": ""
     },
     {
+      "title": "Pahoinpitelytehtäviä Laitilassa viikonloppuna",
+      "link": "https://poliisi.fi/-/pahoinpitelytehtavia-laitilassa-viikonloppuna",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-19T12:57:00+00:00",
+      "region": "Laitila",
+      "description": "Pahoinpitelytehtäviä Laitilassa viikonloppuna",
+      "municipality": "Laitila",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Yksi kuoli kolarissa Juuassa",
       "link": "https://poliisi.fi/-/yksi-kuoli-kolarissa-juuassa",
       "source": "Itä-Suomen poliisilaitos",
@@ -802,6 +882,16 @@
       "province": ""
     },
     {
+      "title": "Porin peruutusonnettomuudessa ei rikosta",
+      "link": "https://poliisi.fi/-/porin-peruutusonnettomuudessa-ei-rikosta",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-16T13:07:00+00:00",
+      "region": "Pori",
+      "description": "Porin peruutusonnettomuudessa ei rikosta",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
       "title": "Vakava liikenneonnettomuus Taipalsaarella – poliisi pyytää havaintoja",
       "link": "https://poliisi.fi/-/yksi-loukkaantui-vakavasti-liikenneonnettomuudessa-taipalsaarella-poliisi-pyytaa-silminnakijahavaintoja",
       "source": "Poliisi",
@@ -828,6 +918,26 @@
       "date": "2026-10-15T12:00:00+00:00",
       "region": "",
       "description": "Autoilijan epäillään törmänneen lapseen suojatiellä Pieksämäellä - vihjeitä kaivataan",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi epäilee miestä lapsiin kohdistuneista seksuaalirikoksista Satakunnassa",
+      "link": "https://poliisi.fi/-/poliisi-epailee-miesta-lapsiin-kohdistuneista-seksuaalirikoksista-satakunnassa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-15T06:44:00+00:00",
+      "region": "",
+      "description": "Poliisi epäilee miestä lapsiin kohdistuneista seksuaalirikoksista Satakunnassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Rattijuopumuksia Porissa ja Ulvilassa",
+      "link": "https://poliisi.fi/-/rattijuopumuksia-porissa-ja-ulvilassa-1",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-15T06:09:00+00:00",
+      "region": "",
+      "description": "Rattijuopumuksia Porissa ja Ulvilassa",
       "municipality": "",
       "province": ""
     },
@@ -892,6 +1002,16 @@
       "province": "Uusimaa"
     },
     {
+      "title": "Rivitaloasunnon tulipalon epäillään johtuneen huolimattomasta tupakoinnista",
+      "link": "https://poliisi.fi/-/rivitaloasunnon-tulipalon-epaillaan-johtuneen-huolimattomasta-tupakoinnista",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-12T12:33:00+00:00",
+      "region": "",
+      "description": "Rivitaloasunnon tulipalon epäillään johtuneen huolimattomasta tupakoinnista",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Miehen epäillään syyllistyneen useisiin vahingontekoihin",
       "link": "https://poliisi.fi/-/miehen-epaillaan-syyllistyneen-useisiin-vahingontekoihin",
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -952,6 +1072,16 @@
       "province": "Lappi"
     },
     {
+      "title": "Poliisi pyytää havaintoja viikonlopun vahingonteosta Kankaanpäässä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-viikonlopun-vahingonteosta-kankaanpaassa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-09T12:08:00+00:00",
+      "region": "Kankaanpää",
+      "description": "Poliisi pyytää havaintoja viikonlopun vahingonteosta Kankaanpäässä",
+      "municipality": "Kankaanpää",
+      "province": "Satakunta"
+    },
+    {
       "title": "Poliisi etsii polkupyörälle omistajaa",
       "link": "https://poliisi.fi/-/poliisi-etsii-polkupyoralle-omistajaa",
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -970,6 +1100,36 @@
       "description": "Useita vangittu epäiltynä törkeisiin rikoksiin Lahdessa",
       "municipality": "Lahti",
       "province": "Päijät-Häme"
+    },
+    {
+      "title": "Poliisi tutkii nuorten välistä törkeää pahoinpitelyä Porissa",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-nuorten-valista-torkeaa-pahoinpitelya-porissa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-09T09:56:00+00:00",
+      "region": "Pori",
+      "description": "Poliisi tutkii nuorten välistä törkeää pahoinpitelyä Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
+      "title": "Tehostetussa valvonnassa puututtiin päihteiden käyttöön ja häiriöihin koulujen pihoilla",
+      "link": "https://poliisi.fi/-/tehostetussa-valvonnassa-puututtiin-paihteiden-kayttoon-ja-hairioihin-koulujen-pihoilla",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-09T09:00:00+00:00",
+      "region": "",
+      "description": "Tehostetussa valvonnassa puututtiin päihteiden käyttöön ja häiriöihin koulujen pihoilla",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/rattijuopumus-porissa-13",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-09T06:21:00+00:00",
+      "region": "Pori",
+      "description": "Rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
     },
     {
       "title": "Poliisi pyytää havaintoja Kuopiossa kauppakeskus Matkuksen läheisyydessä naisia ahdistelleesta henkilöstä",
@@ -1102,6 +1262,16 @@
       "province": ""
     },
     {
+      "title": "Kadonnut mies Uudessakaupungissa",
+      "link": "https://poliisi.fi/-/kadonnut-mies-uudessakaupungissa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-10-03T18:39:00+00:00",
+      "region": "",
+      "description": "Kadonnut mies Uudessakaupungissa",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Itä-Suomen poliisi etsi Keiteleen Rinteenkylältä kateissa olevaa yli 90-vuotiasta miestä, joka on löytynyt.",
       "link": "https://poliisi.fi/-/ita-suomen-poliisi-etsi-keiteleen-rinteenkylalta-kateissa-olevaa-yli-90-vuotiasta-miesta-joka-on-loytynyt",
       "source": "Itä-Suomen poliisilaitos",
@@ -1204,7 +1374,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 808,
+  "newly_fetched": 1208,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1226,43 +1396,43 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lapin poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
     },
     {
-      "source": "Lounais-Suomen poliisilaitos",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Lapin poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1331,13 +1501,13 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Lapin"
-    ],
-    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lounais-Suomen",
+      "Lounais-Suomen"
+    ],
+    "police_missing": [
+      "Lapin",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
