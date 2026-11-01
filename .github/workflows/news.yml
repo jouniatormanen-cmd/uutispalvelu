@@ -48,9 +48,11 @@ jobs:
           if dt.datetime.now(dt.timezone.utc) - updated > dt.timedelta(minutes=15):
               raise SystemExit("Authority news data was not refreshed")
           PY
+      - name: Generate location pages and sitemap
+        run: python scripts/generate_location_pages.py
       - name: Commit news
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json viranomaiset/news.json viranomaiset/archive.json viranomaiset/warnings.json
+          git add -A news.json viranomaiset/news.json viranomaiset/archive.json viranomaiset/warnings.json viranomaiset/alueet viranomaiset/sitemap.xml
           git diff --cached --quiet || (git commit -m "Update Finnish headlines" && (git push || (git pull --rebase && git push)))
