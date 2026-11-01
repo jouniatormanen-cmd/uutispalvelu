@@ -114,7 +114,7 @@ MUNICIPALITIES = {
  "Ahvenanmaa":["Maarianhamina"],
 }
 # Only title and description are used: publisher coverage does not imply event location.
-PLACE_PATTERNS = [(place,province,re.compile(r"(?<!\\w)"+re.escape(place)+r"(?:ssa|ssä|sta|stä|lla|llä|lta|ltä|n|an|en|in|on|un|yn|een|iin|lle)?(?!\\w)",re.I)) for province,places in MUNICIPALITIES.items() for place in places]
+PLACE_PATTERNS = [(place,province,re.compile(r"(?<!\w)"+re.escape(place)+r"(?:ssa|ssä|sta|stä|lla|llä|lta|ltä|n|an|en|in|on|un|yn|een|iin|lle)?(?!\w)",re.I)) for province,places in MUNICIPALITIES.items() for place in places]
 def enrich_location(item):
  if item.get("municipality"):return item
  content=" ".join((item.get("title",""),item.get("description","")))
@@ -135,7 +135,7 @@ def add_area(n):
  matches=[]
  for province,names in LOCAL_PLACES.items():
   for name in names.split():
-   if re.search(r"(?<!\\w)"+re.escape(name)+r"(?:ssa|ssä|sta|stä|lla|llä|lta|ltä|n)?(?!\\w)",headline,re.I):
+   if re.search(r"(?<!\w)"+re.escape(name)+r"(?:ssa|ssä|sta|stä|lla|llä|lta|ltä|n)?(?!\w)",headline,re.I):
     matches.append((name,province))
  if len(matches)==1:
   n["municipality"],n["province"]=matches[0]
