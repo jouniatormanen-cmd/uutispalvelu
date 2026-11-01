@@ -7,8 +7,11 @@ ROOT=os.path.dirname(os.path.dirname(__file__))
 OUTPUT=os.path.join(ROOT,"viranomaiset","news.json")
 SOURCES=[
 ("Helsingin poliisilaitos","https://poliisi.fi/helsingin-poliisilaitos/-/asset_publisher/ZtAEeHB39Lxr/rss"),
+ ("Poliisi – koko Suomi","https://poliisi.fi/ajankohtaista/-/asset_publisher/yCqu73OvueAR/"),
  ("Keski-Suomen pelastuslaitos","https://www.sttinfo.fi/uutishuone/keski-suomen-hyvinvointialue?publisherId=69821063"),
  ("Ilmatieteen laitos","https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss"),
+ ("Ilmatieteen laitos – säävaroitukset","https://alerts.fmi.fi/cap/feed/rss_fi-FI.rss"),
+ ("Pirkanmaan pelastuslaitos","https://www.sttinfo.fi/uutishuone/69819808/pirkanmaan-pelastuslaitos/r"),
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
  ("Traficom – kyberturvallisuus","https://www.traficom.fi/feed/rss/fi/117"),
 ]
