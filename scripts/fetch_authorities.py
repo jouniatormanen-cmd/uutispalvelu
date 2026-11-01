@@ -164,7 +164,7 @@ def main():
  try:
   with open(OUTPUT,encoding="utf-8") as f:old=json.load(f).get("items",[])
  except (OSError,ValueError):pass
- with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+ with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
   futures=[pool.submit(collect,*s) for s in SOURCES]
   results=[f.result() for f in futures]
   fresh=[n for result in results for n in result[0]]
