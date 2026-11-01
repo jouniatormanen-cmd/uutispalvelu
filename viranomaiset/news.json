@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T05:25:21.176436+00:00",
+  "updated": "2026-11-01T06:06:23.988305+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitoksen mediatiedote",
@@ -1384,7 +1384,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 1008,
+  "newly_fetched": 1208,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1406,9 +1406,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -1466,9 +1466,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -1511,17 +1511,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Kaakkois-Suomen",
+      "Sisä-Suomen"
     ],
     "police_missing": [
-      "Itä-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
