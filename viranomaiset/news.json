@@ -1,29 +1,25 @@
 {
-  "updated": "2026-11-01T00:19:41.219415+00:00",
+  "updated": "2026-11-01T01:29:40.493756+00:00",
   "items": [
-    {
-      "title": "Keltainen tuulivaroitus merelle: Perämeri, su 0.01 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/10-31/22-01-03Z/2.49.0.1.246.0.0.2026.26258463.82422306182917938148502042673533276266.xml",
-      "source": "Ilmatieteen laitos – säävaroitukset",
-      "date": "2026-10-31T22:01:03+00:00",
-      "region": "",
-      "description": "Kovan tuulen varoitus: Lounaistuulta aluksi 15 m/s."
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, su 3.00 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/10-31/22-01-03Z/2.49.0.1.246.0.0.2026.26258463.258490502377566429962024821762487047750.xml",
-      "source": "Ilmatieteen laitos – säävaroitukset",
-      "date": "2026-10-31T22:01:03+00:00",
-      "region": "",
-      "description": "Kovan tuulen varoitus: Etelän ja lounaan välistä tuulta aluksi 14 m/s."
-    },
     {
       "title": "Mediatiedote Keski-Suomen pelastuslaitos",
       "link": "https://www.sttinfo.fi/tiedote/72462827/mediatiedote-keski-suomen-pelastuslaitos?lang=fi",
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-31T16:57:44+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Epäilty rattijuoppo jäi kiinni Kiteellä",
+      "link": "https://poliisi.fi/-/epailty-rattijuoppo-jai-kiinni-kiteella",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-31T13:31:00+00:00",
+      "region": "",
+      "description": "Epäilty rattijuoppo jäi kiinni Kiteellä",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi otti useita henkilöitä kiinni huumausainerikoksista epäiltyinä",
@@ -31,7 +27,19 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-31T13:15:00+00:00",
       "region": "",
-      "description": "Helsingin poliisi on kohdentanut tehostettua valvontaa Puhoksen ostoskeskuksen alueelle useita kertoja tänä vuonna. Poliisi on saanut alueen yrittäjiltä ja asukkailta runsaasti havaintoja alueella käytävästä huumausainekaupasta. Valvonnassa kerättyjen sekä kansalaisilta ja sidosryhmiltä saatujen havaintojen perusteella poliisi epäilee, että ostoskeskuksen alueella on käyty järjestäytynyttä huumausainekauppaa. Poliisi suoritti perjantaina rikostutkintoihin liittyvää tutkintaa, kiinniottoja ja etsintöjä Puhoksen ostoskeskuksen alueella sekä muualla. Poliisi otti tehtävän yhteydessä kiinni useita henkilöitä epäiltynä huumausainerikoksista. Lisäksi poliisi takavarikoi epäiltyjä huumausaineita ja käteistä rahaa. Rikosten esitutkinta on kesken, eikä poliisi tällä hetkellä kommentoi asiaa tarkemmin esitutkinnan turvaamiseksi. ]]>"
+      "description": "Helsingin poliisi on kohdentanut tehostettua valvontaa Puhoksen ostoskeskuksen alueelle useita kertoja tänä vuonna. Poliisi on saanut alueen yrittäjiltä ja asukkailta runsaasti havaintoja alueella käytävästä huumausainekaupasta. Valvonnassa kerättyjen sekä kansalaisilta ja sidosryhmiltä saatujen havaintojen perusteella poliisi epäilee, että ostoskeskuksen alueella on käyty järjestäytynyttä huumausainekauppaa. Poliisi suoritti perjantaina rikostutkintoihin liittyvää tutkintaa, kiinniottoja ja etsintöjä Puhoksen ostoskeskuksen alueella sekä muualla. Poliisi otti tehtävän yhteydessä kiinni useita henkilöitä epäiltynä huumausainerikoksista. Lisäksi poliisi takavarikoi epäiltyjä huumausaineita ja käteistä rahaa. Rikosten esitutkinta on kesken, eikä poliisi tällä hetkellä kommentoi asiaa tarkemmin esitutkinnan turvaamiseksi. ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Vantaalla kadonnut 78-vuotias nainen",
+      "link": "https://poliisi.fi/-/vantaalla-kadonnut-78-vuotias-nainen",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-31T10:27:00+00:00",
+      "region": "Vantaa",
+      "description": "Kadonnut on nähty viimeksi lauantaiaamuna 31. lokakuuta 2026 noin kello 8 Leppäkorvessa.",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -39,15 +47,19 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-31T05:40:55+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Seitsemän henkilöä osallisina kahden auton kolarissa Jyväskylässä",
       "link": "https://www.sttinfo.fi/tiedote/72462163/keski-suomen-pelastuslaitos-onnettomuustiedote?publisherId=69821063#jyvaskyla",
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-30T19:05:48+02:00",
-      "region": "Jyväskylä, Keski-Suomi",
-      "description": "Pelastuslaitoksen 30.10. tehtäväkoosteen mukaan Laukaantiellä sattui kahden henkilöauton peräänajo. Seitsemän osallista selvisi vammoitta."
+      "region": "Jyväskylä",
+      "description": "Pelastuslaitoksen 30.10. tehtäväkoosteen mukaan Laukaantiellä sattui kahden henkilöauton peräänajo. Seitsemän osallista selvisi vammoitta.",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
     },
     {
       "title": "Helsingissä kadonnut 73-vuotias nainen",
@@ -55,23 +67,79 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-30T18:33:00+00:00",
       "region": "",
-      "description": "Kello 21.14. Kadonnut on löytynyt. Poliisi kiittää havainnoistaan ilmoittaneita. Tätä uutista ei enää päivitetä. Kello 20.32: Helsingin poliisi etsii Paloheinän kaupunginosassa kadonnutta 73-vuotiasta naista. Nainen on nähty viimeksi noin kello 17.45 perjantaina. Poliisi pyytää kaikki havainnot kadonneesta yleiseen hätänumeroon 112. ]]>"
+      "description": "Kello 21.14. Kadonnut on löytynyt. Poliisi kiittää havainnoistaan ilmoittaneita. Tätä uutista ei enää päivitetä. Kello 20.32: Helsingin poliisi etsii Paloheinän kaupunginosassa kadonnutta 73-vuotiasta naista. Nainen on nähty viimeksi noin kello 17.45 perjantaina. Poliisi pyytää kaikki havainnot kadonneesta yleiseen hätänumeroon 112. ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Huumeratti jäi poliisin haaviin Kontiolahdella.",
+      "link": "https://poliisi.fi/-/huumeratti-jai-poliisin-haaviin-kontiolahdella",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-30T15:01:00+00:00",
+      "region": "",
+      "description": "Huumeratti jäi poliisin haaviin Kontiolahdella.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Konnevedellä kadonnut mies on löytynyt",
+      "link": "https://poliisi.fi/-/konnevedella-kadonnut-mies-on-loytynyt-1",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-30T14:13:00+00:00",
+      "region": "",
+      "description": "Konnevedellä kadonnut mies on löytynyt",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Kaupparyöstäjä edelleen karkuteillä – poliisi pyytää havaintoja Kuopiossa",
       "link": "https://poliisi.fi/-/kaupparyostaja-edelleen-karkuteilla-poliisi-pyytaa-havaintoja-ryostajasta",
       "date": "2026-10-30T13:51:00+02:00",
-      "region": "Kuopio, Pohjois-Savo",
+      "region": "Kuopio",
       "description": "Poliisi pyytää havaintoja Puijonlaakson kaupparyöstöstä 25.10. ja epäillyn liikkeistä.",
-      "source": "Poliisi"
+      "source": "Poliisi",
+      "municipality": "Kuopio",
+      "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Poliisi etsii Konnevedellä kadonnutta iäkästä miestä",
+      "link": "https://poliisi.fi/-/poliisi-etsii-konnevedella-kadonnutta-iakasta-miesta",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-30T12:43:00+00:00",
+      "region": "",
+      "description": "Poliisi etsii Konnevedellä kadonnutta iäkästä miestä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kaakkois-Suomen poliisi selvitti perämoottorivarkauksia ja asuntomurtoja",
+      "link": "https://poliisi.fi/-/kaakkois-suomen-poliisi-selvitti-peramoottorivarkauksia-ja-asuntomurtoja",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-10-30T12:21:00+00:00",
+      "region": "",
+      "description": "Kaakkois-Suomen poliisi on päässyt omaisuusrikollisten jäljille ja selvittänyt kaksi laajahkoa rikoskokonaisuutta Kaakkois- ja Itä-Suomen alueella. Tutkinnan tuloksena useita henkilöitä on vangittu käräjäoikeuden päätöksellä.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keskusrikospoliisi epäilee: Suomalaismies ylläpiti laitonta materiaalia sisältävää verkkopalvelua",
+      "link": "https://poliisi.fi/-/keskusrikospoliisi-epailee-suomalaismies-yllapiti-laitonta-materiaalia-sisaltavaa-verkkopalvelua",
+      "source": "Keskusrikospoliisi",
+      "date": "2026-10-30T11:00:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Kiinalaisten työntekijöiden epäillään joutuneen työperäisen ihmiskaupan uhriksi Kotkan akkutehtaalla",
       "link": "https://poliisi.fi/-/kiinalaisten-tyontekijoiden-epaillaan-joutuneen-tyoperaisen-ihmiskaupan-uhriksi-kotkan-akkutehtaalla",
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-30T10:06:00+00:00",
-      "region": "",
-      "description": "Poliisi epäilee rikosta myös työntekijöiden maahantuloon liittyvissä järjestelyissä. Esitutkinta koskee sekä suomalaisen henkilöstövuokrausyrityksen, että kiinalaisen käyttäjäyrityksen toimintaa ja toimijoita. Esitutkinta aloitettiin 10. syyskuuta 2026. Sitä ennen poliisi vastaanotti usealta taholta ilmoituksia epäillystä työperäisestä hyväksikäytöstä. Tekojen epäillään kohdistuneen laajaan joukkoon tehtaalla työskenteleviä kiinalaisia työntekijöitä, jotka eivät puhuneet muuta kieltä kuin kiinaa. Heillä ei ole ollut riittävää tietoa Suomen yhteiskunnasta, omista oikeuksistaan tai työnantajan velvollisuuksista. Poliisi on tehnyt asiaan liittyen kiinniottoja. Yhteensä yhdeksän ihmistä on ollut kiinniotettuina. Näistä neljä on tällä hetkellä tutkintavankeudessa. Esitutkintaa suoritetaan epäiltynä Ihmiskauppana ja törkeänä laittoman maahantulon järjestämisenä. ]]>"
+      "region": "Kotka",
+      "description": "Poliisi epäilee rikosta myös työntekijöiden maahantuloon liittyvissä järjestelyissä. Esitutkinta koskee sekä suomalaisen henkilöstövuokrausyrityksen, että kiinalaisen käyttäjäyrityksen toimintaa ja toimijoita. Esitutkinta aloitettiin 10. syyskuuta 2026. Sitä ennen poliisi vastaanotti usealta taholta ilmoituksia epäillystä työperäisestä hyväksikäytöstä. Tekojen epäillään kohdistuneen laajaan joukkoon tehtaalla työskenteleviä kiinalaisia työntekijöitä, jotka eivät puhuneet muuta kieltä kuin kiinaa. Heillä ei ole ollut riittävää tietoa Suomen yhteiskunnasta, omista oikeuksistaan tai työnantajan velvollisuuksista. Poliisi on tehnyt asiaan liittyen kiinniottoja. Yhteensä yhdeksän ihmistä on ollut kiinniotettuina. Näistä neljä on tällä hetkellä tutkintavankeudessa. Esitutkintaa suoritetaan epäiltynä Ihmiskauppana ja törkeänä laittoman maahantulon järjestämisenä. ]]>",
+      "municipality": "Kotka",
+      "province": "Kymenlaakso"
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -79,7 +147,9 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-30T08:42:29+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -87,7 +157,9 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-30T05:13:24+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -95,7 +167,9 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-29T19:58:59+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -103,23 +177,59 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-29T17:02:33+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi pyytää havaintoja pizzeriaan murtautumisesta Joensuussa",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-pizzeriaan-murtautumisesta-joensuussa",
       "date": "2026-10-29T13:42:00+02:00",
-      "region": "Joensuu, Pohjois-Karjala",
+      "region": "Joensuu",
       "description": "Poliisi tutkii Papinkadulla tapahtunutta murtoyritystä ja pyytää yleisön havaintoja.",
-      "source": "Poliisi"
+      "source": "Poliisi",
+      "municipality": "Joensuu",
+      "province": "Pohjois-Karjala"
     },
     {
       "title": "Poliisi pyytää havaintoja Espoossa tapahtuneesta väkivallanteosta",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-espoossa-tapahtuneesta-vakivallanteosta",
       "source": "Poliisi",
       "date": "2026-10-29T13:23:00+02:00",
-      "region": "Espoo, Uusimaa",
-      "description": "Länsi-Uudenmaan poliisi pyytää havaintoja Espoossa 26.–27. lokakuuta tapahtuneesta väkivallanteosta."
+      "region": "Espoo",
+      "description": "Länsi-Uudenmaan poliisi pyytää havaintoja Espoossa 26.–27. lokakuuta tapahtuneesta väkivallanteosta.",
+      "municipality": "Espoo",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Poliisi on edennyt Jyväskylän Hämeenkadun tulipalon tutkinnassa",
+      "link": "https://poliisi.fi/-/poliisi-on-edennyt-jyvaskylan-hameenkadun-tulipalon-tutkinnassa-",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-29T11:35:00+00:00",
+      "region": "Jyväskylä",
+      "description": "Poliisi on edennyt Jyväskylän Hämeenkadun tulipalon tutkinnassa",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
+    {
+      "title": "Vakava liikenneonnettomuus Porvoossa – poliisi tutkii",
+      "link": "https://poliisi.fi/-/vakava-liikenneonnettomuus-porvoossa-poliisi-tutkii",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-29T10:58:00+00:00",
+      "region": "Porvoo",
+      "description": "Itä-Uudenmaan poliisi tutkii Porvoossa tiistaina 27.10 iltapäivällä tapahtunutta vakavaa liikenneonnettomuutta, jossa osallisena oli mopo ja henkilöauto. Onnettomuudella on useita silminnäkijöitä.",
+      "municipality": "Porvoo",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Tampereella kadonnut nainen on löytynyt",
+      "link": "https://poliisi.fi/-/tampereella-kadonnut-nainen-on-loytynyt-3",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-29T08:04:00+00:00",
+      "region": "",
+      "description": "Tampereella kadonnut nainen on löytynyt",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -127,15 +237,49 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-29T05:06:33+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi kaipaa havaintoja Tampereella kadonneesta 19-vuotiaasta naisesta",
+      "link": "https://poliisi.fi/-/poliisi-kaipaa-havaintoja-tampereella-kadonneesta-19-vuotiaasta-naisesta",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-28T22:43:00+00:00",
+      "region": "",
+      "description": "Poliisi kaipaa havaintoja Tampereella kadonneesta 19-vuotiaasta naisesta",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kadonnut mies Vantaalla",
+      "link": "https://poliisi.fi/-/kadonnut-mies-vantaalla",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-28T20:33:00+00:00",
+      "region": "Vantaa",
+      "description": "Mies on kadonnut keskiviikkona 28. lokakuuta Vantaan Nissaksesta",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
     },
     {
       "title": "Jyväskylässä rasvapalo rivitalon terassilla – palo saatiin sammutettua",
       "link": "https://www.sttinfo.fi/tiedote/72453950/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
       "date": "2026-10-28T19:26:20+02:00",
-      "region": "Jyväskylä, Keski-Suomi",
+      "region": "Jyväskylä",
       "description": "Grillissä syttynyt rasvapalo sammutettiin alkusammuttimella. Pelastuslaitos varmisti, ettei palo ollut levinnyt rakennukseen.",
-      "source": "Keski-Suomen pelastuslaitos"
+      "source": "Keski-Suomen pelastuslaitos",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
+    {
+      "title": "Yritysten johtohenkilöihin kohdistettu petosyrityksiä",
+      "link": "https://poliisi.fi/-/yritysten-johtohenkiloihin-kohdistettu-petosyrityksia",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-28T12:14:00+00:00",
+      "region": "",
+      "description": "Poliisin tietoon on tullut useita tapauksia, joissa yritysten johtohenkilöitä on yritetty huijata rahansiirtoihin. Petoksissa epäillyt tekijät esiintyvät yrityksen omina johtohenkilöinä ja perustelevat maksupyyntöjä yrityskauppoihin liittyvillä järjestelyillä.",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Helsingin poliisi tutkii laajaa paritusrikoskokonaisuutta",
@@ -143,7 +287,19 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-28T11:02:00+00:00",
       "region": "",
-      "description": "Helsingin poliisilaitoksen valtakunnallinen ihmiskauppatutkintaryhmä tutkii laajaa paritusrikoskokonaisuutta, jonka epäillään liittyvän kansainväliseen järjestäytyneeseen rikollisuuteen. Tekojen epäillään alkaneen elokuussa 2025 ja jatkuneen siitä asti, kunnes poliisi otti epäillyt kiinni. Esitutkinnassa tutkittavat rikosnimikkeet ovat törkeä paritus ja törkeä rahanpesu. Lisäksi esitutkinnan aikana pyritään selvittämään, onko asiassa syytä epäillä ihmiskauppaa. Useita satoja tuhansia euroja rikoshyötyä Rikollisorganisaation epäillään vastanneen parituksesta Helsingin ja muun pääkaupunkiseudun lisäksi myös muissa Suomen suurissa ja keskisuurissa kaupungeissa. Poliisin tiedossa olevia parituksen kohteeksi joutuneita henkilöitä on useita kymmeniä ja he ovat kaikki ulkomaalaistaustaisia. Paritustoiminta on tapahtunut pääsääntöisesti lyhytvuokra-asunnoissa ympäri Suomea. Rikoksella on poliisi"
+      "description": "Helsingin poliisilaitoksen valtakunnallinen ihmiskauppatutkintaryhmä tutkii laajaa paritusrikoskokonaisuutta, jonka epäillään liittyvän kansainväliseen järjestäytyneeseen rikollisuuteen. Tekojen epäillään alkaneen elokuussa 2025 ja jatkuneen siitä asti, kunnes poliisi otti epäillyt kiinni. Esitutkinnassa tutkittavat rikosnimikkeet ovat törkeä paritus ja törkeä rahanpesu. Lisäksi esitutkinnan aikana pyritään selvittämään, onko asiassa syytä epäillä ihmiskauppaa. Useita satoja tuhansia euroja rikoshyötyä Rikollisorganisaation epäillään vastanneen parituksesta Helsingin ja muun pääkaupunkiseudun lisäksi myös muissa Suomen suurissa ja keskisuurissa kaupungeissa. Poliisin tiedossa olevia parituksen kohteeksi joutuneita henkilöitä on useita kymmeniä ja he ovat kaikki ulkomaalaistaustaisia. Paritustoiminta on tapahtunut pääsääntöisesti lyhytvuokra-asunnoissa ympäri Suomea. Rikoksella on poliisi",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi selvittänyt Suonenjoella ilmoitusta epäillystä aseella uhkaamisesta",
+      "link": "https://poliisi.fi/-/poliisi-selvittanyt-suonenjoella-ilmoitusta-epaillysta-aseella-uhkaamisesta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-27T18:50:00+00:00",
+      "region": "",
+      "description": "Poliisi selvittänyt Suonenjoella ilmoitusta epäillystä aseella uhkaamisesta",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -151,7 +307,19 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-27T17:33:48+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisioperaatio Jyväskylän Tourulassa",
+      "link": "https://poliisi.fi/-/poliisioperaatio-jyvaskylan-tourulassa",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-27T15:05:00+00:00",
+      "region": "Jyväskylä",
+      "description": "Poliisioperaatio Jyväskylän Tourulassa",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
     },
     {
       "title": "Poliisi pyytää havaintoja Seinäjoella tapahtuneesta liikenneonnettomuudesta",
@@ -159,7 +327,9 @@
       "source": "Poliisi",
       "date": "2026-10-27T10:50:00+02:00",
       "region": "Seinäjoki, Etelä-Pohjanmaa",
-      "description": "Poliisi selvittää liikenneonnettomuutta, jossa auto törmäsi polkupyörällä liikkuneeseen lapseen ja kuljettaja poistui paikalta."
+      "description": "Poliisi selvittää liikenneonnettomuutta, jossa auto törmäsi polkupyörällä liikkuneeseen lapseen ja kuljettaja poistui paikalta.",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -167,7 +337,9 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-27T05:00:47+00:00",
       "region": "",
-      "description": "Kooste illan ja yön hälytyksistä Keski-Suomen pelastuslaitoksella."
+      "description": "Kooste illan ja yön hälytyksistä Keski-Suomen pelastuslaitoksella.",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -175,7 +347,29 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-26T17:01:06+00:00",
       "region": "",
-      "description": "Kooste Keski-Suomen pelastuslaitoksen alueella kuluneen 12 tunnin aikana olleista hälytyksistä."
+      "description": "Kooste Keski-Suomen pelastuslaitoksen alueella kuluneen 12 tunnin aikana olleista hälytyksistä.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi jatkaa Puijonlaakson kaupparyöstön tutkintaa ja poliisi pyytää havaintoja ryöstäjästä",
+      "link": "https://poliisi.fi/-/poliisi-jatkaa-puijonlaakson-kaupparyoston-tutkintaa-ja-poliisi-pyytaa-havaintoja-ryostajasta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-26T14:08:00+00:00",
+      "region": "",
+      "description": "Poliisi jatkaa Puijonlaakson kaupparyöstön tutkintaa ja poliisi pyytää havaintoja ryöstäjästä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Lahtelainen mies vangittu epäiltynä törkeään ryöstöön",
+      "link": "https://poliisi.fi/-/lahtelainen-mies-vangittu-epailtyna-torkeaan-ryostoon",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-26T11:48:00+00:00",
+      "region": "",
+      "description": "Lahtelainen mies vangittu epäiltynä törkeään ryöstöön",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Pohjoismaiset kokoukset aiheuttavat lyhyitä liikennekatkoja Helsingissä",
@@ -183,7 +377,9 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-26T08:02:00+00:00",
       "region": "",
-      "description": "Pohjoismaisten vieraiden siirtymiset voivat katkaista liikenteen tilapäisesti Helsingin keskustassa. Liikenteessä voi olla myös poikkeusjärjestelyjä. Poliisi ohjaa liikennettä tarvittaessa. Poliisi vastaa kokousten turvallisuus- ja liikennejärjestelyistä. ]]>"
+      "description": "Pohjoismaisten vieraiden siirtymiset voivat katkaista liikenteen tilapäisesti Helsingin keskustassa. Liikenteessä voi olla myös poikkeusjärjestelyjä. Poliisi ohjaa liikennettä tarvittaessa. Poliisi vastaa kokousten turvallisuus- ja liikennejärjestelyistä. ]]>",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -191,7 +387,9 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-26T05:12:06+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Helsingissä kadonnut on löytynyt",
@@ -199,7 +397,9 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-25T22:51:00+00:00",
       "region": "",
-      "description": "Poliisi kiittää havaintonsa ilmoittaneita yhteistyöstä. ]]>"
+      "description": "Poliisi kiittää havaintonsa ilmoittaneita yhteistyöstä. ]]>",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Kadonnut Helsingissä",
@@ -207,7 +407,9 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-25T21:08:00+00:00",
       "region": "",
-      "description": "Poliisi pyytää ilmoittamaan kaikki havainnot kadonneesta hätänumeroon 112. Uutista muokattu 26.10.2026 klo 00.55. Poistettu kadonneen tuntomerkit ja kuva, koska kadonnut on löytynyt. ]]>"
+      "description": "Poliisi pyytää ilmoittamaan kaikki havainnot kadonneesta hätänumeroon 112. Uutista muokattu 26.10.2026 klo 00.55. Poistettu kadonneen tuntomerkit ja kuva, koska kadonnut on löytynyt. ]]>",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi etsii Helsingin keskustassa kadonnutta miestä − löytynyt",
@@ -215,7 +417,29 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-25T15:55:00+00:00",
       "region": "",
-      "description": "Noin 60-vuotias mies katosi Lönnrotinkadun ja Fredrikinkadun risteysalueella. Uutista on muokattu löytymisen jälkeen. ]]>"
+      "description": "Noin 60-vuotias mies katosi Lönnrotinkadun ja Fredrikinkadun risteysalueella. Uutista on muokattu löytymisen jälkeen. ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Lapissa kirjattiin viikonloppuna useita rikosilmoituksia pahoinpitelyistä",
+      "link": "https://poliisi.fi/-/lapissa-kirjattiin-viikonloppuna-useita-rikosilmoituksia-pahoinpitelyista",
+      "source": "Lapin poliisilaitos",
+      "date": "2026-10-25T10:22:00+00:00",
+      "region": "",
+      "description": "Lapissa kirjattiin viikonloppuna useita rikosilmoituksia pahoinpitelyistä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Ulosajo Enonkoskella",
+      "link": "https://poliisi.fi/-/ulosajo-enonkoskella",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-25T09:35:00+00:00",
+      "region": "",
+      "description": "Ulosajo Enonkoskella",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -223,7 +447,19 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-25T04:58:28+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Joensuussa kaksi törkeää rattijuopumusta",
+      "link": "https://poliisi.fi/-/joensuussa-kaksi-torkeaa-rattijuopumusta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-25T04:52:00+00:00",
+      "region": "Joensuu",
+      "description": "Joensuussa kaksi törkeää rattijuopumusta",
+      "municipality": "Joensuu",
+      "province": "Pohjois-Karjala"
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -231,7 +467,9 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-24T16:13:42+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi pyytää havaintoja Myllypurosta kadonneesta 80-vuotiaasta miehestä - löytynyt",
@@ -239,7 +477,39 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-24T15:16:00+00:00",
       "region": "",
-      "description": "Mies on löytynyt ja uutinen on kokonaan päivitetty. ]]>"
+      "description": "Mies on löytynyt ja uutinen on kokonaan päivitetty. ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Epäiltyjä rattijuopumuksia Savossa",
+      "link": "https://poliisi.fi/-/epailtyja-rattijuopumuksia-savossa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-24T09:09:00+00:00",
+      "region": "",
+      "description": "Epäiltyjä rattijuopumuksia Savossa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Pahoinpitelyt työllistivät poliisia perjantain ja lauantain välisenä yönä Meri-Lapissa ja Rovaniemellä",
+      "link": "https://poliisi.fi/-/pahoinpitelyt-tyollistivat-poliisia-perjantain-ja-lauantain-valisena-yona-meri-lapissa-ja-rovaniemella",
+      "source": "Lapin poliisilaitos",
+      "date": "2026-10-24T07:41:00+00:00",
+      "region": "",
+      "description": "Pahoinpitelyt työllistivät poliisia perjantain ja lauantain välisenä yönä Meri-Lapissa ja Rovaniemellä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Joensuussa epäilty törkeä rattijuopumus",
+      "link": "https://poliisi.fi/-/joensuussa-epailty-torkea-rattijuopumus-3",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-24T04:44:00+00:00",
+      "region": "Joensuu",
+      "description": "Joensuussa epäilty törkeä rattijuopumus",
+      "municipality": "Joensuu",
+      "province": "Pohjois-Karjala"
     },
     {
       "title": "Keski-Suomen pelastuslaitos mediatiedote",
@@ -247,7 +517,9 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-24T04:05:09+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos, Mediatiedote",
@@ -255,7 +527,49 @@
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-23T16:07:32+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Havaintopyyntö Kouvolassa polttoainetta perävaunussa kuljettaneesta ajoneuvosta",
+      "link": "https://poliisi.fi/-/havaintopyynto-kouvolassa-polttoainetta-peravaunussa-kuljettaneesta-ajoneuvosta",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-10-23T11:55:00+00:00",
+      "region": "Kouvola",
+      "description": "Kaakkois-Suomen poliisilaitos pyytää havaintoja liittyen tapaukseen, jossa ajoneuvo suistui 22. syyskuuta tieltä Kouvolan Keltakankaalla, Kenraalintien ja Varastosuoran risteyksessä. Ajoneuvon vetämästä perävaunusta putosi suistumisen seurauksena tien pientareelle kolme tynnyriä sekä kuution mallinen IBC-kontti, jotka sisälsivät polttoainetta.",
+      "municipality": "Kouvola",
+      "province": "Kymenlaakso"
+    },
+    {
+      "title": "Hirvikolari Joensuussa",
+      "link": "https://poliisi.fi/-/hirvikolari-joensuussa-5",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-23T11:22:00+00:00",
+      "region": "Joensuu",
+      "description": "Hirvikolari Joensuussa",
+      "municipality": "Joensuu",
+      "province": "Pohjois-Karjala"
+    },
+    {
+      "title": "Pakenevan seuranta päättyi epäillyn kiinniottoon",
+      "link": "https://poliisi.fi/-/pakenevan-seuranta-paattyi-epaillyn-kiinniottoon",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-23T10:34:00+00:00",
+      "region": "Vantaa",
+      "description": "Itä-Uudenmaan poliisilla oli tänään perjantaina 23.10 Vantaalta kehä III:lta käynnistynyt ja Tammiston kauppatielle päättynyt takaa-ajo-tehtävä. Tehtävälle osallistui useita poliisin partioita.",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Asikkalasta vuonna 2024 löytynyt radioaktiivinen esine osoittautui rikastetuksi uraaniksi",
+      "link": "https://poliisi.fi/-/asikkalasta-vuonna-2024-loytynyt-radioaktiivinen-esine-osoittautui-rikastetuksi-uraaniksi",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-23T07:43:00+00:00",
+      "region": "",
+      "description": "Asikkalasta vuonna 2024 löytynyt radioaktiivinen esine osoittautui rikastetuksi uraaniksi",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Tekoäly nopeuttaa haavoittuvuuksien löytymistä – kriittiset PHP-haavoittuvuudet aiheuttavat palvelukatkoja",
@@ -263,7 +577,19 @@
       "source": "Traficom",
       "date": "2026-10-23T06:58:14+00:00",
       "region": "",
-      "description": "Traficomin mukaan tietoturvahaavoittuvuuksia löydetään ennätystahtia. Kehitys edellyttää organisaatioilta entistä nopeampaa reagointia."
+      "description": "Traficomin mukaan tietoturvahaavoittuvuuksia löydetään ennätystahtia. Kehitys edellyttää organisaatioilta entistä nopeampaa reagointia.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keskusrikospoliisi tutkii virkamiehen väkivaltaista vastustamista Kontiolahdella",
+      "link": "https://poliisi.fi/-/keskusrikospoliisi-tutkii-virkamiehen-vakivaltaista-vastustamista-kontiolahdella",
+      "source": "Keskusrikospoliisi",
+      "date": "2026-10-22T11:52:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poutainen syyssää väistyy – sää muuttuu epävakaisemmaksi ja pilvisyys lisääntyy",
@@ -271,15 +597,29 @@
       "source": "Ilmatieteen laitos",
       "date": "2026-10-22T11:34:15+00:00",
       "region": "",
-      "description": "Suomen itäpuolella oleva laaja korkeapaineen alue on pitänyt pintansa, ja tällä viikolla on päästy nauttimaan laajalti poutaisesta ja aurinkoisesta syyssäästä. Viikonloppuna sää on kuitenkin keikahtamassa hieman epävakaisempaan suuntaan lännestä lähestyvien matalapaineiden myötä. \"Sunnuntaina ja maanantaina Britteinsaarten ja eteläisen Norjan välillä liikkuva voimakas matalapaineen keskus vaikuttaa koko Pohjois-Euroopan säähän\", sanoo Ilmatieteen laitoksen meteorologi Vendi Pelkonen . Pilvisyys lisääntyy koko maassa perjantaista alkaen. Pilvisyys pysyttelee viikonlopun ajan runsaana, mutta maan eteläosassa on ajoittain myös selkeämpää. Ensimmäiset sateet saapuvat Suomen lounaisosaan perjantai-iltana ja liikkuvat lauantain aikana kohti pohjoista. Lauantaipäivänä hajanaisia sateita ja tihkusateita tulee lähinnä maan pohjoisosassa. Sunnuntaita vietetään alkuun pääosin poutaisessa säässä. Ku"
+      "description": "Suomen itäpuolella oleva laaja korkeapaineen alue on pitänyt pintansa, ja tällä viikolla on päästy nauttimaan laajalti poutaisesta ja aurinkoisesta syyssäästä. Viikonloppuna sää on kuitenkin keikahtamassa hieman epävakaisempaan suuntaan lännestä lähestyvien matalapaineiden myötä. \"Sunnuntaina ja maanantaina Britteinsaarten ja eteläisen Norjan välillä liikkuva voimakas matalapaineen keskus vaikuttaa koko Pohjois-Euroopan säähän\", sanoo Ilmatieteen laitoksen meteorologi Vendi Pelkonen . Pilvisyys lisääntyy koko maassa perjantaista alkaen. Pilvisyys pysyttelee viikonlopun ajan runsaana, mutta maan eteläosassa on ajoittain myös selkeämpää. Ensimmäiset sateet saapuvat Suomen lounaisosaan perjantai-iltana ja liikkuvat lauantain aikana kohti pohjoista. Lauantaipäivänä hajanaisia sateita ja tihkusateita tulee lähinnä maan pohjoisosassa. Sunnuntaita vietetään alkuun pääosin poutaisessa säässä. Ku",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi pyytää apua törkeästä ryöstöstä epäillyn tunnistamiseen Helsingissä",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-apua-torkeasta-ryostosta-epaillyn-tunnistamiseen-helsingissa",
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-22T11:11:00+00:00",
-      "region": "",
-      "description": "Epäilty rikos tapahtui 14. syyskuuta Helsingin Pihlajamäessä, noin kello 1-2 välillä yöllä. Kaikki vihjeet miehen tunnistamiseksi pyydetään ilmoittamaan osoitteeseen ryosto.helsinki@poliisi.fi. Kuva törkeästä ryöstöstä epäillystä miehestä. ]]>"
+      "region": "Helsinki",
+      "description": "Epäilty rikos tapahtui 14. syyskuuta Helsingin Pihlajamäessä, noin kello 1-2 välillä yöllä. Kaikki vihjeet miehen tunnistamiseksi pyydetään ilmoittamaan osoitteeseen ryosto.helsinki@poliisi.fi. Kuva törkeästä ryöstöstä epäillystä miehestä. ]]>",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Vakava väkivaltarikos Savonlinnassa – kaksi miestä vangittu",
+      "link": "https://poliisi.fi/-/vakava-vakivaltarikos-savonlinnassa-kaksi-miesta-vangittu",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-22T05:46:00+00:00",
+      "region": "Savonlinna",
+      "description": "Vakava väkivaltarikos Savonlinnassa – kaksi miestä vangittu",
+      "municipality": "Savonlinna",
+      "province": "Etelä-Savo"
     },
     {
       "title": "Häiriötilannetiedote",
@@ -287,23 +627,169 @@
       "source": "Pirkanmaan pelastuslaitos",
       "date": "2026-10-21T18:20:31+00:00",
       "region": "",
-      "description": ""
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kaakkois-Suomessa 25 epäiltyä rattijuopumusta viikossa",
+      "link": "https://poliisi.fi/-/kaakkois-suomessa-25-epailtya-rattijuopumusta-viikossa",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-10-21T13:03:00+00:00",
+      "region": "",
+      "description": "Kaakkois-Suomen poliisilaitoksen tehtävämäärä nousi viikolla 42 edellisiin viikkoihin verrattuna. Poliisi hoiti viikon aikana yhteensä 1 447 tehtävää, joista 575 oli poliisille annettuja tehtäviä ja 872 poliisin oma-aloitteisesti hoitamia tehtäviä. Tehtävämäärän kasvu muodostui lähes kokonaan oma-aloitteisista tehtävistä.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi epäilee Jyväskylän Hämeenkadun tulipaloa tahallaan sytytetyksi",
+      "link": "https://poliisi.fi/-/poliisi-epailee-jyvaskylan-hameenkadun-tulipaloa-tahallaan-sytytetyksi",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-21T11:24:00+00:00",
+      "region": "Jyväskylä",
+      "description": "Poliisi epäilee Jyväskylän Hämeenkadun tulipaloa tahallaan sytytetyksi",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
+    {
+      "title": "Klarna- ja Google Meet -huijaukset edelleen vahvasti esillä itäsuomalaisella petosrintamalla",
+      "link": "https://poliisi.fi/-/klarna-ja-google-meet-huijaukset-edelleen-vahvasti-esilla-itasuomalaisella-petosrintamalla",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-21T08:14:00+00:00",
+      "region": "",
+      "description": "Klarna- ja Google Meet -huijaukset edelleen vahvasti esillä itäsuomalaisella petosrintamalla",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi sai valmiiksi Joensuun Rantakylän ryöstöjen esitutkinnan – rikoksista epäillyt ovat 14–15-vuotiaita",
+      "link": "https://poliisi.fi/-/poliisi-sai-valmiiksi-joensuun-rantakylan-ryostojen-esitutkinnan-rikoksista-epaillyt-ovat-14-15-vuotiaita",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-21T06:24:00+00:00",
+      "region": "Joensuu",
+      "description": "Poliisi sai valmiiksi Joensuun Rantakylän ryöstöjen esitutkinnan – rikoksista epäillyt ovat 14–15-vuotiaita",
+      "municipality": "Joensuu",
+      "province": "Pohjois-Karjala"
     },
     {
       "title": "Kerrostalopalo Jyväskylän Hämeenkadulla – katuja suljettiin pelastustöiden ajaksi",
       "link": "https://www.sttinfo.fi/tiedote/72428761/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi&publisherId=69821063",
       "source": "Keski-Suomen pelastuslaitos",
       "date": "2026-10-20T20:19:20+03:00",
-      "region": "Jyväskylä, Keski-Suomi",
-      "description": "Pelastuslaitoksen mukaan kerrostalon ensimmäisen kerroksen asunnossa syttyi tulipalo. Savua levisi porrashuoneeseen, ja Hämeenkatua sekä Vapaudenkatua suljettiin pelastustöiden ajaksi. Kyseessä on lokakuun arkistotiedote."
+      "region": "Jyväskylä",
+      "description": "Pelastuslaitoksen mukaan kerrostalon ensimmäisen kerroksen asunnossa syttyi tulipalo. Savua levisi porrashuoneeseen, ja Hämeenkatua sekä Vapaudenkatua suljettiin pelastustöiden ajaksi. Kyseessä on lokakuun arkistotiedote.",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
+    {
+      "title": "Kello-Suomisen liiketilan murto lokakuun alussa",
+      "link": "https://poliisi.fi/-/kello-suomisen-liiketilan-murto-lokakuun-alussa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-20T11:09:00+00:00",
+      "region": "",
+      "description": "Kello-Suomisen liiketilan murto lokakuun alussa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisin viikossa tappeluita, varkauksia ja mopomiitin valvontaa",
+      "link": "https://poliisi.fi/-/poliisin-viikossa-tappeluita-varkauksia-ja-mopomiitin-valvontaa",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-20T10:16:00+00:00",
+      "region": "",
+      "description": "Viime viikolla Itä-Uudenmaan poliisin partioille välitetyissä tehtävissä näkyivät väkivalta ja varkausrikokset. Viikonloppuna osallistuttiin myös mopomiitin valvontaan.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Väkivallanteko Hyvinkäällä",
+      "link": "https://poliisi.fi/-/vakivallanteko-hyvinkaalla",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-20T09:20:00+00:00",
+      "region": "Hyvinkää",
+      "description": "Itä-Uudenmaan poliisissa on tutkittavana tiistaina 13.10 Hyvinkäällä tapahtunut vakava väkivallanteko, missä uhri sai sairaalahoitoa vaativia vammoja.",
+      "municipality": "Hyvinkää",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Yksi kuoli kuorma-auton ja pakettiauton kolarissa Joutsassa",
+      "link": "https://poliisi.fi/-/yksi-kuoli-kuorma-auton-ja-pakettiauton-kolarissa-joutsassa",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-19T18:13:00+00:00",
+      "region": "",
+      "description": "Yksi kuoli kuorma-auton ja pakettiauton kolarissa Joutsassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Yksi kuoli kolarissa Juuassa",
+      "link": "https://poliisi.fi/-/yksi-kuoli-kolarissa-juuassa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-19T12:10:00+00:00",
+      "region": "",
+      "description": "Yksi kuoli kolarissa Juuassa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Omakotitalon palo Varkaudessa",
+      "link": "https://poliisi.fi/-/omakotitalon-palo-varkaudessa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-19T11:42:00+00:00",
+      "region": "",
+      "description": "Omakotitalon palo Varkaudessa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi on saanut valmiiksi alaikäisiin kohdistuneiden seksuaalirikosten kokonaisuuden Lappeenrannassa",
+      "link": "https://poliisi.fi/-/poliisi-on-saanut-valmiiksi-alaikaisiin-kohdistuneiden-seksuaalirikosten-kokonaisuuden-lappeenrannassa",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-10-19T11:17:00+00:00",
+      "region": "",
+      "description": "Kaakkois-Suomen poliisi on saanut valmiiksi esitutkinnan rikoskokonaisuudessa, jossa kahden lappeenrantalaisen miehen epäillään syyllistyneen vuosina 2024 - 2026 useisiin alaikäisiin kohdistuneisiin seksuaalirikoksiin. Tutkinnan perusteella asianomistajat ovat olleet tekojen aikana pääasiassa vahvasti päihtyneitä.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Varkaudessa kuolemaan johtaneen liikenneonnettomuuden tutkinta",
+      "link": "https://poliisi.fi/-/varkaudessa-kuolemaan-johtaneen-liikenneonnettomuuden-tutkinta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-19T08:55:00+00:00",
+      "region": "",
+      "description": "Varkaudessa kuolemaan johtaneen liikenneonnettomuuden tutkinta",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi epäilee Lahden Satamassa palaneen laivan tulipaloa tahallaan sytytetyksi",
+      "link": "https://poliisi.fi/-/poliisi-epailee-lahden-satamassa-palaneen-laivan-tulipaloa-tahallaan-sytytetyksi",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-19T07:58:00+00:00",
+      "region": "",
+      "description": "Poliisi epäilee Lahden Satamassa palaneen laivan tulipaloa tahallaan sytytetyksi",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Vakava liikenneonnettomuus Orimattilassa valtatie 4:lla",
+      "link": "https://poliisi.fi/-/vakava-liikenneonnettomuus-orimattilassa-valtatie-4-lla",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-18T04:30:00+00:00",
+      "region": "Orimattila",
+      "description": "Vakava liikenneonnettomuus Orimattilassa valtatie 4:lla",
+      "municipality": "Orimattila",
+      "province": "Päijät-Häme"
     },
     {
       "title": "Poliisi pyytää havaintoja Käpylässä tapahtuneeseen väkivaltarikokseen",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kapylassa-tapahtuneeseen-vakivaltarikokseen",
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-17T12:04:00+00:00",
-      "region": "",
-      "description": "Paikalle meni useita poliisipartioita. Poliisi suoritti lähietsintöjä paikan päällä, mutta epäillyt tekijät jäivät kateisiin. Pahoinpitelyn uhrilla ei ole hengenvaaraa. Epäillyt tekijät ovat noin 40-vuotiaita miehiä ja heidän seurassaan on ollut nainen. Poliisi pyytää havaintoja tapahtumista sekä epäillyistä. Havainnot voi lähettää sähköpostitse vakivaltavihjeet.helsinki@poliisi.fi tai numeroon 050 562 5433 (myös WhatsApp). ]]>"
+      "region": "Helsinki",
+      "description": "Paikalle meni useita poliisipartioita. Poliisi suoritti lähietsintöjä paikan päällä, mutta epäillyt tekijät jäivät kateisiin. Pahoinpitelyn uhrilla ei ole hengenvaaraa. Epäillyt tekijät ovat noin 40-vuotiaita miehiä ja heidän seurassaan on ollut nainen. Poliisi pyytää havaintoja tapahtumista sekä epäillyistä. Havainnot voi lähettää sähköpostitse vakivaltavihjeet.helsinki@poliisi.fi tai numeroon 050 562 5433 (myös WhatsApp). ]]>",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
     },
     {
       "title": "Hankasalmella tielle kallistunut puu aiheutti pelastustehtävän",
@@ -311,7 +797,9 @@
       "date": "2026-10-16T19:10:26+03:00",
       "region": "Hankasalmi, Keski-Suomi",
       "description": "Pelastuslaitos raivasi Nälkämäentiellä tien päälle kallistuneen puun. Kyseessä on 16. lokakuuta julkaistu tehtäväkooste.",
-      "source": "Keski-Suomen pelastuslaitos"
+      "source": "Keski-Suomen pelastuslaitos",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Vakava liikenneonnettomuus Taipalsaarella – poliisi pyytää havaintoja",
@@ -319,7 +807,9 @@
       "source": "Poliisi",
       "date": "2026-10-16T12:57:00+03:00",
       "region": "Taipalsaari, Etelä-Karjala",
-      "description": "Henkilöauton kuljettaja loukkaantui vakavasti ulosajossa 16.10. Poliisi pyytää mahdollisia silminnäkijöitä kertomaan havainnoistaan."
+      "description": "Henkilöauton kuljettaja loukkaantui vakavasti ulosajossa 16.10. Poliisi pyytää mahdollisia silminnäkijöitä kertomaan havainnoistaan.",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Teletoiminnan häiriötilanteista ilmoittaminen muuttuu",
@@ -327,15 +817,29 @@
       "source": "Traficom – kyberturvallisuus",
       "date": "2026-10-15T12:07:23+00:00",
       "region": "",
-      "description": "Liikenne- ja viestintävirasto Traficomin päivitetty teletoiminnan häiriötilanteita koskeva määräys tulee voimaan 1.1.2027."
+      "description": "Liikenne- ja viestintävirasto Traficomin päivitetty teletoiminnan häiriötilanteita koskeva määräys tulee voimaan 1.1.2027.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Autoilijan epäillään törmänneen lapseen suojatiellä Pieksämäellä - vihjeitä kaivataan",
+      "link": "https://poliisi.fi/-/autoilijan-epaillaan-tormanneen-lapseen-suojatiella-pieksamaella-vihjeita-kaivataan",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-15T12:00:00+00:00",
+      "region": "",
+      "description": "Autoilijan epäillään törmänneen lapseen suojatiellä Pieksämäellä - vihjeitä kaivataan",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Jyväskylän Vaajakoskella teollisuushallin rakenteissa tulipalo",
       "link": "https://www.sttinfo.fi/tiedote/72412653/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
       "date": "2026-10-14T15:28:41+03:00",
-      "region": "Jyväskylä, Keski-Suomi",
+      "region": "Jyväskylä",
       "description": "Tulitöistä lentänyt kipinä aiheutti kytöpalon teollisuushallin välipohjaan. Ensihoito tarkasti neljä paikalla ollutta henkilöä.",
-      "source": "Keski-Suomen pelastuslaitos"
+      "source": "Keski-Suomen pelastuslaitos",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
     },
     {
       "title": "Poliisi jatkaa kansanedustajien asuntoihin kohdistuneiden epäiltyjen tunkeutumisten tutkintaa",
@@ -343,15 +847,19 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-14T09:00:00+00:00",
       "region": "",
-      "description": "Helsingin poliisilaitos on jatkanut aktiivisesti tapausten tutkintaa muun muassa kuulemalla asianosaisia henkilöitä. Esitutkintaa tehdään tiiviissä yhteistyössä eduskunnan ja Keskusrikospoliisin sekä tarvittaessa suojelupoliisin kanssa. Kyseessä on laaja esitutkintakokonaisuus, jonka tutkiminen tulee viemään aikaa. Helsingin poliisilaitoksen ei ole mahdollista kommentoida epäiltyjä rikoksia tai niiden tutkintaa tarkemmin, jotta esitutkinta ei vaarannu. Poliisi ei myöskään tässä vaiheessa tule arvioimaan tapahtumien taustoja, tekijöitä tai motiiveja. Asiasta tiedotetaan seuraavan kerran, kun se on mahdollista. ]]>"
+      "description": "Helsingin poliisilaitos on jatkanut aktiivisesti tapausten tutkintaa muun muassa kuulemalla asianosaisia henkilöitä. Esitutkintaa tehdään tiiviissä yhteistyössä eduskunnan ja Keskusrikospoliisin sekä tarvittaessa suojelupoliisin kanssa. Kyseessä on laaja esitutkintakokonaisuus, jonka tutkiminen tulee viemään aikaa. Helsingin poliisilaitoksen ei ole mahdollista kommentoida epäiltyjä rikoksia tai niiden tutkintaa tarkemmin, jotta esitutkinta ei vaarannu. Poliisi ei myöskään tässä vaiheessa tule arvioimaan tapahtumien taustoja, tekijöitä tai motiiveja. Asiasta tiedotetaan seuraavan kerran, kun se on mahdollista. ]]>",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Kadonnut mies Loviisassa – poliisi pyysi havaintoja",
       "link": "https://poliisi.fi/-/kadonnut-mies-loviisassa",
       "source": "Poliisi",
       "date": "2026-10-13T20:49:00+03:00",
-      "region": "Loviisa, Uusimaa",
-      "description": "Itä-Uudenmaan poliisi julkaisi 13.10. katoamistiedotteen Loviisasta. Kyseessä on arkistoitu, mahdollisesti päivittynyt uutinen; tarkista tilanne poliisin alkuperäisestä tiedotteesta."
+      "region": "Loviisa",
+      "description": "Itä-Uudenmaan poliisi julkaisi 13.10. katoamistiedotteen Loviisasta. Kyseessä on arkistoitu, mahdollisesti päivittynyt uutinen; tarkista tilanne poliisin alkuperäisestä tiedotteesta.",
+      "municipality": "Loviisa",
+      "province": "Uusimaa"
     },
     {
       "title": "Poliisi pyytää havaintoja Seinäjoen liikenneonnettomuudesta",
@@ -359,15 +867,129 @@
       "source": "Poliisi",
       "date": "2026-10-13T13:15:00+03:00",
       "region": "Seinäjoki, Etelä-Pohjanmaa",
-      "description": "Poliisi selvittää 6.10. tapahtunutta tilannetta, jossa pakettiauto osui tietyömaalla liikennettä ohjanneeseen henkilöön. Kuljettajaa ja silminnäkijöitä pyydetään ilmoittautumaan."
+      "description": "Poliisi selvittää 6.10. tapahtunutta tilannetta, jossa pakettiauto osui tietyömaalla liikennettä ohjanneeseen henkilöön. Kuljettajaa ja silminnäkijöitä pyydetään ilmoittautumaan.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Päihtyneitä, perheväkivaltaa ja kovia nopeuksia poliisin viikossa",
+      "link": "https://poliisi.fi/-/paihtyneita-perhevakivaltaa-ja-kovia-nopeuksia-poliisin-viikossa",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-13T11:09:00+00:00",
+      "region": "",
+      "description": "Itä-Uudenmaan poliisin partioille viime viikolla välitetyt tehtävät pitivät sisällään tavanomaisia poliisitehtäviä laidasta laitaan.",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Tuusulan Jokelasta kadonnut mies löytyi hyväkuntoisena",
       "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-tuusulan-jokelasta-kateissa-olevasta-miehesta",
       "source": "Poliisi",
       "date": "2026-10-13T00:13:00+03:00",
-      "region": "Tuusula, Uusimaa",
-      "description": "Poliisi etsi 12.10. kadonnutta 79-vuotiasta miestä. Poliisin päivityksen mukaan mies löytyi hyväkuntoisena eikä etsintä ole enää käynnissä."
+      "region": "Tuusula",
+      "description": "Poliisi etsi 12.10. kadonnutta 79-vuotiasta miestä. Poliisin päivityksen mukaan mies löytyi hyväkuntoisena eikä etsintä ole enää käynnissä.",
+      "municipality": "Tuusula",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Miehen epäillään syyllistyneen useisiin vahingontekoihin",
+      "link": "https://poliisi.fi/-/miehen-epaillaan-syyllistyneen-useisiin-vahingontekoihin",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-12T07:50:00+00:00",
+      "region": "Vantaa",
+      "description": "Itä-Uudenmaan poliisissa on tutkittavana 9.10 perjantai-iltana Vantaalla Koivuhaassa sattunut tapaus, jossa 37- vuotiaan miehen epäillään syyllistyneen useaan vahingontekoon sekä törkeään kotirauhan rikkomiseen. Miehen epäillään tekohetkellä olleen päihteiden vaikutuksen alaisena.",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Rovaniemellä useita väkivaltatehtäviä lauantain ja sunnuntain aikana",
+      "link": "https://poliisi.fi/-/rovaniemella-useita-vakivaltatehtavia-lauantain-ja-sunnuntain-aikana",
+      "source": "Lapin poliisilaitos",
+      "date": "2026-10-11T11:33:00+00:00",
+      "region": "",
+      "description": "Rovaniemellä useita väkivaltatehtäviä lauantain ja sunnuntain aikana",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Syysloman alkajaisviikonloppuna ilkivaltaa ja rattijuoppoja",
+      "link": "https://poliisi.fi/-/syysloman-alkajaisviikonloppuna-ilkivaltaa-ja-rattijuoppoja",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-11T01:45:00+00:00",
+      "region": "",
+      "description": "Syysloman alkajaisviikonloppuna ilkivaltaa ja rattijuoppoja",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Suonenjoen Ysitien kolarista",
+      "link": "https://poliisi.fi/-/suonenjoen-ysitien-kolarista",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-10T12:21:00+00:00",
+      "region": "",
+      "description": "Suonenjoen Ysitien kolarista",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja 17-vuotiaasta kehitysvammaisesta Jeremia nimisestä pojasta",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-17-vuotiaasta-kehitysvammaisesta-jeremia-nimisesta-pojasta",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-09T20:08:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja 17-vuotiaasta kehitysvammaisesta Jeremia nimisestä pojasta",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Suonenjoella Ysitiellä kolari",
+      "link": "https://poliisi.fi/-/suonenjoella-ysitiella-kolari",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-09T14:14:00+00:00",
+      "region": "",
+      "description": "Suonenjoella Ysitiellä kolari",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi etsii polkupyörälle omistajaa",
+      "link": "https://poliisi.fi/-/poliisi-etsii-polkupyoralle-omistajaa",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-09T11:53:00+00:00",
+      "region": "Järvenpää",
+      "description": "Itä-Uudenmaan poliisilla on hallussa polkupyörä, jonka poliisi otti haltuunsa 8.10. torstaina Järvenpäässä tekemältä kotietsinnältä. Polkupyörää epäillään anastetuksi.",
+      "municipality": "Järvenpää",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Useita vangittu epäiltynä törkeisiin rikoksiin Lahdessa",
+      "link": "https://poliisi.fi/-/useita-vangittu-epailtyna-torkeisiin-rikoksiin-lahdessa",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-09T10:36:00+00:00",
+      "region": "",
+      "description": "Useita vangittu epäiltynä törkeisiin rikoksiin Lahdessa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Kuopiossa kauppakeskus Matkuksen läheisyydessä naisia ahdistelleesta henkilöstä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kuopiossa-kauppakeskus-matkuksen-laheisyydessa-naisia-ahdistelleesta-henkilosta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-08T11:53:00+00:00",
+      "region": "Kuopio",
+      "description": "Poliisi pyytää havaintoja Kuopiossa kauppakeskus Matkuksen läheisyydessä naisia ahdistelleesta henkilöstä",
+      "municipality": "Kuopio",
+      "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Poliisi tutkii kahta vakavaa väkivallantekoa – epäillyt vangittu",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-kahta-vakavaa-vakivallantekoa-epaillyt-vangittu",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-08T10:58:00+00:00",
+      "region": "Vantaa",
+      "description": "Itä-Uudenmaan poliisi tutkii kahta Vantaalla tapahtunutta vakavaa väkivallantekoa. Molempia tapauksia tutkitaan rikosnimikkeellä tapon yritys.",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
     },
     {
       "title": "Helsingin kaupungin ja poliisin toimenpiteet ovat vähentäneet huumausaineiden aiheuttamia häiriöitä",
@@ -375,7 +997,19 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-08T10:21:00+00:00",
       "region": "",
-      "description": "Huumausaineiden haitat ovat lisääntyneet Helsingin katukuvassa viime vuosina. Häiriöt liittyvät pääasiassa huumausaineiden käyttöön ja siitä aiheutuvaan rikollisuuteen. Helsingin poliisi on suorittanut elokuun loppuun mennessä 14 098 järjestyksenvalvontatehtävää jalkaisin. Määrä on 17 prosenttia suurempi kuin viime vuonna samaan aikaan. – Olemme saaneet valvonnasta myönteistä palautetta kaupunkilaisilta. Valvonta on selvästi parantanut turvallisuutta ja turvallisuuden tunnetta. Valvonnan ansiosta poliisi saapuu hätätilanteisiin aiempaa nopeammin, arvioi ylikomisario Hanna Kiiskinen, joka johtaa valvontatoimintaa. Kiireellisimmissä eli A-tehtävissä poliisi saapuu paikalle keskimäärin 4,6 minuutissa. Toimintavalmiusaika on lyhentynyt, vaikka A-tehtävien määrä on kasvanut tänä vuonna 14 prosenttia. Valvonnan yhteydessä poliisi tarkastaa myös maassaolon edellytyksiä. Tarkastusten määrä on ka"
+      "description": "Huumausaineiden haitat ovat lisääntyneet Helsingin katukuvassa viime vuosina. Häiriöt liittyvät pääasiassa huumausaineiden käyttöön ja siitä aiheutuvaan rikollisuuteen. Helsingin poliisi on suorittanut elokuun loppuun mennessä 14 098 järjestyksenvalvontatehtävää jalkaisin. Määrä on 17 prosenttia suurempi kuin viime vuonna samaan aikaan. – Olemme saaneet valvonnasta myönteistä palautetta kaupunkilaisilta. Valvonta on selvästi parantanut turvallisuutta ja turvallisuuden tunnetta. Valvonnan ansiosta poliisi saapuu hätätilanteisiin aiempaa nopeammin, arvioi ylikomisario Hanna Kiiskinen, joka johtaa valvontatoimintaa. Kiireellisimmissä eli A-tehtävissä poliisi saapuu paikalle keskimäärin 4,6 minuutissa. Toimintavalmiusaika on lyhentynyt, vaikka A-tehtävien määrä on kasvanut tänä vuonna 14 prosenttia. Valvonnan yhteydessä poliisi tarkastaa myös maassaolon edellytyksiä. Tarkastusten määrä on ka",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi valvoi tehostetusti häiriökohteita syyskuussa",
+      "link": "https://poliisi.fi/-/poliisi-valvoi-tehostetusti-hairiokohteita-syyskuussa",
+      "source": "Poliisihallitus",
+      "date": "2026-10-08T06:41:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi on käynnistänyt esitutkinnan kansanedustajien asuntoihin kohdistuneista epäillyistä tunkeutumisista",
@@ -383,7 +1017,39 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-07T09:00:00+00:00",
       "region": "",
-      "description": "Asiakokonaisuuden esitutkinta on keskitetty Helsingin poliisilaitokselle, joka tekee sen osalta tiivistä yhteistyötä eduskunnan, Keskusrikospoliisin ja tarvittaessa Suojelupoliisin kanssa. Tutkinta on alkuvaiheessa ja sitä jatketaan asianosaisten kuulemisilla sekä muilla tutkintatoimilla. Poliisi ei asian keskeneräisyyden vuoksi arvioi tapahtumien mahdollista taustaa, tekijöitä tai motiiveja. Poliisi tiedottaa asiasta seuraavan kerran ensi viikon keskiviikkona 14. lokakuuta. ]]>"
+      "description": "Asiakokonaisuuden esitutkinta on keskitetty Helsingin poliisilaitokselle, joka tekee sen osalta tiivistä yhteistyötä eduskunnan, Keskusrikospoliisin ja tarvittaessa Suojelupoliisin kanssa. Tutkinta on alkuvaiheessa ja sitä jatketaan asianosaisten kuulemisilla sekä muilla tutkintatoimilla. Poliisi ei asian keskeneräisyyden vuoksi arvioi tapahtumien mahdollista taustaa, tekijöitä tai motiiveja. Poliisi tiedottaa asiasta seuraavan kerran ensi viikon keskiviikkona 14. lokakuuta. ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Häiriökäyttäytyminen, tappelut ja päihtyneet työllistivät poliisia",
+      "link": "https://poliisi.fi/-/hairiokayttaytyminen-tappelut-ja-paihtyneet-tyollistivat-poliisia",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-10-06T10:08:00+00:00",
+      "region": "",
+      "description": "Itä-Uudenmaan poliisilaitoksen alueen viime viikko oli poliisitoiminnallisesti kiireinen. Tehtävät painottuivat tuttuun tapaan viikonlopulle. Perjantain ja sunnuntai-illan välisenä aikana hoidettiin noin 850 erilaista hälytystehtävää. Koko viikon tehtävämäärä 2 149 hätyytteli kesäisiä lukemia.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kaakkois-Suomessa paljastui 17 epäiltyä rattijuopumusta",
+      "link": "https://poliisi.fi/-/kaakkois-suomessa-paljastui-17-epailtya-rattijuopumusta",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-10-06T07:11:00+00:00",
+      "region": "",
+      "description": "Kaakkois-Suomen poliisilaitoksen viikko 40 sujui kokonaisuudessaan tavanomaisissa merkeissä. Poliisi hoiti viikon aikana toiminta-alueellaan yhteensä lähes 1400 tehtävää.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi sai valmiiksi esitutkinnan – 43-vuotiasta jyväskyläläismiestä epäillään useista lapsiin kohdistuneista seksuaalirikoksista",
+      "link": "https://poliisi.fi/-/poliisi-sai-valmiiksi-esitutkinnan-43-vuotiasta-jyvaskylalaismiesta-epaillaan-useista-lapsiin-kohdistuneista-seksuaalirikoksista",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-06T05:35:00+00:00",
+      "region": "",
+      "description": "Poliisi sai valmiiksi esitutkinnan – 43-vuotiasta jyväskyläläismiestä epäillään useista lapsiin kohdistuneista seksuaalirikoksista",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi paljasti poikkeuksellisen laajan rikollisverkoston, jonka epäillään tuoneen maahan ja levittäneen satoja kiloja huumausaineita",
@@ -391,7 +1057,9 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-06T05:27:00+00:00",
       "region": "",
-      "description": "Helsingin poliisilaitos ja Länsi-Uudenmaan poliisilaitos ovat yhdessä tutkineet laajaa Suomeen suuntautunutta huumausaineiden maahantuonti- ja levitystapausta. Tutkinnassa selvisi, että Suomesta johdettu ja usean maan kansalaisista koostunut rikollisverkosto oli tuonut maahan ja levittänyt eteenpäin satoja kiloja erittäin vaarallisia huumausaineita sekä satoja tuhansia kappaleita huumausaineeksi luokiteltuja tabletteja. Esitutkinnassa olleet rikosnimikkeet ovat pääasiassa törkeitä huumausainerikoksia sekä törkeitä rahanpesuja. Poliisi takavarikoi yli 100 kiloa huumeita ja lähes 200 000 euroa käteistä Poliisi pääsi rikollisverkoston jäljille kohdistamalla tiedonhankintaa ja esitutkintatoimenpiteitä henkilöihin, joiden epäiltiin osallistuvan rikollisverkoston toimintaan. Pian selvisi, että Suomeen saapui ulkomailta useita eri henkilöitä osallistumaan huumausaineiden säilyttämiseen ja levit"
+      "description": "Helsingin poliisilaitos ja Länsi-Uudenmaan poliisilaitos ovat yhdessä tutkineet laajaa Suomeen suuntautunutta huumausaineiden maahantuonti- ja levitystapausta. Tutkinnassa selvisi, että Suomesta johdettu ja usean maan kansalaisista koostunut rikollisverkosto oli tuonut maahan ja levittänyt eteenpäin satoja kiloja erittäin vaarallisia huumausaineita sekä satoja tuhansia kappaleita huumausaineeksi luokiteltuja tabletteja. Esitutkinnassa olleet rikosnimikkeet ovat pääasiassa törkeitä huumausainerikoksia sekä törkeitä rahanpesuja. Poliisi takavarikoi yli 100 kiloa huumeita ja lähes 200 000 euroa käteistä Poliisi pääsi rikollisverkoston jäljille kohdistamalla tiedonhankintaa ja esitutkintatoimenpiteitä henkilöihin, joiden epäiltiin osallistuvan rikollisverkoston toimintaan. Pian selvisi, että Suomeen saapui ulkomailta useita eri henkilöitä osallistumaan huumausaineiden säilyttämiseen ja levit",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisiajoneuvo liikennevahingossa Helsingissä Koskelantiellä 06.10 aamuyöllä.",
@@ -399,7 +1067,29 @@
       "source": "Helsingin poliisilaitos",
       "date": "2026-10-05T22:03:00+00:00",
       "region": "",
-      "description": "Ulosajossa ei ole loukkaantuneita eikä muita osallisia. Koskelantie on vielä hetken aikaa suljettuna Lännen suuntaan. Tapahtuneesta tiedotetaan lisää aikaisintaan huomenna. ]]>"
+      "description": "Ulosajossa ei ole loukkaantuneita eikä muita osallisia. Koskelantie on vielä hetken aikaa suljettuna Lännen suuntaan. Tapahtuneesta tiedotetaan lisää aikaisintaan huomenna. ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Jokioisilla kadonnut mies on löytynyt menehtyneenä",
+      "link": "https://poliisi.fi/-/jokioisilla-kadonnut-mies-on-loytynyt-menehtyneena",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-05T12:30:00+00:00",
+      "region": "",
+      "description": "Jokioisilla kadonnut mies on löytynyt menehtyneenä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Varkaudessa murtauduttu kultasepän liikkeeseen",
+      "link": "https://poliisi.fi/-/varkaudessa-murtauduttu-kultasepan-liikkeeseen",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-05T12:00:00+00:00",
+      "region": "",
+      "description": "Varkaudessa murtauduttu kultasepän liikkeeseen",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Traficomin asiakaspalvelussa ruuhkaa",
@@ -407,7 +1097,29 @@
       "source": "Traficom – tieliikenne",
       "date": "2026-10-05T11:36:29+00:00",
       "region": "",
-      "description": "Traficomin asiakaspalvelu on tällä hetkellä ruuhkautunut. Pahoittelemme asiakkaillemme aiheutuvaa haittaa."
+      "description": "Traficomin asiakaspalvelu on tällä hetkellä ruuhkautunut. Pahoittelemme asiakkaillemme aiheutuvaa haittaa.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Itä-Suomen poliisi etsi Keiteleen Rinteenkylältä kateissa olevaa yli 90-vuotiasta miestä, joka on löytynyt.",
+      "link": "https://poliisi.fi/-/ita-suomen-poliisi-etsi-keiteleen-rinteenkylalta-kateissa-olevaa-yli-90-vuotiasta-miesta-joka-on-loytynyt",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-02T17:41:00+00:00",
+      "region": "",
+      "description": "Itä-Suomen poliisi etsi Keiteleen Rinteenkylältä kateissa olevaa yli 90-vuotiasta miestä, joka on löytynyt.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kolari ruuhkauttaa liikennettä Lahdessa valtatie 12:lla",
+      "link": "https://poliisi.fi/-/kolari-ruuhkauttaa-liikennetta-lahdessa-valtatie-12-lla",
+      "source": "Hämeen poliisilaitos",
+      "date": "2026-10-02T15:52:00+00:00",
+      "region": "",
+      "description": "Kolari ruuhkauttaa liikennettä Lahdessa valtatie 12:lla",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Huittisissa auto törmäsi lapseen suojatiellä – poliisi pyysi havaintoja",
@@ -415,7 +1127,19 @@
       "date": "2026-10-02T12:30:00+03:00",
       "region": "Huittinen, Satakunta",
       "description": "Poliisin mukaan auto törmäsi 6-vuotiaaseen lapseen Lauttakylänkadulla ja kuljettaja poistui paikalta. Lapsi ei loukkaantunut vakavasti. Lokakuun arkistotiedote.",
-      "source": "Poliisi"
+      "source": "Poliisi",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi etsii yli 90-vuotiasta kadonnutta miestä Keiteleeltä",
+      "link": "https://poliisi.fi/-/poliisi-etsii-yli-90-vuotiasta-kadonnutta-miesta-keiteleelta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-10-02T11:54:00+00:00",
+      "region": "",
+      "description": "Poliisi etsii yli 90-vuotiasta kadonnutta miestä Keiteleeltä",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Vakava varoitus Citrix NetScaler -haavoittuvuuksia on käytetty tietomurtoihin Suomessa",
@@ -423,20 +1147,63 @@
       "source": "Traficom – kyberturvallisuus",
       "date": "2026-10-02T10:46:25+00:00",
       "region": "",
-      "description": "Traficomin Kyberturvallisuuskeskus varoittaa Citrix NetScaler -haavoittuvuuksista, joita on käytetty tietomurtoihin Suomessa jo ennen korjausten julkaisua."
+      "description": "Traficomin Kyberturvallisuuskeskus varoittaa Citrix NetScaler -haavoittuvuuksista, joita on käytetty tietomurtoihin Suomessa jo ennen korjausten julkaisua.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Nuorten juhlat Rosendahlin rannassa – Vakava varoitus!",
+      "link": "https://poliisi.fi/-/nuorten-juhlat-rosendahlin-rannassa-vakava-varoitus-",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-02T07:56:00+00:00",
+      "region": "",
+      "description": "Nuorten juhlat Rosendahlin rannassa – Vakava varoitus!",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keskusrikospoliisin esitutkinta kolmeen törkeään ihmiskauppaan liittyen on valmistunut",
+      "link": "https://poliisi.fi/-/keskusrikospoliisin-esitutkinta-kolmeen-torkeaan-ihmiskauppaan-liittyen-on-valmistunut",
+      "source": "Keskusrikospoliisi",
+      "date": "2026-10-01T11:38:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi on tavoittanut miehen, josta pyysi havaintoja Jyväskylässä",
+      "link": "https://poliisi.fi/-/poliisi-on-tavoittanut-miehen-josta-pyysi-havaintoja-jyvaskylassa",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-10-01T06:38:00+00:00",
+      "region": "Jyväskylä",
+      "description": "Poliisi on tavoittanut miehen, josta pyysi havaintoja Jyväskylässä",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
     }
   ],
   "sources": [
     "Helsingin poliisilaitos",
-    "Poliisi – koko Suomi",
+    "Poliisi – valtakunnallinen RSS",
+    "Hämeen poliisilaitos",
+    "Itä-Suomen poliisilaitos",
+    "Itä-Uudenmaan poliisilaitos",
+    "Kaakkois-Suomen poliisilaitos",
+    "Keskusrikospoliisi",
+    "Lapin poliisilaitos",
+    "Lounais-Suomen poliisilaitos",
+    "Länsi-Uudenmaan poliisilaitos",
+    "Oulun poliisilaitos",
+    "Pohjanmaan poliisilaitos",
+    "Poliisihallitus",
+    "Sisä-Suomen poliisilaitos",
     "Keski-Suomen pelastuslaitos",
     "Ilmatieteen laitos",
-    "Ilmatieteen laitos – säävaroitukset",
     "Pirkanmaan pelastuslaitos",
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 585,
+  "newly_fetched": 1383,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -445,10 +1212,82 @@
       "feeds_checked": 1
     },
     {
-      "source": "Poliisi – koko Suomi",
+      "source": "Poliisi – valtakunnallinen RSS",
       "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Hämeen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Itä-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Lapin poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Länsi-Uudenmaan poliisilaitos",
+      "status": "virhe: HTTP Error 403: Forbidden",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Oulun poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Pohjanmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Poliisihallitus",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Sisä-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -460,12 +1299,6 @@
       "source": "Ilmatieteen laitos",
       "status": "toimii",
       "fetched": 10,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Ilmatieteen laitos – säävaroitukset",
-      "status": "toimii",
-      "fetched": 2,
       "feeds_checked": 1
     },
     {
@@ -489,19 +1322,19 @@
   ],
   "coverage": {
     "police_active": [
-      "Helsingin"
-    ],
-    "police_missing": [
+      "Helsingin",
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
+      "Sisä-Suomen"
+    ],
+    "police_missing": [
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Keski-Suomen",
