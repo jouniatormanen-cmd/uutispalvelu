@@ -21,6 +21,24 @@ jobs:
         run: |
           python scripts/fetch_news.py
           python scripts/fetch_authorities.py
+      - name: Validate collected authority news
+        run: |
+          python - <<'PY'
+          import json, datetime as dt
+          with open("viranomaiset/news.json", encoding="utf-8") as f:
+              data = json.load(f)
+          items = data.get("items", [])
+          checks = data.get("monitoring", [])
+          working = [s["source"] for s in checks if s.get("fetched", 0) > 0]
+          print(f"Authority news: {len(items)} saved, {len(working)}/{len(checks)} sources returned items")
+          for source in checks:
+              print(f"  {source['source']}: {source.get('status')} ({source.get('fetched', 0)} entries)")
+          if not items or not working:
+              raise SystemExit("No authority news available: check sources before publishing")
+          updated = dt.datetime.fromisoformat(data["updated"])
+          if dt.datetime.now(dt.timezone.utc) - updated > dt.timedelta(minutes=15):
+              raise SystemExit("Authority news data was not refreshed")
+          PY
       - name: Commit news
         run: |
           git config user.name "github-actions[bot]"
