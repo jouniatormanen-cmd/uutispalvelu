@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T10:05:55.313099+00:00",
+  "updated": "2026-11-01T10:44:15.195947+00:00",
   "items": [
     {
       "title": "Epäiltyjä rattijuopumuksia lauantaina Outokummussa ja Kiteellä",
@@ -1394,7 +1394,7 @@
     "Traficom – tieliikenne",
     "Traficom – kyberturvallisuus"
   ],
-  "newly_fetched": 1208,
+  "newly_fetched": 708,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1416,33 +1416,33 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1520,13 +1520,13 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen",
+      "Hämeen"
+    ],
+    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
-    ],
-    "police_missing": [
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
