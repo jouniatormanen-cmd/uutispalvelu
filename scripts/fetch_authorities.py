@@ -12,6 +12,20 @@ SOURCES=[
  ("Traficom – tieliikenne","https://www.traficom.fi/feed/rss/fi/75"),
  ("Traficom – kyberturvallisuus","https://www.traficom.fi/feed/rss/fi/117"),
 ]
+# Nationwide coverage targets are monitored separately from verified working feeds.
+POLICE_TARGETS = [
+ "Helsingin", "Hämeen", "Itä-Suomen", "Itä-Uudenmaan",
+ "Kaakkois-Suomen", "Lapin", "Lounais-Suomen",
+ "Länsi-Uudenmaan", "Oulun", "Pohjanmaan", "Sisä-Suomen",
+]
+RESCUE_TARGETS = [
+ "Etelä-Karjalan", "Etelä-Pohjanmaan", "Etelä-Savon", "Helsingin",
+ "Itä-Uudenmaan", "Kainuun", "Kanta-Hämeen", "Keski-Pohjanmaan",
+ "Keski-Suomen", "Keski-Uudenmaan", "Kymenlaakson", "Lapin",
+ "Länsi-Uudenmaan", "Pirkanmaan", "Pohjanmaan", "Pohjois-Karjalan",
+ "Pohjois-Pohjanmaan", "Pohjois-Savon", "Päijät-Hämeen",
+ "Satakunnan", "Varsinais-Suomen",
+]
 class Links(HTMLParser):
  def __init__(self): super().__init__();self.links=[]
  def handle_starttag(self,tag,attrs):
@@ -89,6 +103,16 @@ def main():
   results=[f.result() for f in futures]
   fresh=[n for result in results for n in result[0]]
   monitoring=[{"source":source,"status":result[1],"fetched":len(result[0]),"feeds_checked":result[2]} for (source,_),result in zip(SOURCES,results)]
+ working={source for (source,_),result in zip(SOURCES,results) if result[1]=="toimii" and result[0]}
+ coverage={
+  "police_active":[x for x in POLICE_TARGETS if x+" poliisilaitos" in working],
+  "police_missing":[x for x in POLICE_TARGETS if x+" poliisilaitos" not in working],
+  "rescue_active":[x for x in RESCUE_TARGETS if x+" pelastuslaitos" in working],
+  "rescue_missing":[x for x in RESCUE_TARGETS if x+" pelastuslaitos" not in working],
+  "aland_police_verified":False,
+  "aland_rescue_verified":False,
+ }
+ print("Nationwide coverage gaps:",json.dumps(coverage,ensure_ascii=False))
  now=dt.datetime.now(dt.timezone.utc);items={}
  if not fresh:print("WARNING: no fresh feed entries; retaining previous valid data")
  for n in old+fresh:
@@ -102,6 +126,6 @@ def main():
   if key not in items or (not items[key].get("description") and n.get("description")):items[key]=n
  ordered=sorted(items.values(),key=lambda n:n.get("date") or "",reverse=True)[:1500]
  os.makedirs(os.path.dirname(OUTPUT),exist_ok=True)
- with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring},f,ensure_ascii=False,indent=2)
+ with open(OUTPUT,"w",encoding="utf-8") as f:json.dump({"updated":now.isoformat(),"items":ordered,"sources":[x[0] for x in SOURCES],"newly_fetched":len(fresh),"monitoring":monitoring,"coverage":coverage},f,ensure_ascii=False,indent=2)
  print("Saved",len(ordered),"authority headlines; new fetched",len(fresh))
 if __name__=="__main__":main()
