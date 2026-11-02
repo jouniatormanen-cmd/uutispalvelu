@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-02T14:46:16.293027+00:00",
+  "updated": "2026-11-02T15:43:37.940994+00:00",
   "items": [
+    {
+      "title": "Auto törmäsi pysähtyneeseen kaivinkoneeseen Kittilässä – matkustaja kuoli",
+      "link": "https://www.is.fi/kotimaa/art-2000012383562.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-02T15:13:00+00:00",
+      "region": "Kittilä",
+      "description": "",
+      "municipality": "Kittilä",
+      "province": "Lappi"
+    },
     {
       "title": "Tulipalo Porvoossa – syyksi epäillään oikosulkua sähköjohdossa",
       "link": "https://poliisi.fi/-/tulipalo-porvoossa-syyksi-epaillaan-oikosulkua-sahkojohdossa",
@@ -1705,7 +1715,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1308,
+  "newly_fetched": 1508,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1757,9 +1767,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1775,9 +1785,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
@@ -1841,13 +1851,13 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
+      "Lapin",
+      "Lounais-Suomen",
+      "Pohjanmaan"
     ],
     "police_missing": [
-      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -1879,7 +1889,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-03T14:46:16.293027+00:00",
+  "window_start": "2026-10-03T15:43:37.940994+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -1901,6 +1911,6 @@
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 1,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 9
+    "Ilta-Sanomat": 10
   }
 }
