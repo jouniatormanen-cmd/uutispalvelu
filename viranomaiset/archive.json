@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T05:25:44.137327+00:00",
+  "updated": "2026-11-02T06:25:22.635503+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -38,6 +38,16 @@
       "date": "2026-11-01T16:55:23+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Lapin poliisilaitoksen viikonloppua työllistivät rattijuopumukset ja pahoinpitelyt",
+      "link": "https://poliisi.fi/-/lapin-poliisilaitoksen-viikonloppua-tyollistivat-rattijuopumukset-ja-pahoinpitelyt",
+      "source": "Lapin poliisilaitos",
+      "date": "2026-11-01T14:00:00+00:00",
+      "region": "",
+      "description": "Lapin poliisilaitoksen viikonloppua työllistivät rattijuopumukset ja pahoinpitelyt",
       "municipality": "",
       "province": ""
     },
