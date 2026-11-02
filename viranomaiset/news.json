@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:18:32.809536+00:00",
+  "updated": "2026-11-02T04:24:15.995359+00:00",
   "items": [
     {
       "title": "Sipoon alueella kadonnut mies on löytynyt",
@@ -1647,9 +1647,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -1665,9 +1665,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1758,10 +1758,10 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Itä-Suomen",
       "Itä-Uudenmaan"
     ],
     "police_missing": [
-      "Itä-Suomen",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
@@ -1799,7 +1799,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-03T03:18:32.809536+00:00",
+  "window_start": "2026-10-03T04:24:15.995359+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
