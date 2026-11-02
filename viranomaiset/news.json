@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T08:48:16.213089+00:00",
+  "updated": "2026-11-02T09:47:07.828786+00:00",
   "items": [
     {
       "title": "Auto törmäsi Forumin seinään",
@@ -1675,7 +1675,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1108,
+  "newly_fetched": 1308,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1721,9 +1721,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1733,7 +1733,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1751,9 +1751,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1810,10 +1810,10 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Kaakkois-Suomen",
+      "Lapin"
     ],
     "police_missing": [
-      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
@@ -1849,7 +1849,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-03T08:48:16.213089+00:00",
+  "window_start": "2026-10-03T09:47:07.828786+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,

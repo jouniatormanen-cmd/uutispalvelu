@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-02T08:48:10.396341+00:00",
+  "updated": "2026-11-02T09:47:01.544431+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
       "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 5.00 - 17.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-02/06-54-52Z/2.49.0.1.246.0.0.2026.26376892.8704559355110255625130088353194256761.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-02/09-27-13Z/2.49.0.1.246.0.0.2026.26386033.8704559355110255625130088353194256761.xml",
       "description": "Kovan tuulen varoitus: Pohjoistuulta aamuyöstä alkaen 14 m/s.",
       "starts": null,
       "expires": "2026-11-03T15:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus merelle: Suomenlahden itäosa, ti 14.00 - ke 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-02/06-54-52Z/2.49.0.1.246.0.0.2026.26376892.141109538284521365703077900120116235625.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-02/09-27-13Z/2.49.0.1.246.0.0.2026.26386033.141109538284521365703077900120116235625.xml",
       "description": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 40 % tiistaipäivästä tiistain ja keskiviikon väliseen yöhön.",
       "starts": null,
       "expires": "2026-11-03T22:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ke 7.00 - 23.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-02/06-54-52Z/2.49.0.1.246.0.0.2026.26376892.235638820281840076448526280546624580531.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-02/09-27-13Z/2.49.0.1.246.0.0.2026.26386033.235638820281840076448526280546624580531.xml",
       "description": "Kovan tuulen varoitus: Kovan lännen ja luoteen välisen tuulen todennäköisyys on 30 % keskiviikkoaamusta keskiviikon ja torstain väliseen yöhön.",
       "starts": null,
       "expires": "2026-11-04T21:00:00+00:00"
