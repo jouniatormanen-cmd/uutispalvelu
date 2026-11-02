@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:32:51.647207+00:00",
+  "updated": "2026-11-02T18:30:02.174983+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -1715,7 +1715,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 908,
+  "newly_fetched": 1308,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1737,15 +1737,15 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1755,15 +1755,15 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1773,7 +1773,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1848,12 +1848,12 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Kaakkois-Suomen"
-    ],
-    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Lapin",
+      "Kaakkois-Suomen",
+      "Lapin"
+    ],
+    "police_missing": [
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
@@ -1889,7 +1889,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-03T17:32:51.647207+00:00",
+  "window_start": "2026-10-03T18:30:02.174983+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,

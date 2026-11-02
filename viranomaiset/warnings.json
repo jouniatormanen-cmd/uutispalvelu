@@ -1,21 +1,28 @@
 {
-  "updated": "2026-11-02T17:32:45.224405+00:00",
+  "updated": "2026-11-02T18:29:54.085889+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
       "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 5.00 - 17.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-02/15-34-01Z/2.49.0.1.246.0.0.2026.26408041.8704559355110255625130088353194256761.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-02/18-12-28Z/2.49.0.1.246.0.0.2026.26417548.8704559355110255625130088353194256761.xml",
       "description": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aamuyöstä alkaen 14 m/s.",
       "starts": null,
       "expires": "2026-11-03T15:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ke 7.00 - 23.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-02/15-34-01Z/2.49.0.1.246.0.0.2026.26408041.235638820281840076448526280546624580531.xml",
+      "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ke 7.00 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-02/18-12-28Z/2.49.0.1.246.0.0.2026.26417548.235638820281840076448526280546624580531.xml",
       "description": "Kovan tuulen varoitus: Kovan länsituulen todennäköisyys on 40 % keskiviikkoaamusta keskiviikon ja torstain väliseen yöhön.",
       "starts": null,
-      "expires": "2026-11-04T21:00:00+00:00"
+      "expires": "2026-11-04T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus maa-alueille: Enontekiö ja Utsjoki, ke 13.00 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-02/18-12-28Z/2.49.0.1.246.0.0.2026.26417548.27469007372155605101761751840943202762.xml",
+      "description": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 40 % keskiviikkopäivästä keskiviikon ja torstain väliseen yöhön. Tuulen nopeus voi olla puuskissa 20 m/s.",
+      "starts": null,
+      "expires": "2026-11-04T22:00:00+00:00"
     }
   ]
 }
