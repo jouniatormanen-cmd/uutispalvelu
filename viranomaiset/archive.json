@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-02T06:25:22.635503+00:00",
+  "updated": "2026-11-02T07:51:57.592311+00:00",
   "items": [
+    {
+      "title": "Auto törmäsi Forumin seinään",
+      "link": "https://www.is.fi/kotimaa/art-2000012381765.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-02T07:46:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Törkeä rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/torkea-rattijuopumus-porissa-20",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-02T07:10:00+00:00",
+      "region": "Pori",
+      "description": "Törkeä rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
+      "title": "Poliisi pyytää havaintoja pahoinpitelystä Joensuun Kauppakadulla",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-pahoinpitelysta-joensuun-kauppakadulla",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-02T06:35:00+00:00",
+      "region": "Joensuu",
+      "description": "Poliisi pyytää havaintoja pahoinpitelystä Joensuun Kauppakadulla",
+      "municipality": "Joensuu",
+      "province": "Pohjois-Karjala"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72463553/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
