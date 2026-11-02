@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-02T16:41:23.879299+00:00",
+  "updated": "2026-11-02T17:32:51.647207+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72423404/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-02T16:59:29+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Auto törmäsi pysähtyneeseen kaivinkoneeseen Kittilässä – matkustaja kuoli",
       "link": "https://www.is.fi/kotimaa/art-2000012383562.html",
@@ -1680,16 +1690,6 @@
       "description": "Kadonnut mies Uudessakaupungissa",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Kova ylinopeus Kajaanissa",
-      "link": "https://poliisi.fi/-/kova-ylinopeus-kajaanissa",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-03T16:51:00+00:00",
-      "region": "Kajaani",
-      "description": "Kova ylinopeus Kajaanissa",
-      "municipality": "Kajaani",
-      "province": "Kainuu"
     }
   ],
   "sources": [
@@ -1715,7 +1715,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1308,
+  "newly_fetched": 908,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1737,9 +1737,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -1755,15 +1755,15 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1797,9 +1797,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -1848,17 +1848,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Kaakkois-Suomen",
-      "Lapin",
-      "Sisä-Suomen"
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
+      "Itä-Suomen",
       "Itä-Uudenmaan",
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -1889,7 +1889,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-03T16:41:23.879299+00:00",
+  "window_start": "2026-10-03T17:32:51.647207+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -1901,11 +1901,11 @@
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 19,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 16,
+    "Oulun poliisilaitos": 15,
     "Pohjanmaan poliisilaitos": 4,
     "Poliisihallitus": 1,
     "Sisä-Suomen poliisilaitos": 10,
-    "Keski-Suomen pelastuslaitos": 23,
+    "Keski-Suomen pelastuslaitos": 24,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 1,
