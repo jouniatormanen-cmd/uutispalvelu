@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T23:55:23.830950+00:00",
+  "updated": "2026-11-02T00:27:04.608670+00:00",
   "items": [
     {
       "title": "Sipoon alueella kadonnut mies on löytynyt",
@@ -1625,7 +1625,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1508,
+  "newly_fetched": 1608,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1683,15 +1683,15 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -1701,15 +1701,15 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Sisä-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Sisä-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -1762,13 +1762,13 @@
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
-      "Lounais-Suomen"
+      "Lounais-Suomen",
+      "Oulun",
+      "Sisä-Suomen"
     ],
     "police_missing": [
       "Länsi-Uudenmaan",
-      "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -1799,7 +1799,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-02T23:55:23.830950+00:00",
+  "window_start": "2026-10-03T00:27:04.608670+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
