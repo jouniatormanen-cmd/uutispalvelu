@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:57:05.510780+00:00",
+  "updated": "2026-11-03T21:31:43.831592+00:00",
   "items": [
     {
       "title": "Vantaalla kadonnut nainen on löytynyt",
@@ -1861,15 +1861,15 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1891,15 +1891,15 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -1951,14 +1951,14 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin",
-      "Lounais-Suomen"
+      "Sisä-Suomen"
     ],
     "police_missing": [
+      "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -1989,7 +1989,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-04T20:57:05.510780+00:00",
+  "window_start": "2026-10-04T21:31:43.831592+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
