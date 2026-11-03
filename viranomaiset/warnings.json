@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:17:51.570117+00:00",
+  "updated": "2026-11-03T12:08:38.323529+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
@@ -16,13 +16,6 @@
       "description": "Tuulivaroitus maa-alueille: Länsituuli on voimakasta aamupäivästä alkaen, tuulen nopeus puuskissa 20 m/s.",
       "starts": null,
       "expires": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Merenkurkku ja Perämeri, ti 11.26 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-03/09-26-19Z/2.49.0.1.246.0.0.2026.26472379.8704559355110255625130088353194256761.xml",
-      "description": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
-      "starts": null,
-      "expires": "2026-11-03T12:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus merelle: Merenkurkku ja Perämeri, ke 11.00 - to 0.00",
