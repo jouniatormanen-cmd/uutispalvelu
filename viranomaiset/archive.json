@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T19:20:50.897802+00:00",
+  "updated": "2026-11-03T20:14:57.726610+00:00",
   "items": [
     {
       "title": "Tampereella puukotus kauppa­keskuksen sisään­käynnillä",
@@ -20,6 +20,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Poliisi selvittää puukotusta Tampereella",
+      "link": "https://poliisi.fi/-/poliisi-selvittaa-puukotusta-tampereella",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-03T18:27:00+00:00",
+      "region": "Tampere",
+      "description": "Poliisi selvittää puukotusta Tampereella",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
