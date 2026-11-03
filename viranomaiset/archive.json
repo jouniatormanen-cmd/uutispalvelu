@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:04:22.068690+00:00",
+  "updated": "2026-11-03T14:19:09.923365+00:00",
   "items": [
     {
       "title": "Poliisi ja viranomaiset puuttuvat Lappeenrannan koulualueiden häiriökäyttäytymiseen",
@@ -20,6 +20,16 @@
       "description": "",
       "municipality": "Pori",
       "province": "Satakunta"
+    },
+    {
+      "title": "Poliisi tutkii epäiltyä henkirikosta Jyväskylässä",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-epailtya-henkirikosta-jyvaskylassa-1",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-03T12:10:00+00:00",
+      "region": "Jyväskylä",
+      "description": "Poliisi tutkii epäiltyä henkirikosta Jyväskylässä",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
     },
     {
       "title": "Poliisi kaipaa havaintoja Hiirosessa tapahtuneeseen epäiltyyn törkeään pahoinpitelyyn",

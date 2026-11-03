@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:04:22.068690+00:00",
+  "updated": "2026-11-03T14:19:09.923365+00:00",
   "items": [
     {
       "title": "Poliisi ja viranomaiset puuttuvat Lappeenrannan koulualueiden häiriökäyttäytymiseen",
@@ -20,6 +20,16 @@
       "description": "",
       "municipality": "Pori",
       "province": "Satakunta"
+    },
+    {
+      "title": "Poliisi tutkii epäiltyä henkirikosta Jyväskylässä",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-epailtya-henkirikosta-jyvaskylassa-1",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-03T12:10:00+00:00",
+      "region": "Jyväskylä",
+      "description": "Poliisi tutkii epäiltyä henkirikosta Jyväskylässä",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
     },
     {
       "title": "Poliisi kaipaa havaintoja Hiirosessa tapahtuneeseen epäiltyyn törkeään pahoinpitelyyn",
@@ -1755,7 +1765,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1108,
+  "newly_fetched": 1808,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1777,15 +1787,15 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1807,39 +1817,39 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -1888,17 +1898,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Kaakkois-Suomen",
-      "Lapin"
-    ],
-    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
+      "Lapin",
       "Lounais-Suomen",
-      "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -1929,7 +1939,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-04T13:04:22.068690+00:00",
+  "window_start": "2026-10-04T14:19:09.923365+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -1944,7 +1954,7 @@
     "Oulun poliisilaitos": 16,
     "Pohjanmaan poliisilaitos": 4,
     "Poliisihallitus": 1,
-    "Sisä-Suomen poliisilaitos": 10,
+    "Sisä-Suomen poliisilaitos": 11,
     "Keski-Suomen pelastuslaitos": 24,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
