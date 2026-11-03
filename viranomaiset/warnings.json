@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-03T06:17:28.582373+00:00",
+  "updated": "2026-11-03T07:39:35.238056+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 0.00 - 12.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-03/03-05-06Z/2.49.0.1.246.0.0.2026.26449506.261086918325914501674900303878548577804.xml",
-      "description": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstaipäivään.",
-      "starts": null,
-      "expires": "2026-11-05T10:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus maa-alueille: Enontekiö ja Utsjoki, ke 10.00 - to 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-03/03-05-06Z/2.49.0.1.246.0.0.2026.26449506.27469007372155605101761751840943202762.xml",
-      "description": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 40 % keskiviikkopäivästä keskiviikon ja torstain väliseen yöhön. Tuulen nopeus voi olla puuskissa 20 m/s.",
-      "starts": null,
-      "expires": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - 12.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-03/03-05-06Z/2.49.0.1.246.0.0.2026.26449506.262840641075724508523225180435030011623.xml",
-      "description": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstaipäivään.",
-      "starts": null,
-      "expires": "2026-11-05T10:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 5.05 - 13.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-03/03-05-06Z/2.49.0.1.246.0.0.2026.26449506.8704559355110255625130088353194256761.xml",
+      "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 8.54 - 13.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-03/06-54-29Z/2.49.0.1.246.0.0.2026.26463269.8704559355110255625130088353194256761.xml",
       "description": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
       "starts": null,
       "expires": "2026-11-03T11:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ke 14.00 - to 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-03/03-05-06Z/2.49.0.1.246.0.0.2026.26449506.235638820281840076448526280546624580531.xml",
+      "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ke 11.00 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-03/06-54-29Z/2.49.0.1.246.0.0.2026.26463269.235638820281840076448526280546624580531.xml",
       "description": "Kovan tuulen varoitus: Kovan lännen ja luoteen välisen tuulen todennäköisyys on 40 % keskiviikkopäivästä keskiviikon ja torstain väliseen yöhön.",
+      "starts": null,
+      "expires": "2026-11-04T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 0.00 - 12.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-03/06-54-29Z/2.49.0.1.246.0.0.2026.26463269.261086918325914501674900303878548577804.xml",
+      "description": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstaipäivään.",
+      "starts": null,
+      "expires": "2026-11-05T10:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - 18.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-03/06-54-29Z/2.49.0.1.246.0.0.2026.26463269.262840641075724508523225180435030011623.xml",
+      "description": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstai-iltaan.",
+      "starts": null,
+      "expires": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus maa-alueille: Enontekiö ja Utsjoki, ke 10.00 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-03/06-54-29Z/2.49.0.1.246.0.0.2026.26463269.27469007372155605101761751840943202762.xml",
+      "description": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 60 % keskiviikkopäivästä keskiviikon ja torstain väliseen yöhön. Tuulen nopeus voi olla puuskissa 20 m/s.",
       "starts": null,
       "expires": "2026-11-04T22:00:00+00:00"
     }
