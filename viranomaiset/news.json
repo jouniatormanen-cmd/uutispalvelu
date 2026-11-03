@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T08:35:37.473130+00:00",
+  "updated": "2026-11-03T09:29:14.057660+00:00",
   "items": [
     {
       "title": "Varkaudessa pahoinpideltiin nainen",
@@ -1715,7 +1715,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1408,
+  "newly_fetched": 1208,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1743,9 +1743,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1755,9 +1755,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1767,9 +1767,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1791,9 +1791,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1849,12 +1849,12 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
+      "Lapin",
+      "Lounais-Suomen"
     ],
     "police_missing": [
-      "Lounais-Suomen",
+      "Itä-Uudenmaan",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -1889,7 +1889,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-04T08:35:37.473130+00:00",
+  "window_start": "2026-10-04T09:29:14.057660+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
