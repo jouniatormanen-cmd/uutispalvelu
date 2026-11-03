@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T23:56:48.606453+00:00",
+  "updated": "2026-11-03T00:33:28.001647+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -1705,7 +1705,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1408,
+  "newly_fetched": 1308,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1757,9 +1757,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1841,10 +1841,10 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin",
-      "Lounais-Suomen"
+      "Lapin"
     ],
     "police_missing": [
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -1879,7 +1879,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-03T23:56:48.606453+00:00",
+  "window_start": "2026-10-04T00:33:28.001647+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
