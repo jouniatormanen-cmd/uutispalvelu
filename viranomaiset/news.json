@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-03T18:23:08.209579+00:00",
+  "updated": "2026-11-03T19:20:50.897802+00:00",
   "items": [
+    {
+      "title": "Tampereella puukotus kauppa­keskuksen sisään­käynnillä",
+      "link": "https://www.is.fi/tampereen-seutu/art-2000012386651.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-03T19:01:00+00:00",
+      "region": "Tampere",
+      "description": "",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
+    },
+    {
+      "title": "Perheenisä, 39, raiskasi ja tappoi vaimonsa – nyt tuli viimeinen niitti tuomiolle",
+      "link": "https://www.is.fi/kotimaa/art-2000012385281.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-03T18:30:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72470852/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -1775,7 +1795,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1208,
+  "newly_fetched": 1608,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1791,9 +1811,9 @@
     },
     {
       "source": "Hämeen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: The read operation timed out",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Suomen poliisilaitos",
@@ -1821,39 +1841,39 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1907,17 +1927,17 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
-    ],
-    "police_missing": [
+      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
-      "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
+      "Pohjanmaan"
+    ],
+    "police_missing": [
+      "Hämeen",
+      "Länsi-Uudenmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -1949,7 +1969,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-04T18:23:08.209579+00:00",
+  "window_start": "2026-10-04T19:20:50.897802+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -1971,6 +1991,6 @@
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 1,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 11
+    "Ilta-Sanomat": 13
   }
 }
