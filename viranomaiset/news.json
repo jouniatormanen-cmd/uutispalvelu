@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:14:42.750512+00:00",
+  "updated": "2026-11-04T04:03:34.787929+00:00",
   "items": [
     {
       "title": "Vantaalla kadonnut nainen on löytynyt",
@@ -1815,7 +1815,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1008,
+  "newly_fetched": 1408,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1855,21 +1855,21 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1897,9 +1897,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -1949,16 +1949,16 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Itä-Uudenmaan",
+      "Lapin",
+      "Lounais-Suomen",
+      "Sisä-Suomen"
     ],
     "police_missing": [
       "Kaakkois-Suomen",
-      "Lapin",
-      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -1989,7 +1989,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-05T03:14:42.750512+00:00",
+  "window_start": "2026-10-05T04:03:34.787929+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
