@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-04T13:37:23.481578+00:00",
+  "updated": "2026-11-04T14:38:02.046946+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72475824/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-04T14:16:11+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Puukotus kauppa­keskuksen sisään­käynnillä Tampereella – uutta tietoa epäillystä",
+      "link": "https://www.is.fi/tampereen-seutu/art-2000012389039.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-04T14:02:00+00:00",
+      "region": "Tampere",
+      "description": "",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
+    },
+    {
+      "title": "Poliisi on pidättänyt eilisestä Tampereen Kalevan väkivallanteosta epäillyn",
+      "link": "https://poliisi.fi/-/poliisi-on-pidattanyt-eilisesta-tampereen-kalevan-vakivallanteosta-epaillyn",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-04T13:42:00+00:00",
+      "region": "Tampere",
+      "description": "Poliisi on pidättänyt eilisestä Tampereen Kalevan väkivallanteosta epäillyn",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
+    },
+    {
+      "title": "Huittisissa tapahtunut liikenneonnettomuus on selvinnyt",
+      "link": "https://poliisi.fi/-/huittisissa-tapahtunut-liikenneonnettomuus-on-selvinnyt",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-04T13:19:00+00:00",
+      "region": "",
+      "description": "Huittisissa tapahtunut liikenneonnettomuus on selvinnyt",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Sähkökitaramurhaajalle, 40, elinkautinen",
       "link": "https://www.is.fi/tampereen-seutu/art-2000012385953.html",
@@ -8,6 +48,16 @@
       "date": "2026-11-04T13:02:00+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii Seinäjoella Ruukintiellä tapahtunutta tulipaloa – silminnäkijähavaintoja pyydetään",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-seinajoella-ruukintiella-tapahtunutta-tulipaloa-silminnakijahavaintoja-pyydetaan",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-04T11:56:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii Seinäjoella Ruukintiellä tapahtunutta tulipaloa – silminnäkijähavaintoja pyydetään",
       "municipality": "",
       "province": ""
     },
