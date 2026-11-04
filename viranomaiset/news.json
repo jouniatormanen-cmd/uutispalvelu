@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:25:36.876565+00:00",
+  "updated": "2026-11-04T03:14:42.750512+00:00",
   "items": [
     {
       "title": "Vantaalla kadonnut nainen on löytynyt",
@@ -1815,7 +1815,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1108,
+  "newly_fetched": 1008,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1861,9 +1861,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1949,11 +1949,11 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Lapin"
+      "Itä-Uudenmaan"
     ],
     "police_missing": [
       "Kaakkois-Suomen",
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
@@ -1989,7 +1989,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-05T02:25:36.876565+00:00",
+  "window_start": "2026-10-05T03:14:42.750512+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
