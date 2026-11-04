@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T11:35:00.180707+00:00",
+  "updated": "2026-11-04T12:24:13.499612+00:00",
   "items": [
     {
       "title": "Autoilija törmäsi lapseen suojatiellä – lapsi sairaalaan",
@@ -1820,26 +1820,6 @@
       "description": "Jokioisilla kadonnut mies on löytynyt menehtyneenä",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Varkaudessa murtauduttu kultasepän liikkeeseen",
-      "link": "https://poliisi.fi/-/varkaudessa-murtauduttu-kultasepan-liikkeeseen",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-05T12:00:00+00:00",
-      "region": "",
-      "description": "Varkaudessa murtauduttu kultasepän liikkeeseen",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Traficomin asiakaspalvelussa ruuhkaa",
-      "link": "https://www.traficom.fi/fi/uutiset/traficomin-asiakaspalvelussa-ruuhkaa?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "source": "Traficom – tieliikenne",
-      "date": "2026-10-05T11:36:29+00:00",
-      "region": "",
-      "description": "Traficomin asiakaspalvelu on tällä hetkellä ruuhkautunut. Pahoittelemme asiakkaillemme aiheutuvaa haittaa.",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -1865,7 +1845,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 908,
+  "newly_fetched": 1009,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1887,9 +1867,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -1905,9 +1885,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1941,9 +1921,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1978,7 +1958,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 358,
+      "fetched": 359,
       "feeds_checked": 1
     },
     {
@@ -1997,10 +1977,10 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
+      "Hämeen",
+      "Itä-Suomen"
     ],
     "police_missing": [
-      "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
@@ -2039,12 +2019,12 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-05T11:35:00.180707+00:00",
+  "window_start": "2026-10-05T12:24:13.499612+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 8,
-    "Itä-Suomen poliisilaitos": 26,
+    "Itä-Suomen poliisilaitos": 25,
     "Itä-Uudenmaan poliisilaitos": 14,
     "Kaakkois-Suomen poliisilaitos": 6,
     "Keskusrikospoliisi": 2,
@@ -2059,7 +2039,7 @@
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 1,
-    "Traficom – tieliikenne": 1,
+    "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
     "Ilta-Sanomat": 16
   }
