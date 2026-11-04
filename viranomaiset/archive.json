@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:29:20.068573+00:00",
+  "updated": "2026-11-04T09:25:52.455944+00:00",
   "items": [
     {
       "title": "Karhu liikenne­onnettomuudessa – lopetettiin",
@@ -18,6 +18,16 @@
       "date": "2026-11-04T07:22:56+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Tuplarattijuopumus Pieksämällä",
+      "link": "https://poliisi.fi/-/tuplarattijuopumus-pieksamalla",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-04T07:14:00+00:00",
+      "region": "",
+      "description": "Tuplarattijuopumus Pieksämällä",
       "municipality": "",
       "province": ""
     },
