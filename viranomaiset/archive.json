@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:38:02.046946+00:00",
+  "updated": "2026-11-04T15:29:28.829113+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -52,6 +52,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi suoritti henkilön kiinniottotehtävän Myllykoskella",
+      "link": "https://poliisi.fi/-/poliisi-suoritti-henkilon-kiinniottotehtavan-myllykoskella",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-04T12:10:00+00:00",
+      "region": "Kouvola",
+      "description": "Kouvolan Myllykoskella ollut useamman poliisipartion tehtävä. Poliisi jatkaa kohdepaikalla vielä paikkatutkintaa.",
+      "municipality": "Kouvola",
+      "province": "Kymenlaakso"
+    },
+    {
       "title": "Poliisi tutkii Seinäjoella Ruukintiellä tapahtunutta tulipaloa – silminnäkijähavaintoja pyydetään",
       "link": "https://poliisi.fi/-/poliisi-tutkii-seinajoella-ruukintiella-tapahtunutta-tulipaloa-silminnakijahavaintoja-pyydetaan",
       "source": "Pohjanmaan poliisilaitos",
@@ -68,6 +78,16 @@
       "date": "2026-11-04T11:12:00+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi etsii kadonnutta miestä",
+      "link": "https://poliisi.fi/-/poliisi-etsii-kadonnutta-miesta",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-04T09:49:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja 27.8.2026 kadonneesta eteläkarjalaisesta miehestä.&#xa0;",
       "municipality": "",
       "province": ""
     },

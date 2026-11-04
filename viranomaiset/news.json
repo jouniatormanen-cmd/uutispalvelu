@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:38:02.046946+00:00",
+  "updated": "2026-11-04T15:29:28.829113+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -52,6 +52,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi suoritti henkilön kiinniottotehtävän Myllykoskella",
+      "link": "https://poliisi.fi/-/poliisi-suoritti-henkilon-kiinniottotehtavan-myllykoskella",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-04T12:10:00+00:00",
+      "region": "Kouvola",
+      "description": "Kouvolan Myllykoskella ollut useamman poliisipartion tehtävä. Poliisi jatkaa kohdepaikalla vielä paikkatutkintaa.",
+      "municipality": "Kouvola",
+      "province": "Kymenlaakso"
+    },
+    {
       "title": "Poliisi tutkii Seinäjoella Ruukintiellä tapahtunutta tulipaloa – silminnäkijähavaintoja pyydetään",
       "link": "https://poliisi.fi/-/poliisi-tutkii-seinajoella-ruukintiella-tapahtunutta-tulipaloa-silminnakijahavaintoja-pyydetaan",
       "source": "Pohjanmaan poliisilaitos",
@@ -68,6 +78,16 @@
       "date": "2026-11-04T11:12:00+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi etsii kadonnutta miestä",
+      "link": "https://poliisi.fi/-/poliisi-etsii-kadonnutta-miesta",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-04T09:49:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja 27.8.2026 kadonneesta eteläkarjalaisesta miehestä.&#xa0;",
       "municipality": "",
       "province": ""
     },
@@ -1895,7 +1915,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1509,
+  "newly_fetched": 1009,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1917,9 +1937,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -1929,15 +1949,15 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Keskusrikospoliisi",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1947,9 +1967,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1965,21 +1985,21 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2028,17 +2048,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Lapin",
-      "Lounais-Suomen",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Kaakkois-Suomen",
+      "Lapin"
     ],
     "police_missing": [
+      "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun"
+      "Oulun",
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2069,14 +2089,14 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-05T14:38:02.046946+00:00",
+  "window_start": "2026-10-05T15:29:28.829113+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 7,
     "Itä-Suomen poliisilaitos": 25,
     "Itä-Uudenmaan poliisilaitos": 14,
-    "Kaakkois-Suomen poliisilaitos": 6,
+    "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 20,
