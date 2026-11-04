@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-04T05:00:27.883469+00:00",
+  "updated": "2026-11-04T06:01:52.937274+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72472430/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-04T05:01:57+00:00",
+      "region": "",
+      "description": "Kooste eilisillan ja kuluneen yön hälytyksistä Keski-Suomen pelastuslaitoksella",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Oulun poliisilaitoksen alueella tavattiin rattijuoppoja",
+      "link": "https://poliisi.fi/-/oulun-poliisilaitoksen-alueella-tavattiin-rattijuoppoja-2",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-04T01:56:00+00:00",
+      "region": "Oulu",
+      "description": "Oulun poliisilaitoksen alueella tavattiin rattijuoppoja",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
+    },
     {
       "title": "Vantaalla kadonnut nainen on löytynyt",
       "link": "https://www.is.fi/kotimaa/art-2000012386630.html",

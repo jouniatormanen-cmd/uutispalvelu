@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T05:00:22.528755+00:00",
+  "updated": "2026-11-04T06:01:47.154698+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
@@ -16,20 +16,6 @@
       "description": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta aamupäivästä alkaen 14 m/s.",
       "starts": null,
       "expires": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "title": "Keltainen liikennesää: Maan itä- ja paikoin länsiosa, ke 5.14 - 8.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/03-14-18Z/2.49.0.1.246.0.0.2026.26536458.324070135553062873563048588746054955886.xml",
-      "description": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
-      "starts": null,
-      "expires": "2026-11-04T06:00:00+00:00"
-    },
-    {
-      "title": "Keltainen liikennesää: Paikoin Lappi, ke 5.14 - 8.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/03-14-18Z/2.49.0.1.246.0.0.2026.26536458.322857380447380688933415727167760756737.xml",
-      "description": "Liikennesää: Ajokeli on huono aluksi jäätävän vesisateen vuoksi.",
-      "starts": null,
-      "expires": "2026-11-04T06:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - 23.00",
