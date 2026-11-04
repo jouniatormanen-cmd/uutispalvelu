@@ -1,42 +1,56 @@
 {
-  "updated": "2026-11-04T12:24:05.778114+00:00",
+  "updated": "2026-11-04T13:37:16.909501+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 0.00 - pe 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/09-23-16Z/2.49.0.1.246.0.0.2026.26558596.261086918325914501674900303878548577804.xml",
+      "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Perämeri, to 0.00 - 14.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-04/12-34-42Z/2.49.0.1.246.0.0.2026.26570082.261086918325914501674900303878548577804.xml",
       "description": "Kovan tuulen varoitus: Luoteistuulta keskiyöstä alkaen 14 m/s.",
       "starts": null,
-      "expires": "2026-11-05T22:00:00+00:00"
+      "expires": "2026-11-05T12:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ke 11.23 - to 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/09-23-16Z/2.49.0.1.246.0.0.2026.26558596.235638820281840076448526280546624580531.xml",
+      "title": "Keltainen tuulivaroitus merelle: Perämeren pohjoisosa, ke 14.34 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-04/12-34-42Z/2.49.0.1.246.0.0.2026.26570082.235638820281840076448526280546624580531.xml",
       "description": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta aluksi 14 m/s.",
       "starts": null,
       "expires": "2026-11-04T22:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - pe 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/09-23-16Z/2.49.0.1.246.0.0.2026.26558596.262840641075724508523225180435030011623.xml",
-      "description": "Kovan tuulen varoitus: Luoteistuulta keskiyöstä alkaen 16 m/s.",
+      "title": "Keltainen tuulivaroitus maa-alueille: Inari ja Utsjoki, pe 0.00 - 9.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-04/12-34-42Z/2.49.0.1.246.0.0.2026.26570082.307276002993921869243989782674284681531.xml",
+      "description": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan luoteistuulen todennäköisyys on 30 % torstain ja perjantain välisenä yönä ja perjantaina aamulla. Tuulen nopeus voi olla puuskissa 20 m/s.",
       "starts": null,
-      "expires": "2026-11-05T22:00:00+00:00"
+      "expires": "2026-11-06T07:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus maa-alueille: Pohjois-Lappi, ke 11.23 - to 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/09-23-16Z/2.49.0.1.246.0.0.2026.26558596.27469007372155605101761751840943202762.xml",
+      "title": "Keltainen tuulivaroitus maa-alueille: Pohjois-Lappi, ke 14.34 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-04/12-34-42Z/2.49.0.1.246.0.0.2026.26570082.27469007372155605101761751840943202762.xml",
       "description": "Tuulivaroitus maa-alueille: Länsituuli on voimakasta aluksi, tuulen nopeus puuskissa 20 m/s.",
       "starts": null,
       "expires": "2026-11-04T22:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus maa-alueille: Inari ja Utsjoki, pe 0.00 - 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/09-23-16Z/2.49.0.1.246.0.0.2026.26558596.307276002993921869243989782674284681531.xml",
-      "description": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan luoteistuulen todennäköisyys on 30 % torstain ja perjantain välisenä yönä ja perjantaina aamulla. Tuulen nopeus voi olla puuskissa 20 m/s.",
+      "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - pe 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-04/12-34-42Z/2.49.0.1.246.0.0.2026.26570082.262840641075724508523225180435030011623.xml",
+      "description": "Kovan tuulen varoitus: Luoteistuulta keskiyöstä alkaen 16 m/s.",
       "starts": null,
-      "expires": "2026-11-06T07:00:00+00:00"
+      "expires": "2026-11-05T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 13.00 - pe 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-04/12-34-42Z/2.49.0.1.246.0.0.2026.26570082.99237980112617708761573560467646613905.xml",
+      "description": "Kovan tuulen varoitus: Luoteistuulta iltapäivästä alkaen 14 m/s.",
+      "starts": null,
+      "expires": "2026-11-05T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Selkämeri, ke 22.00 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-04/12-34-42Z/2.49.0.1.246.0.0.2026.26570082.1585595370048908230115399045134852147.xml",
+      "description": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta iltayöllä 14 m/s.",
+      "starts": null,
+      "expires": "2026-11-04T22:00:00+00:00"
     }
   ]
 }

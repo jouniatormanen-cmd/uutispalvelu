@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-04T12:24:13.499612+00:00",
+  "updated": "2026-11-04T13:37:23.481578+00:00",
   "items": [
+    {
+      "title": "Sähkökitaramurhaajalle, 40, elinkautinen",
+      "link": "https://www.is.fi/tampereen-seutu/art-2000012385953.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-04T13:02:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Autoilija törmäsi lapseen suojatiellä – lapsi sairaalaan",
       "link": "https://www.is.fi/tampereen-seutu/art-2000012388314.html",
@@ -1810,16 +1820,6 @@
       "description": "Ulosajossa ei ole loukkaantuneita eikä muita osallisia. Koskelantie on vielä hetken aikaa suljettuna Lännen suuntaan. Tapahtuneesta tiedotetaan lisää aikaisintaan huomenna. ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Jokioisilla kadonnut mies on löytynyt menehtyneenä",
-      "link": "https://poliisi.fi/-/jokioisilla-kadonnut-mies-on-loytynyt-menehtyneena",
-      "source": "Hämeen poliisilaitos",
-      "date": "2026-10-05T12:30:00+00:00",
-      "region": "",
-      "description": "Jokioisilla kadonnut mies on löytynyt menehtyneenä",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -1845,7 +1845,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1009,
+  "newly_fetched": 1309,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1873,9 +1873,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1885,15 +1885,15 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1909,9 +1909,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -1921,9 +1921,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -1978,15 +1978,15 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen"
+      "Itä-Suomen",
+      "Itä-Uudenmaan",
+      "Lapin",
+      "Oulun"
     ],
     "police_missing": [
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
     ],
@@ -2019,11 +2019,11 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-05T12:24:13.499612+00:00",
+  "window_start": "2026-10-05T13:37:23.481578+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
-    "Hämeen poliisilaitos": 8,
+    "Hämeen poliisilaitos": 7,
     "Itä-Suomen poliisilaitos": 25,
     "Itä-Uudenmaan poliisilaitos": 14,
     "Kaakkois-Suomen poliisilaitos": 6,
@@ -2041,6 +2041,6 @@
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 16
+    "Ilta-Sanomat": 17
   }
 }
