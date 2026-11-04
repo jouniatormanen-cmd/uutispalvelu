@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T09:25:52.455944+00:00",
+  "updated": "2026-11-04T10:30:29.022737+00:00",
   "items": [
     {
       "title": "Karhu liikenne­onnettomuudessa – lopetettiin",
@@ -1865,7 +1865,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1008,
+  "newly_fetched": 1108,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1923,7 +1923,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -1935,9 +1935,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
@@ -1999,7 +1999,8 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Itä-Uudenmaan",
+      "Pohjanmaan"
     ],
     "police_missing": [
       "Kaakkois-Suomen",
@@ -2007,7 +2008,6 @@
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2039,7 +2039,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-05T09:25:52.455944+00:00",
+  "window_start": "2026-10-05T10:30:29.022737+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
