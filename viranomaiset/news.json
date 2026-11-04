@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T23:44:15.853153+00:00",
+  "updated": "2026-11-04T00:19:17.487497+00:00",
   "items": [
     {
       "title": "Vantaalla kadonnut nainen on löytynyt",
@@ -1815,7 +1815,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1208,
+  "newly_fetched": 1108,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1843,9 +1843,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1855,9 +1855,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -1867,9 +1867,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -1948,14 +1948,14 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Uudenmaan",
       "Lapin",
-      "Lounais-Suomen",
       "Oulun"
     ],
     "police_missing": [
       "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Pohjanmaan",
       "Sisä-Suomen"
@@ -1989,7 +1989,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-04T23:44:15.853153+00:00",
+  "window_start": "2026-10-05T00:19:17.487497+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
