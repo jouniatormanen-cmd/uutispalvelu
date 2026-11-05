@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T15:38:33.290104+00:00",
+  "updated": "2026-11-05T16:42:24.481397+00:00",
   "items": [
     {
       "title": "Autoilija törmäsi jalankulkijaan suojatiellä Lapualla",
@@ -1965,7 +1965,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1409,
+  "newly_fetched": 1209,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1987,21 +1987,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2011,9 +2011,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2035,15 +2035,15 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Poliisihallitus",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Poliisihallitus",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2098,16 +2098,16 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Kaakkois-Suomen",
+      "Lounais-Suomen"
+    ],
+    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Lapin",
-      "Lounais-Suomen",
-      "Pohjanmaan"
-    ],
-    "police_missing": [
-      "Kaakkois-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
+      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2139,7 +2139,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-06T15:38:33.290104+00:00",
+  "window_start": "2026-10-06T16:42:24.481397+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
