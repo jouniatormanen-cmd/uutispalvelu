@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T04:36:49.126408+00:00",
+  "updated": "2026-11-05T05:38:06.552894+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -1860,26 +1860,6 @@
       "description": "Kaakkois-Suomen poliisilaitoksen viikko 40 sujui kokonaisuudessaan tavanomaisissa merkeissä. Poliisi hoiti viikon aikana toiminta-alueellaan yhteensä lähes 1400 tehtävää.",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Poliisi sai valmiiksi esitutkinnan – 43-vuotiasta jyväskyläläismiestä epäillään useista lapsiin kohdistuneista seksuaalirikoksista",
-      "link": "https://poliisi.fi/-/poliisi-sai-valmiiksi-esitutkinnan-43-vuotiasta-jyvaskylalaismiesta-epaillaan-useista-lapsiin-kohdistuneista-seksuaalirikoksista",
-      "source": "Sisä-Suomen poliisilaitos",
-      "date": "2026-10-06T05:35:00+00:00",
-      "region": "",
-      "description": "Poliisi sai valmiiksi esitutkinnan – 43-vuotiasta jyväskyläläismiestä epäillään useista lapsiin kohdistuneista seksuaalirikoksista",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Poliisi paljasti poikkeuksellisen laajan rikollisverkoston, jonka epäillään tuoneen maahan ja levittäneen satoja kiloja huumausaineita",
-      "link": "https://poliisi.fi/-/poliisi-paljasti-poikkeuksellisen-laajan-rikollisverkoston-jonka-epaillaan-tuoneen-maahan-ja-levittaneen-satoja-kiloja-huumausaineita",
-      "source": "Helsingin poliisilaitos",
-      "date": "2026-10-06T05:27:00+00:00",
-      "region": "Helsinki",
-      "description": "Helsingin poliisilaitos ja Länsi-Uudenmaan poliisilaitos ovat yhdessä tutkineet laajaa Suomeen suuntautunutta huumausaineiden maahantuonti- ja levitystapausta. Tutkinnassa selvisi, että Suomesta johdettu ja usean maan kansalaisista koostunut rikollisverkosto oli tuonut maahan ja levittänyt eteenpäin satoja kiloja erittäin vaarallisia huumausaineita sekä satoja tuhansia kappaleita huumausaineeksi luokiteltuja tabletteja. Esitutkinnassa olleet rikosnimikkeet ovat pääasiassa törkeitä huumausainerikoksia sekä törkeitä rahanpesuja. Poliisi takavarikoi yli 100 kiloa huumeita ja lähes 200 000 euroa käteistä Poliisi pääsi rikollisverkoston jäljille kohdistamalla tiedonhankintaa ja esitutkintatoimenpiteitä henkilöihin, joiden epäiltiin osallistuvan rikollisverkoston toimintaan. Pian selvisi, että Suomeen saapui ulkomailta useita eri henkilöitä osallistumaan huumausaineiden säilyttämiseen ja levit",
-      "municipality": "Helsinki",
-      "province": "Uusimaa"
     }
   ],
   "sources": [
@@ -1951,15 +1931,15 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lounais-Suomen poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2041,10 +2021,10 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lounais-Suomen"
+      "Lapin"
     ],
     "police_missing": [
-      "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -2079,9 +2059,9 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-06T04:36:49.126408+00:00",
+  "window_start": "2026-10-06T05:38:06.552894+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 15,
+    "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 7,
     "Itä-Suomen poliisilaitos": 25,
@@ -2094,7 +2074,7 @@
     "Oulun poliisilaitos": 15,
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 1,
-    "Sisä-Suomen poliisilaitos": 13,
+    "Sisä-Suomen poliisilaitos": 12,
     "Keski-Suomen pelastuslaitos": 29,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
