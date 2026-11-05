@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T14:44:44.085539+00:00",
+  "updated": "2026-11-05T15:38:33.290104+00:00",
   "items": [
     {
       "title": "Autoilija törmäsi jalankulkijaan suojatiellä Lapualla",
@@ -30,6 +30,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Yksi henkilö menehtyi ulosajossa Ilomantsissa.",
+      "link": "https://poliisi.fi/-/yksi-henkilo-menehtyi-ulosajossa-ilomantsissa-1",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-05T12:44:00+00:00",
+      "region": "Ilomantsi",
+      "description": "Yksi henkilö menehtyi ulosajossa Ilomantsissa.",
+      "municipality": "Ilomantsi",
+      "province": "Pohjois-Karjala"
     },
     {
       "title": "Lapsiin kohdistuneet seksuaalirikostutkinnat pitkäkestoisia",

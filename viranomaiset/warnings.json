@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-05T14:44:35.925200+00:00",
+  "updated": "2026-11-05T15:38:24.382839+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 14.29 - pe 5.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-05/12-29-42Z/2.49.0.1.246.0.0.2026.26656182.99237980112617708761573560467646613905.xml",
-      "description": "Kovan tuulen varoitus: Luoteistuulta aluksi 14 m/s.",
-      "starts": null,
-      "expires": "2026-11-06T03:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, to 14.29 - pe 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-05/12-29-42Z/2.49.0.1.246.0.0.2026.26656182.261086918325914501674900303878548577804.xml",
+      "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Perämeri, to 17.22 - pe 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/15-22-18Z/2.49.0.1.246.0.0.2026.26666538.261086918325914501674900303878548577804.xml",
       "description": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
       "starts": null,
       "expires": "2026-11-05T22:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, to 14.29 - 21.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-05/12-29-42Z/2.49.0.1.246.0.0.2026.26656182.262840641075724508523225180435030011623.xml",
+      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 17.22 - pe 6.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/15-22-18Z/2.49.0.1.246.0.0.2026.26666538.99237980112617708761573560467646613905.xml",
+      "description": "Kovan tuulen varoitus: Luoteistuulta aluksi 14 m/s.",
+      "starts": null,
+      "expires": "2026-11-06T04:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri, to 17.22 - 21.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/15-22-18Z/2.49.0.1.246.0.0.2026.26666538.262840641075724508523225180435030011623.xml",
       "description": "Kovan tuulen varoitus: Luoteistuulta aluksi 16 m/s.",
       "starts": null,
       "expires": "2026-11-05T19:00:00+00:00"
