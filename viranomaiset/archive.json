@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-05T07:54:47.588666+00:00",
+  "updated": "2026-11-05T08:45:38.133452+00:00",
   "items": [
+    {
+      "title": "Kadonneen henkilön etsintä Luumäellä",
+      "link": "https://poliisi.fi/-/kadonneen-henkilon-etsinta-luumaella",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-05T08:25:00+00:00",
+      "region": "",
+      "description": "Kadonneen henkilön etsintätoimet saattavat kiinnittää alueen asukkaiden huomion Luumäellä Sarvilahden alueella.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi varoittaa erittäin liukkaasta ajokelistä Etelä-Pohjanmaalla",
+      "link": "https://poliisi.fi/-/poliisi-varoittaa-erittain-liukkaasta-ajokelista-etela-pohjanmaalla",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-05T07:51:00+00:00",
+      "region": "",
+      "description": "Poliisi varoittaa erittäin liukkaasta ajokelistä Etelä-Pohjanmaalla",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72477238/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
