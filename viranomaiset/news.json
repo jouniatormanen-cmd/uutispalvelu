@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-05T13:53:21.004597+00:00",
+  "updated": "2026-11-05T14:44:44.085539+00:00",
   "items": [
+    {
+      "title": "Autoilija törmäsi jalankulkijaan suojatiellä Lapualla",
+      "link": "https://poliisi.fi/-/autoilija-tormasi-jalankulkijaan-suojatiella-lapualla",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-05T14:42:00+00:00",
+      "region": "Lapua",
+      "description": "Autoilija törmäsi jalankulkijaan suojatiellä Lapualla",
+      "municipality": "Lapua",
+      "province": "Etelä-Pohjanmaa"
+    },
+    {
+      "title": "Poliisi on selvittänyt epäillyn Hiirosessa tapahtuneen törkeän pahoinpitelyn",
+      "link": "https://poliisi.fi/-/poliisi-on-selvittanyt-epaillyn-hiirosessa-tapahtuneen-torkean-pahoinpitelyn",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-05T13:06:00+00:00",
+      "region": "",
+      "description": "Poliisi on selvittänyt epäillyn Hiirosessa tapahtuneen törkeän pahoinpitelyn",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Mies kuoli ulosajossa",
       "link": "https://www.is.fi/kotimaa/art-2000012391472.html",
@@ -1935,7 +1955,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1009,
+  "newly_fetched": 1409,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -1963,9 +1983,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -1975,15 +1995,15 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -1999,21 +2019,21 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2068,16 +2088,16 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Kaakkois-Suomen",
+      "Lapin",
+      "Oulun",
+      "Pohjanmaan"
     ],
     "police_missing": [
       "Itä-Suomen",
-      "Lapin",
+      "Itä-Uudenmaan",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun",
-      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2109,7 +2129,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-06T13:53:21.004597+00:00",
+  "window_start": "2026-10-06T14:44:44.085539+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2121,8 +2141,8 @@
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 21,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 15,
-    "Pohjanmaan poliisilaitos": 6,
+    "Oulun poliisilaitos": 16,
+    "Pohjanmaan poliisilaitos": 7,
     "Poliisihallitus": 1,
     "Sisä-Suomen poliisilaitos": 12,
     "Keski-Suomen pelastuslaitos": 30,
