@@ -1,42 +1,42 @@
 {
-  "updated": "2026-11-05T02:42:59.925858+00:00",
+  "updated": "2026-11-05T03:31:24.142490+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.01 - pe 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/22-01-18Z/2.49.0.1.246.0.0.2026.26604078.262840641075724508523225180435030011623.xml",
-      "description": "Kovan tuulen varoitus: Luoteistuulta aluksi 16 m/s.",
-      "starts": null,
-      "expires": "2026-11-05T22:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 17.00 - pe 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/22-01-18Z/2.49.0.1.246.0.0.2026.26604078.99237980112617708761573560467646613905.xml",
-      "description": "Kovan tuulen varoitus: Luoteistuulta illalla 14 m/s.",
-      "starts": null,
-      "expires": "2026-11-05T22:00:00+00:00"
-    },
-    {
-      "title": "Keltainen liikennesää: Paikoin maan pohjoisosa, to 0.01 - 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/22-01-18Z/2.49.0.1.246.0.0.2026.26604078.141007498693809157918298733628358519983.xml",
+      "title": "Keltainen liikennesää: Paikoin maan pohjoisosa, to 5.06 - 9.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/03-06-34Z/2.49.0.1.246.0.0.2026.26622394.141007498693809157918298733628358519983.xml",
       "description": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
       "starts": null,
       "expires": "2026-11-05T07:00:00+00:00"
     },
     {
-      "title": "Keltainen liikennesää: Pohjois-Savo ja Pohjois-Karjala, to 0.01 - 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/22-01-18Z/2.49.0.1.246.0.0.2026.26604078.102716139928671845192841286720607606376.xml",
+      "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 5.06 - pe 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/03-06-34Z/2.49.0.1.246.0.0.2026.26622394.262840641075724508523225180435030011623.xml",
+      "description": "Kovan tuulen varoitus: Luoteistuulta aluksi 16 m/s.",
+      "starts": null,
+      "expires": "2026-11-05T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen liikennesää: Paikoin maan keskiosa, to 5.06 - 9.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/03-06-34Z/2.49.0.1.246.0.0.2026.26622394.102716139928671845192841286720607606376.xml",
       "description": "Liikennesää: Ajokeli on huono aluksi tienpintojen jäätymisen vuoksi.",
       "starts": null,
       "expires": "2026-11-05T07:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Perämeri, to 0.01 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-04/22-01-18Z/2.49.0.1.246.0.0.2026.26604078.261086918325914501674900303878548577804.xml",
+      "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Perämeri, to 5.06 - 14.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/03-06-34Z/2.49.0.1.246.0.0.2026.26622394.261086918325914501674900303878548577804.xml",
       "description": "Kovan tuulen varoitus: Luoteistuulta aluksi 14 m/s.",
       "starts": null,
       "expires": "2026-11-05T12:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 17.00 - pe 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-05/03-06-34Z/2.49.0.1.246.0.0.2026.26622394.99237980112617708761573560467646613905.xml",
+      "description": "Kovan tuulen varoitus: Luoteistuulta illalla 14 m/s.",
+      "starts": null,
+      "expires": "2026-11-05T22:00:00+00:00"
     }
   ]
 }
