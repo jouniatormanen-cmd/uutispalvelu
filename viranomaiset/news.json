@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:31:37.880279+00:00",
+  "updated": "2026-11-06T04:36:16.392209+00:00",
   "items": [
     {
       "title": "Suuri rakennuspalo Tyrnävän keskustan läheisyydessä",
@@ -2029,15 +2029,15 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Keskusrikospoliisi",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2129,10 +2129,10 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
-      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2169,7 +2169,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T03:31:37.880279+00:00",
+  "window_start": "2026-10-07T04:36:16.392209+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
