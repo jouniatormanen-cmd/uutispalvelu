@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:04:44.334722+00:00",
+  "updated": "2026-11-06T22:45:37.390132+00:00",
   "items": [
     {
       "title": "Varusmiesten telakuorma-auto onnettomuudessa – yksi sairaalaan",
@@ -2155,7 +2155,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1111,
+  "newly_fetched": 1811,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2189,21 +2189,21 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2219,27 +2219,27 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2290,15 +2290,15 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Lounais-Suomen"
-    ],
-    "police_missing": [
       "Kaakkois-Suomen",
       "Lapin",
-      "Länsi-Uudenmaan",
+      "Lounais-Suomen",
       "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2329,7 +2329,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T22:04:44.334722+00:00",
+  "window_start": "2026-10-07T22:45:37.390132+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 15,
     "Poliisi – valtakunnallinen RSS": 0,
