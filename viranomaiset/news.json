@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-06T06:39:02.113046+00:00",
+  "updated": "2026-11-06T07:53:20.484942+00:00",
   "items": [
+    {
+      "title": "Iso kolari Kolmostiellä – liikenne poikki",
+      "link": "https://www.is.fi/kotimaa/art-2000012393045.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-06T07:48:00+00:00",
+      "region": "Kolari",
+      "description": "",
+      "municipality": "Kolari",
+      "province": "Lappi"
+    },
+    {
+      "title": "Naisen epäillään lyöneen miesystäväänsä useita kertoja teräaseella",
+      "link": "https://poliisi.fi/-/naisen-epaillaan-lyoneen-miesystavaansa-useita-kertoja-teraaseella",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-06T07:40:00+00:00",
+      "region": "",
+      "description": "Naisen epäillään lyöneen miesystäväänsä useita kertoja teräaseella",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Usean ajoneuvon kolari katkaissut liikenteen valtatiellä 3 Mustasaaressa",
+      "link": "https://poliisi.fi/-/usean-ajoneuvon-kolari-katkaissut-liikenteen-valtatiella-3-mustasaaressa",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-06T07:31:00+00:00",
+      "region": "Kolari",
+      "description": "Usean ajoneuvon kolari katkaissut liikenteen valtatiellä 3 Mustasaaressa",
+      "municipality": "Kolari",
+      "province": "Lappi"
+    },
+    {
+      "title": "Valtava tulipalo Tyrnävällä: ”Näkymä on kuin sota­tantereella”",
+      "link": "https://www.is.fi/oulun-seutu/art-2000012392654.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-06T05:25:00+00:00",
+      "region": "Tyrnävä",
+      "description": "",
+      "municipality": "Tyrnävä",
+      "province": "Pohjois-Pohjanmaa"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72480581/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -1970,16 +2010,6 @@
       "description": "Asiakokonaisuuden esitutkinta on keskitetty Helsingin poliisilaitokselle, joka tekee sen osalta tiivistä yhteistyötä eduskunnan, Keskusrikospoliisin ja tarvittaessa Suojelupoliisin kanssa. Tutkinta on alkuvaiheessa ja sitä jatketaan asianosaisten kuulemisilla sekä muilla tutkintatoimilla. Poliisi ei asian keskeneräisyyden vuoksi arvioi tapahtumien mahdollista taustaa, tekijöitä tai motiiveja. Poliisi tiedottaa asiasta seuraavan kerran ensi viikon keskiviikkona 14. lokakuuta. ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Pudasjärveltä kadonnut Janne Valkola on löytynyt",
-      "link": "https://poliisi.fi/-/pudasjarvelta-kadonnut-janne-valkola-on-loytynyt",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-07T07:33:00+00:00",
-      "region": "",
-      "description": "Pudasjärveltä kadonnut Janne Valkola on löytynyt",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2005,7 +2035,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1209,
+  "newly_fetched": 1709,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2051,9 +2081,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2069,27 +2099,27 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2140,15 +2170,15 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
-    ],
-    "police_missing": [
+      "Kaakkois-Suomen",
       "Lapin",
-      "Lounais-Suomen",
-      "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
+    ],
+    "police_missing": [
+      "Lounais-Suomen",
+      "Länsi-Uudenmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2179,20 +2209,20 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T06:39:02.113046+00:00",
+  "window_start": "2026-10-07T07:53:20.484942+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 7,
-    "Itä-Suomen poliisilaitos": 26,
+    "Itä-Suomen poliisilaitos": 27,
     "Itä-Uudenmaan poliisilaitos": 14,
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 21,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 16,
-    "Pohjanmaan poliisilaitos": 7,
+    "Oulun poliisilaitos": 15,
+    "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 1,
     "Sisä-Suomen poliisilaitos": 12,
     "Keski-Suomen pelastuslaitos": 32,
@@ -2201,6 +2231,6 @@
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 22
+    "Ilta-Sanomat": 24
   }
 }
