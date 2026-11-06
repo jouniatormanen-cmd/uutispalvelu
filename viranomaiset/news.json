@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:34:37.743715+00:00",
+  "updated": "2026-11-06T14:34:36.084924+00:00",
   "items": [
     {
       "title": "Itä-Uudenmaan poliisi epäilee thaimaalaisten työntekijöiden joutuneen työperäisen ihmiskaupan uhreiksi",
@@ -20,6 +20,16 @@
       "description": "Joensuussa epäillystä polttoainevarkaudesta kolme kiinniotettua",
       "municipality": "Joensuu",
       "province": "Pohjois-Karjala"
+    },
+    {
+      "title": "Henkilöauto törmäsi suojatietä ylittäneeseen mieheen Kempeleessä – poliisi pyytää havaintoja",
+      "link": "https://poliisi.fi/-/henkiloauto-tormasi-suojatieta-ylittaneeseen-mieheen-kempeleessa-poliisi-pyytaa-havaintoja",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-06T10:58:00+00:00",
+      "region": "",
+      "description": "Henkilöauto törmäsi suojatietä ylittäneeseen mieheen Kempeleessä – poliisi pyytää havaintoja",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi pyytää havaintoja Helsingissä kadonneesta 20-vuotiaasta miehestä",
@@ -2095,7 +2105,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1311,
+  "newly_fetched": 1411,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2141,9 +2151,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2159,15 +2169,15 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Pohjanmaan poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Pohjanmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
@@ -2231,13 +2241,13 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Pohjanmaan"
+      "Lapin",
+      "Oulun"
     ],
     "police_missing": [
-      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun",
+      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2269,7 +2279,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T13:34:37.743715+00:00",
+  "window_start": "2026-10-07T14:34:36.084924+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2281,7 +2291,7 @@
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 21,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 15,
+    "Oulun poliisilaitos": 16,
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 1,
     "Sisä-Suomen poliisilaitos": 12,
