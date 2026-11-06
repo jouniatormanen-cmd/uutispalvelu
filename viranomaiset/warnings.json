@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-06T12:19:34.366154+00:00",
+  "updated": "2026-11-06T13:34:29.421157+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
       "title": "Keltainen liikennesää: Enontekiö, la 0.00 - su 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-06/09-06-46Z/2.49.0.1.246.0.0.2026.26730406.209906081373656985719749815744653513352.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-06/12-39-05Z/2.49.0.1.246.0.0.2026.26743145.209906081373656985719749815744653513352.xml",
       "description": "Liikennesää: Ajokeli muuttuu huonoksi keskiyöstä alkaen lumi- tai räntäsateen vuoksi.",
       "starts": null,
       "expires": "2026-11-08T07:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus maa-alueille: Pohjois-Lappi, ma 8.00 - ti 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-06/09-06-46Z/2.49.0.1.246.0.0.2026.26730406.6354811633480243857549380591218315234.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-06/12-39-05Z/2.49.0.1.246.0.0.2026.26743145.6354811633480243857549380591218315234.xml",
       "description": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 20 % maanantaiaamusta maanantain ja tiistain väliseen yöhön. Tuulen nopeus voi olla puuskissa 20 m/s.",
       "starts": null,
       "expires": "2026-11-09T22:00:00+00:00"
     },
     {
       "title": "Keltainen liikennesää: Paikoin maan keskiosa, pe 22.00 - la 7.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-06/09-06-46Z/2.49.0.1.246.0.0.2026.26730406.121082433694083400225595785615420917201.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-06/12-39-05Z/2.49.0.1.246.0.0.2026.26743145.121082433694083400225595785615420917201.xml",
       "description": "Liikennesää: Ajokeli muuttuu huonoksi iltayöstä alkaen kuuraisten teiden vuoksi.",
       "starts": null,
       "expires": "2026-11-07T05:00:00+00:00"
