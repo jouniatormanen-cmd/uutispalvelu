@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-06T19:25:35.849852+00:00",
+  "updated": "2026-11-06T20:10:42.279275+00:00",
   "items": [
+    {
+      "title": "Varusmiesten telakuorma-auto onnettomuudessa – yksi sairaalaan",
+      "link": "https://www.is.fi/kotimaa/art-2000012395608.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-06T19:47:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Poliisi tutkii tulipaloa Meri-Rastilassa",
       "link": "https://poliisi.fi/-/poliisi-tutkii-tulipaloa-meri-rastilassa",
@@ -2145,7 +2155,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1011,
+  "newly_fetched": 1311,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2173,33 +2183,33 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lounais-Suomen poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Lapin poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2279,12 +2289,12 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Lounais-Suomen"
-    ],
-    "police_missing": [
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin",
+      "Lapin"
+    ],
+    "police_missing": [
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -2319,7 +2329,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T19:25:35.849852+00:00",
+  "window_start": "2026-10-07T20:10:42.279275+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 15,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2341,6 +2351,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 28
+    "Ilta-Sanomat": 29
   }
 }
