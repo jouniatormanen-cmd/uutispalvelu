@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T21:27:06.664426+00:00",
+  "updated": "2026-11-06T22:04:44.334722+00:00",
   "items": [
     {
       "title": "Varusmiesten telakuorma-auto onnettomuudessa – yksi sairaalaan",
@@ -2155,7 +2155,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1411,
+  "newly_fetched": 1111,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2213,7 +2213,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2225,21 +2225,21 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2290,15 +2290,15 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Lounais-Suomen",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Lounais-Suomen"
     ],
     "police_missing": [
       "Kaakkois-Suomen",
       "Lapin",
       "Länsi-Uudenmaan",
-      "Oulun"
+      "Oulun",
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2329,7 +2329,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T21:27:06.664426+00:00",
+  "window_start": "2026-10-07T22:04:44.334722+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 15,
     "Poliisi – valtakunnallinen RSS": 0,
