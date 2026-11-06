@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-06T01:49:53.801773+00:00",
+  "updated": "2026-11-06T02:42:25.830899+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Suomenlahden itäosa, pe 0.02 - 8.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-05/22-02-36Z/2.49.0.1.246.0.0.2026.26690556.145116070363098759096882286873149256049.xml",
+      "title": "Keltainen tuulivaroitus merelle: Suomenlahden itäosa, pe 4.32 - 10.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-06/02-32-36Z/2.49.0.1.246.0.0.2026.26706756.145116070363098759096882286873149256049.xml",
       "description": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
       "starts": null,
-      "expires": "2026-11-06T06:00:00+00:00"
+      "expires": "2026-11-06T08:00:00+00:00"
     }
   ]
 }
