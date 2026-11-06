@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:24:27.959488+00:00",
+  "updated": "2026-11-06T16:12:52.344959+00:00",
   "items": [
     {
       "title": "Yle: 13 ihmistä loukkaantunut linja-auton ja henkilöauton kolarissa",
@@ -2115,7 +2115,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1411,
+  "newly_fetched": 1111,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2143,9 +2143,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -2155,9 +2155,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2167,9 +2167,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2179,9 +2179,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -2191,9 +2191,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2249,14 +2249,14 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Lapin",
-      "Lounais-Suomen",
-      "Oulun"
+      "Itä-Uudenmaan",
+      "Lapin"
     ],
     "police_missing": [
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
+      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
     ],
@@ -2289,7 +2289,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T15:24:27.959488+00:00",
+  "window_start": "2026-10-07T16:12:52.344959+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
