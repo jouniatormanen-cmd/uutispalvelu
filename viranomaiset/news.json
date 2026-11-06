@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-06T04:36:16.392209+00:00",
+  "updated": "2026-11-06T05:37:19.463093+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72480581/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-06T04:54:47+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Suuri rakennuspalo Tyrnävän keskustan läheisyydessä",
       "link": "https://www.is.fi/kotimaa/art-2000012392654.html",
@@ -1995,7 +2005,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1109,
+  "newly_fetched": 1409,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2035,21 +2045,21 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2130,11 +2140,11 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Kaakkois-Suomen",
+      "Lapin",
+      "Lounais-Suomen"
     ],
     "police_missing": [
-      "Lapin",
-      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -2169,7 +2179,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T04:36:16.392209+00:00",
+  "window_start": "2026-10-07T05:37:19.463093+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2185,7 +2195,7 @@
     "Pohjanmaan poliisilaitos": 7,
     "Poliisihallitus": 1,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 31,
+    "Keski-Suomen pelastuslaitos": 32,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 1,
