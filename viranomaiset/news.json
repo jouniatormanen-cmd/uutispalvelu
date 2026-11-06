@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-06T14:34:36.084924+00:00",
+  "updated": "2026-11-06T15:24:27.959488+00:00",
   "items": [
+    {
+      "title": "Yle: 13 ihmistä loukkaantunut linja-auton ja henkilöauton kolarissa",
+      "link": "https://www.is.fi/kotimaa/art-2000012395191.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-06T15:22:00+00:00",
+      "region": "Kolari",
+      "description": "",
+      "municipality": "Kolari",
+      "province": "Lappi"
+    },
     {
       "title": "Itä-Uudenmaan poliisi epäilee thaimaalaisten työntekijöiden joutuneen työperäisen ihmiskaupan uhreiksi",
       "link": "https://poliisi.fi/-/ita-uudenmaan-poliisi-epailee-thaimaalaisten-tyontekijoiden-joutuneen-tyoperaisen-ihmiskaupan-uhreiksi",
@@ -2133,15 +2143,15 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2157,13 +2167,13 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2181,9 +2191,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2239,13 +2249,13 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
       "Lapin",
+      "Lounais-Suomen",
       "Oulun"
     ],
     "police_missing": [
-      "Lounais-Suomen",
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Länsi-Uudenmaan",
       "Pohjanmaan",
       "Sisä-Suomen"
@@ -2279,7 +2289,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T14:34:36.084924+00:00",
+  "window_start": "2026-10-07T15:24:27.959488+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2301,6 +2311,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 26
+    "Ilta-Sanomat": 27
   }
 }
