@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T16:12:52.344959+00:00",
+  "updated": "2026-11-06T16:58:44.250167+00:00",
   "items": [
     {
       "title": "Yle: 13 ihmistä loukkaantunut linja-auton ja henkilöauton kolarissa",
@@ -2115,7 +2115,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1111,
+  "newly_fetched": 1011,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2137,21 +2137,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2173,7 +2173,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2248,12 +2248,12 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lapin"
     ],
     "police_missing": [
-      "Kaakkois-Suomen",
+      "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
@@ -2289,7 +2289,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T16:12:52.344959+00:00",
+  "window_start": "2026-10-07T16:58:44.250167+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
