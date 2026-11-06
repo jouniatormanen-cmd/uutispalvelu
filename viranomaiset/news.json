@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-06T16:58:44.250167+00:00",
+  "updated": "2026-11-06T17:41:46.081310+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72483221/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-06T17:09:37+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Yle: 13 ihmistä loukkaantunut linja-auton ja henkilöauton kolarissa",
       "link": "https://www.is.fi/kotimaa/art-2000012395191.html",
@@ -2115,7 +2125,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1011,
+  "newly_fetched": 811,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2149,9 +2159,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2161,9 +2171,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2247,13 +2257,13 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen",
-      "Kaakkois-Suomen",
-      "Lapin"
+      "Hämeen"
     ],
     "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
@@ -2289,7 +2299,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-07T16:58:44.250167+00:00",
+  "window_start": "2026-10-07T17:41:46.081310+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2305,7 +2315,7 @@
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 1,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 33,
+    "Keski-Suomen pelastuslaitos": 34,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 2,
