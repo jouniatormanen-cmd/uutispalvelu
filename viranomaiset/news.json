@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T09:32:10.550946+00:00",
+  "updated": "2026-11-07T10:22:16.716851+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -2140,16 +2140,6 @@
       "description": "Itä-Uudenmaan poliisi tutkii kahta Vantaalla tapahtunutta vakavaa väkivallantekoa. Molempia tapauksia tutkitaan rikosnimikkeellä tapon yritys.",
       "municipality": "Vantaa",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Helsingin kaupungin ja poliisin toimenpiteet ovat vähentäneet huumausaineiden aiheuttamia häiriöitä",
-      "link": "https://poliisi.fi/-/helsingin-kaupungin-ja-poliisin-toimenpiteet-ovat-vahentaneet-huumausaineiden-aiheuttamia-hairioita",
-      "source": "Helsingin poliisilaitos",
-      "date": "2026-10-08T10:21:00+00:00",
-      "region": "Helsinki",
-      "description": "Huumausaineiden haitat ovat lisääntyneet Helsingin katukuvassa viime vuosina. Häiriöt liittyvät pääasiassa huumausaineiden käyttöön ja siitä aiheutuvaan rikollisuuteen. Helsingin poliisi on suorittanut elokuun loppuun mennessä 14 098 järjestyksenvalvontatehtävää jalkaisin. Määrä on 17 prosenttia suurempi kuin viime vuonna samaan aikaan. – Olemme saaneet valvonnasta myönteistä palautetta kaupunkilaisilta. Valvonta on selvästi parantanut turvallisuutta ja turvallisuuden tunnetta. Valvonnan ansiosta poliisi saapuu hätätilanteisiin aiempaa nopeammin, arvioi ylikomisario Hanna Kiiskinen, joka johtaa valvontatoimintaa. Kiireellisimmissä eli A-tehtävissä poliisi saapuu paikalle keskimäärin 4,6 minuutissa. Toimintavalmiusaika on lyhentynyt, vaikka A-tehtävien määrä on kasvanut tänä vuonna 14 prosenttia. Valvonnan yhteydessä poliisi tarkastaa myös maassaolon edellytyksiä. Tarkastusten määrä on ka",
-      "municipality": "Helsinki",
-      "province": "Uusimaa"
     }
   ],
   "sources": [
@@ -2175,7 +2165,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 811,
+  "newly_fetched": 1211,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2197,27 +2187,27 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2307,12 +2297,12 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
-    ],
-    "police_missing": [
+      "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
+      "Kaakkois-Suomen"
+    ],
+    "police_missing": [
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2349,9 +2339,9 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T09:32:10.550946+00:00",
+  "window_start": "2026-10-08T10:22:16.716851+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 15,
+    "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 7,
     "Itä-Suomen poliisilaitos": 28,
