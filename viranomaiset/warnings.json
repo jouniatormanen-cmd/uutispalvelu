@@ -1,28 +1,35 @@
 {
-  "updated": "2026-11-07T08:54:53.202031+00:00",
+  "updated": "2026-11-07T09:32:04.898726+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen liikennesää: Enontekiö, la 8.45 - su 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-07/06-45-19Z/2.49.0.1.246.0.0.2026.26808319.209906081373656985719749815744653513352.xml",
+      "title": "Keltainen liikennesää: Enontekiö, la 11.22 - su 9.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-07/09-22-17Z/2.49.0.1.246.0.0.2026.26817737.209906081373656985719749815744653513352.xml",
       "description": "Liikennesää: Ajokeli on huono aluksi lumi- tai räntäsateen vuoksi.",
       "starts": null,
       "expires": "2026-11-08T07:00:00+00:00"
     },
     {
+      "title": "Keltainen tuulivaroitus merelle: Perämeri, la 11.22 - su 5.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-07/09-22-17Z/2.49.0.1.246.0.0.2026.26817737.227217939571872483155378322215181128591.xml",
+      "description": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta aluksi 14 m/s.",
+      "starts": null,
+      "expires": "2026-11-08T03:00:00+00:00"
+    },
+    {
       "title": "Keltainen tuulivaroitus maa-alueille: Pohjois-Lappi, ma 8.00 - ti 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-07/06-45-19Z/2.49.0.1.246.0.0.2026.26808319.6354811633480243857549380591218315234.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-07/09-22-17Z/2.49.0.1.246.0.0.2026.26817737.6354811633480243857549380591218315234.xml",
       "description": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 20 % maanantaiaamusta maanantain ja tiistain väliseen yöhön. Tuulen nopeus voi olla puuskissa 20 m/s.",
       "starts": null,
       "expires": "2026-11-09T22:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Perämeri, la 8.45 - su 5.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-07/06-45-19Z/2.49.0.1.246.0.0.2026.26808319.227217939571872483155378322215181128591.xml",
-      "description": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta aluksi 14 m/s.",
+      "title": "Keltainen liikennesää: Paikoin maan länsiosa, su 2.00 - 9.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-07/09-22-17Z/2.49.0.1.246.0.0.2026.26817737.221659530742797968234501633622433825537.xml",
+      "description": "Liikennesää: Ajokeli muuttuu huonoksi yöllä ja aamulla kuuraisten teiden vuoksi.",
       "starts": null,
-      "expires": "2026-11-08T03:00:00+00:00"
+      "expires": "2026-11-08T07:00:00+00:00"
     }
   ]
 }
