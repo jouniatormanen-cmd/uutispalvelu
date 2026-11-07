@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T06:12:14.361566+00:00",
+  "updated": "2026-11-07T07:03:54.287075+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -16,6 +16,16 @@
       "link": "https://www.is.fi/kotimaa/art-2000012394952.html",
       "source": "Ilta-Sanomat",
       "date": "2026-11-07T05:05:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Päiväkodissa tulipalo Pieksä­mäellä – tuhoutuu käyttökelvottomaksi",
+      "link": "https://www.is.fi/kotimaa/art-2000012395705.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-07T02:09:00+00:00",
       "region": "",
       "description": "",
       "municipality": "",
@@ -2140,16 +2150,6 @@
       "description": "Huumausaineiden haitat ovat lisääntyneet Helsingin katukuvassa viime vuosina. Häiriöt liittyvät pääasiassa huumausaineiden käyttöön ja siitä aiheutuvaan rikollisuuteen. Helsingin poliisi on suorittanut elokuun loppuun mennessä 14 098 järjestyksenvalvontatehtävää jalkaisin. Määrä on 17 prosenttia suurempi kuin viime vuonna samaan aikaan. – Olemme saaneet valvonnasta myönteistä palautetta kaupunkilaisilta. Valvonta on selvästi parantanut turvallisuutta ja turvallisuuden tunnetta. Valvonnan ansiosta poliisi saapuu hätätilanteisiin aiempaa nopeammin, arvioi ylikomisario Hanna Kiiskinen, joka johtaa valvontatoimintaa. Kiireellisimmissä eli A-tehtävissä poliisi saapuu paikalle keskimäärin 4,6 minuutissa. Toimintavalmiusaika on lyhentynyt, vaikka A-tehtävien määrä on kasvanut tänä vuonna 14 prosenttia. Valvonnan yhteydessä poliisi tarkastaa myös maassaolon edellytyksiä. Tarkastusten määrä on ka",
       "municipality": "Helsinki",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Poliisi valvoi tehostetusti häiriökohteita syyskuussa",
-      "link": "https://poliisi.fi/-/poliisi-valvoi-tehostetusti-hairiokohteita-syyskuussa",
-      "source": "Poliisihallitus",
-      "date": "2026-10-08T06:41:00+00:00",
-      "region": "",
-      "description": "",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2175,7 +2175,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1211,
+  "newly_fetched": 1111,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2215,9 +2215,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2233,7 +2233,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2349,7 +2349,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T06:12:14.361566+00:00",
+  "window_start": "2026-10-08T07:03:54.287075+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 15,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2363,7 +2363,7 @@
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 16,
     "Pohjanmaan poliisilaitos": 8,
-    "Poliisihallitus": 1,
+    "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
     "Keski-Suomen pelastuslaitos": 35,
     "Helsingin pelastuslaitos": 0,
@@ -2371,6 +2371,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 30
+    "Ilta-Sanomat": 31
   }
 }
