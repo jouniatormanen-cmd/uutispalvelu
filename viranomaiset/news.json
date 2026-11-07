@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T22:26:12.188330+00:00",
+  "updated": "2026-11-07T22:58:59.253617+00:00",
   "items": [
     {
       "title": "Norjassa uhkaavat tulvat, Ruotsissa lumi­pyry – sama matalapaine saapuu Suomeen",
@@ -2175,7 +2175,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1312,
+  "newly_fetched": 1112,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2209,15 +2209,15 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2233,21 +2233,21 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Pohjanmaan poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Pohjanmaan poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
@@ -2309,15 +2309,15 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Kaakkois-Suomen",
       "Lapin",
-      "Oulun"
+      "Pohjanmaan"
     ],
     "police_missing": [
       "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Pohjanmaan",
+      "Oulun",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2349,7 +2349,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T22:26:12.188330+00:00",
+  "window_start": "2026-10-08T22:58:59.253617+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
