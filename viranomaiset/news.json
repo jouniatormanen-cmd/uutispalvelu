@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T00:36:21.412526+00:00",
+  "updated": "2026-11-07T01:41:09.805015+00:00",
   "items": [
     {
       "title": "Varusmiesten telakuorma-auto onnettomuudessa – yksi sairaalaan",
@@ -2155,7 +2155,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1311,
+  "newly_fetched": 1511,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2207,21 +2207,21 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -2291,12 +2291,12 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
+      "Lapin",
+      "Lounais-Suomen",
+      "Oulun"
     ],
     "police_missing": [
-      "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
     ],
@@ -2329,7 +2329,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T00:36:21.412526+00:00",
+  "window_start": "2026-10-08T01:41:09.805015+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 15,
     "Poliisi – valtakunnallinen RSS": 0,
