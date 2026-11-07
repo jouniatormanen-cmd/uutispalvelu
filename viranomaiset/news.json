@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:22:16.716851+00:00",
+  "updated": "2026-11-07T11:04:37.184409+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -2130,16 +2130,6 @@
       "description": "Poliisi pyytää edelleen havaintoja Pedersören Lappforsissa kadonneesta miehestä",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Poliisi tutkii kahta vakavaa väkivallantekoa – epäillyt vangittu",
-      "link": "https://poliisi.fi/-/poliisi-tutkii-kahta-vakavaa-vakivallantekoa-epaillyt-vangittu",
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "date": "2026-10-08T10:58:00+00:00",
-      "region": "Vantaa",
-      "description": "Itä-Uudenmaan poliisi tutkii kahta Vantaalla tapahtunutta vakavaa väkivallantekoa. Molempia tapauksia tutkitaan rikosnimikkeellä tapon yritys.",
-      "municipality": "Vantaa",
-      "province": "Uusimaa"
     }
   ],
   "sources": [
@@ -2165,7 +2155,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1211,
+  "newly_fetched": 1111,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2193,9 +2183,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -2205,9 +2195,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2241,9 +2231,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2299,10 +2289,10 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen"
     ],
     "police_missing": [
+      "Itä-Uudenmaan",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2339,13 +2329,13 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T10:22:16.716851+00:00",
+  "window_start": "2026-10-08T11:04:37.184409+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 7,
     "Itä-Suomen poliisilaitos": 28,
-    "Itä-Uudenmaan poliisilaitos": 15,
+    "Itä-Uudenmaan poliisilaitos": 14,
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
