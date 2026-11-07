@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:41:09.805015+00:00",
+  "updated": "2026-11-07T02:26:23.290399+00:00",
   "items": [
     {
       "title": "Varusmiesten telakuorma-auto onnettomuudessa – yksi sairaalaan",
@@ -2155,7 +2155,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1511,
+  "newly_fetched": 1211,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2189,9 +2189,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2201,9 +2201,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2219,9 +2219,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -2290,13 +2290,13 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Lapin",
-      "Lounais-Suomen",
-      "Oulun"
+      "Lounais-Suomen"
     ],
     "police_missing": [
+      "Kaakkois-Suomen",
+      "Lapin",
       "Länsi-Uudenmaan",
+      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
     ],
@@ -2329,7 +2329,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T01:41:09.805015+00:00",
+  "window_start": "2026-10-08T02:26:23.290399+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 15,
     "Poliisi – valtakunnallinen RSS": 0,
