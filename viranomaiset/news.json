@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T14:46:31.455450+00:00",
+  "updated": "2026-11-07T15:24:54.972577+00:00",
   "items": [
     {
       "title": "Vantaalla kadonnut mies",
@@ -2155,7 +2155,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1412,
+  "newly_fetched": 1512,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2231,9 +2231,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2329,7 +2329,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T14:46:31.455450+00:00",
+  "window_start": "2026-10-08T15:24:54.972577+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
