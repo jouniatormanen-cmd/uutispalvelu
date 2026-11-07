@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-07T13:19:42.415416+00:00",
+  "updated": "2026-11-07T14:08:15.252273+00:00",
   "items": [
+    {
+      "title": "Päihtynyt nainen kaahasi poliisia pakoon 200 km/h – törmäsi lopulta kaiteeseen",
+      "link": "https://www.is.fi/kotimaa/art-2000012396159.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-07T14:04:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Mäntsälässä kadonnut kaksi tyttöä",
+      "link": "https://poliisi.fi/-/mantsalassa-kadonnut-kaksi-tyttoa",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-11-07T13:24:00+00:00",
+      "region": "Mäntsälä",
+      "description": "Tytöt on nähty viimeksi perjantai-iltapäivänä Mäntsälän keskustassa.",
+      "municipality": "Mäntsälä",
+      "province": "Uusimaa"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72483551/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -2125,7 +2145,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1212,
+  "newly_fetched": 1812,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2171,45 +2191,45 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2260,15 +2280,15 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
-    ],
-    "police_missing": [
+      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
-      "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2299,13 +2319,13 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T13:19:42.415416+00:00",
+  "window_start": "2026-10-08T14:08:15.252273+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 7,
     "Itä-Suomen poliisilaitos": 27,
-    "Itä-Uudenmaan poliisilaitos": 14,
+    "Itä-Uudenmaan poliisilaitos": 15,
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
@@ -2321,6 +2341,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 31
+    "Ilta-Sanomat": 32
   }
 }
