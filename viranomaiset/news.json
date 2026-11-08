@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:57:59.121678+00:00",
+  "updated": "2026-11-08T00:39:03.336078+00:00",
   "items": [
     {
       "title": "Norjassa uhkaavat tulvat, Ruotsissa lumi­pyry – sama matalapaine saapuu Suomeen",
@@ -2175,7 +2175,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1012,
+  "newly_fetched": 812,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2227,9 +2227,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2245,9 +2245,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
@@ -2307,17 +2307,17 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen",
-      "Lounais-Suomen",
-      "Pohjanmaan"
+      "Hämeen"
     ],
     "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
+      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2349,7 +2349,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-08T23:57:59.121678+00:00",
+  "window_start": "2026-10-09T00:39:03.336078+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
