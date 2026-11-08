@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-08T13:30:26.834873+00:00",
+  "updated": "2026-11-08T14:20:34.995795+00:00",
   "items": [
+    {
+      "title": "Vantaalla kadonnut mies on löytynyt",
+      "link": "https://www.is.fi/kotimaa/art-2000012396225.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-08T14:01:00+00:00",
+      "region": "Vantaa",
+      "description": "",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Kaupparyöstö selvitetty Kuopiossa",
+      "link": "https://poliisi.fi/-/kaupparyosto-selvitetty-kuopiossa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-08T13:08:00+00:00",
+      "region": "Kuopio",
+      "description": "Kaupparyöstö selvitetty Kuopiossa",
+      "municipality": "Kuopio",
+      "province": "Pohjois-Savo"
+    },
     {
       "title": "Poliisi: Uutta tietoa Oulun K-marketin puukotuksesta – ”Huolestuttavaa”",
       "link": "https://www.is.fi/oulun-seutu/art-2000012397031.html",
