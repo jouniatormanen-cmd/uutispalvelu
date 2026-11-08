@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:51:15.550120+00:00",
+  "updated": "2026-11-08T20:23:35.675333+00:00",
   "items": [
     {
       "title": "Lahdentiellä kolmen auton onnettomuus – tie kokonaan poikki",
@@ -2180,16 +2180,6 @@
       "description": "Suonenjoen Ysitien kolarista",
       "municipality": "Kolari",
       "province": "Lappi"
-    },
-    {
-      "title": "Poliisi pyytää havaintoja 17-vuotiaasta kehitysvammaisesta Jeremia nimisestä pojasta",
-      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-17-vuotiaasta-kehitysvammaisesta-jeremia-nimisesta-pojasta",
-      "source": "Hämeen poliisilaitos",
-      "date": "2026-10-09T20:08:00+00:00",
-      "region": "",
-      "description": "Poliisi pyytää havaintoja 17-vuotiaasta kehitysvammaisesta Jeremia nimisestä pojasta",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2215,7 +2205,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1112,
+  "newly_fetched": 1312,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2249,9 +2239,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2261,9 +2251,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2349,11 +2339,11 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
+      "Lapin"
     ],
     "police_missing": [
-      "Kaakkois-Suomen",
-      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
@@ -2389,11 +2379,11 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T19:51:15.550120+00:00",
+  "window_start": "2026-10-09T20:23:35.675333+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
-    "Hämeen poliisilaitos": 6,
+    "Hämeen poliisilaitos": 5,
     "Itä-Suomen poliisilaitos": 28,
     "Itä-Uudenmaan poliisilaitos": 15,
     "Kaakkois-Suomen poliisilaitos": 8,
