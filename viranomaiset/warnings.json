@@ -1,28 +1,35 @@
 {
-  "updated": "2026-11-08T21:28:06.405342+00:00",
+  "updated": "2026-11-08T22:02:28.139465+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen liikennesää: Pohjois-Pohjanmaa sekä paikoin maan länsiosa, ma 1.00 - 11.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-08/18-07-36Z/2.49.0.1.246.0.0.2026.26935656.254602130182048173263121676333018506550.xml",
-      "description": "Liikennesää: Ajokeli muuttuu huonoksi yöstä alkaen kuuraisten teiden vuoksi.",
-      "starts": null,
-      "expires": "2026-11-09T09:00:00+00:00"
-    },
-    {
       "title": "Keltainen tuulivaroitus merelle: Perämeri, ma 6.00 - 21.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-08/18-07-36Z/2.49.0.1.246.0.0.2026.26935656.32251798025191304823534688033680920262.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-08/22-00-47Z/2.49.0.1.246.0.0.2026.26949647.32251798025191304823534688033680920262.xml",
       "description": "Kovan tuulen varoitus: Lännen ja lounaan välistä tuulta aamusta alkaen 14 m/s.",
       "starts": null,
       "expires": "2026-11-09T19:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus maa-alueille: Pohjois-Lappi, ma 8.00 - ti 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-08/18-07-36Z/2.49.0.1.246.0.0.2026.26935656.6354811633480243857549380591218315234.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-08/22-00-47Z/2.49.0.1.246.0.0.2026.26949647.6354811633480243857549380591218315234.xml",
       "description": "Tuulivaroitus maa-alueille: Länsituuli on voimakasta aamusta alkaen, tuulen nopeus puuskissa 20 m/s.",
       "starts": null,
       "expires": "2026-11-09T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen liikennesää: Pohjois-Pohjanmaa sekä paikoin maan länsiosa, ma 0.00 - 11.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-08/22-00-47Z/2.49.0.1.246.0.0.2026.26949647.254602130182048173263121676333018506550.xml",
+      "description": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
+      "starts": null,
+      "expires": "2026-11-09T09:00:00+00:00"
+    },
+    {
+      "title": "Keltainen liikennesää: Paikoin Pohjois-Pohjanmaa ja Etelä-Lappi, ti 1.00 - 12.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-08/22-00-47Z/2.49.0.1.246.0.0.2026.26949647.20418284952257093739963579878330719646.xml",
+      "description": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % maanantain ja tiistain välisestä yöstä tiistaipäivään lumi- tai räntäsateen vuoksi.",
+      "starts": null,
+      "expires": "2026-11-10T10:00:00+00:00"
     }
   ]
 }
