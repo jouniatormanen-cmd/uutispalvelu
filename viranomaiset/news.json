@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T16:00:40.469345+00:00",
+  "updated": "2026-11-08T16:43:07.852509+00:00",
   "items": [
     {
       "title": "Vantaalla kadonnut mies on löytynyt",
@@ -2175,7 +2175,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1812,
+  "newly_fetched": 1412,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2239,27 +2239,27 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2312,13 +2312,13 @@
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
-      "Lounais-Suomen",
+      "Lounais-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
-    ],
-    "police_missing": [
-      "Länsi-Uudenmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2349,7 +2349,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T16:00:40.469345+00:00",
+  "window_start": "2026-10-09T16:43:07.852509+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
