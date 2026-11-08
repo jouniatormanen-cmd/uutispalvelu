@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-08T11:59:56.047126+00:00",
+  "updated": "2026-11-08T12:38:22.335086+00:00",
   "items": [
+    {
+      "title": "Poliisi: Uutta tietoa Oulun K-marketin puukotuksesta – ”Huolestuttavaa”",
+      "link": "https://www.is.fi/oulun-seutu/art-2000012397031.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-08T12:20:00+00:00",
+      "region": "Oulu",
+      "description": "",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72484263/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -2130,16 +2140,6 @@
       "description": "Suonenjoella Ysitiellä kolari",
       "municipality": "Kolari",
       "province": "Lappi"
-    },
-    {
-      "title": "Poliisi pyytää havaintoja viikonlopun vahingonteosta Kankaanpäässä",
-      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-viikonlopun-vahingonteosta-kankaanpaassa",
-      "source": "Lounais-Suomen poliisilaitos",
-      "date": "2026-10-09T12:08:00+00:00",
-      "region": "Kankaanpää",
-      "description": "Poliisi pyytää havaintoja viikonlopun vahingonteosta Kankaanpäässä",
-      "municipality": "Kankaanpää",
-      "province": "Satakunta"
     }
   ],
   "sources": [
@@ -2165,7 +2165,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 812,
+  "newly_fetched": 1112,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2187,21 +2187,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2297,12 +2297,12 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
-    ],
-    "police_missing": [
+      "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
+      "Kaakkois-Suomen"
+    ],
+    "police_missing": [
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2339,7 +2339,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T11:59:56.047126+00:00",
+  "window_start": "2026-10-09T12:38:22.335086+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2349,7 +2349,7 @@
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
-    "Lounais-Suomen poliisilaitos": 18,
+    "Lounais-Suomen poliisilaitos": 17,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 16,
     "Pohjanmaan poliisilaitos": 6,
@@ -2361,6 +2361,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 35
+    "Ilta-Sanomat": 36
   }
 }
