@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T08:27:47.602473+00:00",
+  "updated": "2026-11-08T09:15:35.197861+00:00",
   "items": [
     {
       "title": "Tulipalo Helsingissä: Asunnosta löytyi vainaja",
@@ -2160,16 +2160,6 @@
       "description": "Poliisi tutkii nuorten välistä törkeää pahoinpitelyä Porissa",
       "municipality": "Pori",
       "province": "Satakunta"
-    },
-    {
-      "title": "Tehostetussa valvonnassa puututtiin päihteiden käyttöön ja häiriöihin koulujen pihoilla",
-      "link": "https://poliisi.fi/-/tehostetussa-valvonnassa-puututtiin-paihteiden-kayttoon-ja-hairioihin-koulujen-pihoilla",
-      "source": "Lounais-Suomen poliisilaitos",
-      "date": "2026-10-09T09:00:00+00:00",
-      "region": "",
-      "description": "Tehostetussa valvonnassa puututtiin päihteiden käyttöön ja häiriöihin koulujen pihoilla",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2195,7 +2185,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1312,
+  "newly_fetched": 912,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2217,39 +2207,39 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Lounais-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Lapin poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2328,13 +2318,13 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Lounais-Suomen"
+    ],
+    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
-    ],
-    "police_missing": [
-      "Lounais-Suomen",
+      "Lapin",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -2369,7 +2359,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T08:27:47.602473+00:00",
+  "window_start": "2026-10-09T09:15:35.197861+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2379,7 +2369,7 @@
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
-    "Lounais-Suomen poliisilaitos": 20,
+    "Lounais-Suomen poliisilaitos": 19,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 16,
     "Pohjanmaan poliisilaitos": 6,
