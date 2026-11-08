@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-08T03:29:46.974014+00:00",
+  "updated": "2026-11-08T04:24:09.463050+00:00",
   "items": [
+    {
+      "title": "Kaksi pientä lasta ja lemmikkikoira löydettiin kuolleina kotoaan – heidät murhanneella äidillä, 44, on nyt uusi nimi ja elämä",
+      "link": "https://www.is.fi/kotimaa/art-2000012351965.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-08T04:00:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Norjassa uhkaavat tulvat, Ruotsissa lumi­pyry – sama matalapaine saapuu Suomeen",
       "link": "https://www.is.fi/kotimaa/art-2000012396424.html",
@@ -2349,7 +2359,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T03:29:46.974014+00:00",
+  "window_start": "2026-10-09T04:24:09.463050+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2371,6 +2381,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 33
+    "Ilta-Sanomat": 34
   }
 }
