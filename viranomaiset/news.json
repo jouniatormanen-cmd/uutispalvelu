@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T12:38:22.335086+00:00",
+  "updated": "2026-11-08T13:30:26.834873+00:00",
   "items": [
     {
       "title": "Poliisi: Uutta tietoa Oulun K-marketin puukotuksesta – ”Huolestuttavaa”",
@@ -2187,9 +2187,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -2199,15 +2199,15 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Keskusrikospoliisi",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2241,9 +2241,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2298,11 +2298,11 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Itä-Uudenmaan"
     ],
     "police_missing": [
+      "Itä-Suomen",
+      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2339,7 +2339,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T12:38:22.335086+00:00",
+  "window_start": "2026-10-09T13:30:26.834873+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
