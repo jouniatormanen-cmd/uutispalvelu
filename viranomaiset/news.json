@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:10:10.415654+00:00",
+  "updated": "2026-11-08T10:47:21.385968+00:00",
   "items": [
     {
       "title": "Tulipalo Helsingissä: Asunnosta löytyi vainaja",
@@ -2140,16 +2140,6 @@
       "description": "Itä-Uudenmaan poliisilla on hallussa polkupyörä, jonka poliisi otti haltuunsa 8.10. torstaina Järvenpäässä tekemältä kotietsinnältä. Polkupyörää epäillään anastetuksi.",
       "municipality": "Järvenpää",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Useita vangittu epäiltynä törkeisiin rikoksiin Lahdessa",
-      "link": "https://poliisi.fi/-/useita-vangittu-epailtyna-torkeisiin-rikoksiin-lahdessa",
-      "source": "Hämeen poliisilaitos",
-      "date": "2026-10-09T10:36:00+00:00",
-      "region": "Lahti",
-      "description": "Useita vangittu epäiltynä törkeisiin rikoksiin Lahdessa",
-      "municipality": "Lahti",
-      "province": "Päijät-Häme"
     }
   ],
   "sources": [
@@ -2175,7 +2165,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 912,
+  "newly_fetched": 1212,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2197,27 +2187,27 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2251,9 +2241,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2307,12 +2297,12 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
-    ],
-    "police_missing": [
+      "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
+      "Kaakkois-Suomen"
+    ],
+    "police_missing": [
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2349,11 +2339,11 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T10:10:10.415654+00:00",
+  "window_start": "2026-10-09T10:47:21.385968+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
-    "Hämeen poliisilaitos": 7,
+    "Hämeen poliisilaitos": 6,
     "Itä-Suomen poliisilaitos": 27,
     "Itä-Uudenmaan poliisilaitos": 16,
     "Kaakkois-Suomen poliisilaitos": 8,
