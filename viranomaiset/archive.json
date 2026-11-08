@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:55:31.121186+00:00",
+  "updated": "2026-11-08T18:25:01.889452+00:00",
   "items": [
     {
       "title": "Lahdentiellä kolmen auton onnettomuus – tie kokonaan poikki",
@@ -10,6 +10,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Liikenneonnettomuus Lahdentiellä Mikkelissä",
+      "link": "https://poliisi.fi/-/liikenneonnettomuus-lahdentiella-mikkelissa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-08T17:34:00+00:00",
+      "region": "Mikkeli",
+      "description": "Liikenneonnettomuus Lahdentiellä Mikkelissä",
+      "municipality": "Mikkeli",
+      "province": "Etelä-Savo"
     },
     {
       "title": "Mediatiedote Keski-Suomen pelastuslaitos",
