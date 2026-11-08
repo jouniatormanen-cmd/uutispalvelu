@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T05:57:59.628560+00:00",
+  "updated": "2026-11-08T06:43:16.427516+00:00",
   "items": [
     {
       "title": "Tulipalo Helsingissä: Asunnosta löytyi vainaja",
@@ -2170,16 +2170,6 @@
       "description": "Tehostetussa valvonnassa puututtiin päihteiden käyttöön ja häiriöihin koulujen pihoilla",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Rattijuopumus Porissa",
-      "link": "https://poliisi.fi/-/rattijuopumus-porissa-13",
-      "source": "Lounais-Suomen poliisilaitos",
-      "date": "2026-10-09T06:21:00+00:00",
-      "region": "Pori",
-      "description": "Rattijuopumus Porissa",
-      "municipality": "Pori",
-      "province": "Satakunta"
     }
   ],
   "sources": [
@@ -2205,7 +2195,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1012,
+  "newly_fetched": 1112,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2239,9 +2229,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2263,7 +2253,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2339,10 +2329,10 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
-      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2379,7 +2369,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-09T05:57:59.628560+00:00",
+  "window_start": "2026-10-09T06:43:16.427516+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2389,7 +2379,7 @@
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
-    "Lounais-Suomen poliisilaitos": 21,
+    "Lounais-Suomen poliisilaitos": 20,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 16,
     "Pohjanmaan poliisilaitos": 6,
