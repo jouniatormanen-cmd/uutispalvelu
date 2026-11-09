@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-09T16:52:05.532233+00:00",
+  "updated": "2026-11-09T17:45:52.731540+00:00",
   "items": [
+    {
+      "title": "Vakava vene­onnettomuus Outokummussa",
+      "link": "https://www.is.fi/kotimaa/art-2000012400005.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-09T17:33:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72488121/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-09T16:53:48+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Poliisi selvittää epäiltyä henkirikosta Turussa",
       "link": "https://poliisi.fi/-/poliisi-selvittaa-epailtya-henkirikosta-turussa",
@@ -2359,15 +2379,15 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Pohjanmaan poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Pohjanmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
@@ -2433,11 +2453,11 @@
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
-      "Pohjanmaan"
+      "Oulun"
     ],
     "police_missing": [
       "Länsi-Uudenmaan",
-      "Oulun",
+      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2469,7 +2489,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-10T16:52:05.532233+00:00",
+  "window_start": "2026-10-10T17:45:52.731540+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2485,12 +2505,12 @@
     "Pohjanmaan poliisilaitos": 6,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 40,
+    "Keski-Suomen pelastuslaitos": 41,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 42
+    "Ilta-Sanomat": 43
   }
 }
