@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-09T04:41:25.300300+00:00",
+  "updated": "2026-11-09T05:39:32.492584+00:00",
   "items": [
+    {
+      "title": "Mediatiedote Keski-Suomen pelastuslaitos",
+      "link": "https://www.sttinfo.fi/tiedote/72484772/mediatiedote-keski-suomen-pelastuslaitos?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-09T05:03:51+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Lahdentiellä kolmen auton onnettomuus – tie kokonaan poikki",
       "link": "https://www.is.fi/kotimaa/art-2000012397515.html",
@@ -2205,7 +2215,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1811,
+  "newly_fetched": 1011,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2233,57 +2243,57 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2339,16 +2349,16 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
+      "Sisä-Suomen"
+    ],
+    "police_missing": [
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
+      "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
-    ],
-    "police_missing": [
-      "Länsi-Uudenmaan"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2379,7 +2389,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-10T04:41:25.300300+00:00",
+  "window_start": "2026-10-10T05:39:32.492584+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2395,7 +2405,7 @@
     "Pohjanmaan poliisilaitos": 6,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 39,
+    "Keski-Suomen pelastuslaitos": 40,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 2,
