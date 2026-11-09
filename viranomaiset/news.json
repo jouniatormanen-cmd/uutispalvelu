@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-09T12:56:48.069822+00:00",
+  "updated": "2026-11-09T14:06:51.592601+00:00",
   "items": [
+    {
+      "title": "Vantaalta kadonnut mies on löytynyt",
+      "link": "https://www.is.fi/kotimaa/art-2000012399251.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-09T13:27:00+00:00",
+      "region": "Vantaa",
+      "description": "",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Onnettomuuspaikka ei ole nähtävyys – poliisi muistuttaa kunnioittamaan onnettomuuden osallisten yksityisyyttä",
+      "link": "https://poliisi.fi/-/onnettomuuspaikka-ei-ole-nahtavyys-poliisi-muistuttaa-kunnioittamaan-onnettomuuden-osallisten-yksityisyytta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-09T13:19:00+00:00",
+      "region": "",
+      "description": "Onnettomuuspaikka ei ole nähtävyys – poliisi muistuttaa kunnioittamaan onnettomuuden osallisten yksityisyyttä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Sää muuttuu talvisemmaksi koko maassa",
+      "link": "https://www.ilmatieteenlaitos.fi/tiedote/7j6rxeiStNkv68RMPa1bTB",
+      "source": "Ilmatieteen laitos",
+      "date": "2026-11-09T13:01:51+00:00",
+      "region": "",
+      "description": "Maanantaina päivälämpötila on kohonnut vielä koko Suomessa nollan yläpuolelle. Ilmatieteen laitoksen ennusteen mukaan kuitenkin jo tiistaina maksimilämpötilat jäävät pakkasen puolelle lähes koko Lapissa. Loppuviikolla pakkaselle jäädään myös Pohjois-Pohjanmaalla ja Kainuussa. \"Maan etelä- ja keskiosassakin päivät vähitellen viilenevät: etelärannikolla +5 asteen lukemia näyttäsi riittävän torstaille saakka, mutta perjantaina ja lauantaina maan etelä- ja keskiosassa päivälämpötila jää nollan ja +3 asteen välille\", sanoo Ilmatieteen laitoksen päivystävä meteorologi Petri Hoppula . Tiistain jälkeen maan pohjoisosassa on öisin pakkasta 3–15 astetta. Maan etelä- ja keskiosassa yön alimmat lämpötilat ovat aluksi vähän nollan molemmin puolin, viikonloppuna nollan ja –5 asteen välillä. Sunnuntaina sää jälleen lämpenee mahdollisesti yli +5 asteeseen. Lappiin pysyvä talvi, eteläänkin mahdollisesti ",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Poliisi: Murhan yritys Seinäjoella – kolme­kymppinen mies otettu kiinni",
       "link": "https://www.is.fi/kotimaa/art-2000012399259.html",
@@ -2255,7 +2285,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1413,
+  "newly_fetched": 1313,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2301,9 +2331,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2313,7 +2343,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2331,15 +2361,15 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Sisä-Suomen poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Sisä-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2390,15 +2420,15 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Lapin",
-      "Sisä-Suomen"
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2429,12 +2459,12 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-10T12:56:48.069822+00:00",
+  "window_start": "2026-10-10T14:06:51.592601+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 5,
-    "Itä-Suomen poliisilaitos": 27,
+    "Itä-Suomen poliisilaitos": 28,
     "Itä-Uudenmaan poliisilaitos": 17,
     "Kaakkois-Suomen poliisilaitos": 9,
     "Keskusrikospoliisi": 2,
@@ -2447,10 +2477,10 @@
     "Sisä-Suomen poliisilaitos": 12,
     "Keski-Suomen pelastuslaitos": 40,
     "Helsingin pelastuslaitos": 0,
-    "Ilmatieteen laitos": 1,
+    "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 41
+    "Ilta-Sanomat": 42
   }
 }
