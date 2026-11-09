@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T00:28:56.453616+00:00",
+  "updated": "2026-11-09T01:43:40.099755+00:00",
   "items": [
     {
       "title": "Lahdentiellä kolmen auton onnettomuus – tie kokonaan poikki",
@@ -2379,7 +2379,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-10T00:28:56.453616+00:00",
+  "window_start": "2026-10-10T01:43:40.099755+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
