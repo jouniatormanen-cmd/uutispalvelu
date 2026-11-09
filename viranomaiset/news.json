@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:27:08.502994+00:00",
+  "updated": "2026-11-09T23:59:52.887416+00:00",
   "items": [
     {
       "title": "Vakava vene­onnettomuus Outokummussa",
@@ -2325,7 +2325,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1313,
+  "newly_fetched": 913,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2353,21 +2353,21 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2407,9 +2407,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2458,17 +2458,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Sisä-Suomen"
+      "Itä-Suomen"
     ],
     "police_missing": [
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2499,7 +2499,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-10T23:27:08.502994+00:00",
+  "window_start": "2026-10-10T23:59:52.887416+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
