@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T14:59:37.741427+00:00",
+  "updated": "2026-11-09T15:53:07.245314+00:00",
   "items": [
     {
       "title": "Vantaalta kadonnut mies on löytynyt",
@@ -2285,13 +2285,13 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 613,
+  "newly_fetched": 1013,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisi – valtakunnallinen RSS",
@@ -2301,73 +2301,73 @@
     },
     {
       "source": "Hämeen poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2415,12 +2415,13 @@
     }
   ],
   "coverage": {
-    "police_active": [],
-    "police_missing": [
+    "police_active": [
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
+      "Itä-Uudenmaan"
+    ],
+    "police_missing": [
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
@@ -2458,7 +2459,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-10T14:59:37.741427+00:00",
+  "window_start": "2026-10-10T15:53:07.245314+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
