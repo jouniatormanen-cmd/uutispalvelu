@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:00:05.733164+00:00",
+  "updated": "2026-11-09T09:00:28.470274+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
@@ -23,13 +23,6 @@
       "description": "Kovan tuulen varoitus: Lännen ja lounaan välistä tuulta aluksi 14 m/s.",
       "starts": null,
       "expires": "2026-11-09T19:00:00+00:00"
-    },
-    {
-      "title": "Keltainen liikennesää: Pohjois-Pohjanmaa sekä paikoin maan keskiosa, ma 9.37 - 11.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-09/07-37-31Z/2.49.0.1.246.0.0.2026.26984251.254602130182048173263121676333018506550.xml",
-      "description": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
-      "starts": null,
-      "expires": "2026-11-09T09:00:00+00:00"
     },
     {
       "title": "Keltainen liikennesää: Paikoin maan keskiosa, ke 0.00 - to 0.00",
