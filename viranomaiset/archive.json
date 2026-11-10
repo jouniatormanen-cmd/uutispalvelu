@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-10T03:27:08.273080+00:00",
+  "updated": "2026-11-10T04:20:02.934771+00:00",
   "items": [
+    {
+      "title": "Liikenneonnettomuus Alavieskassa",
+      "link": "https://poliisi.fi/-/liikenneonnettomuus-alavieskassa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-10T02:53:00+00:00",
+      "region": "Alavieska",
+      "description": "Liikenneonnettomuus Alavieskassa",
+      "municipality": "Alavieska",
+      "province": "Pohjois-Pohjanmaa"
+    },
     {
       "title": "Vakava vene­onnettomuus Outokummussa",
       "link": "https://www.is.fi/kotimaa/art-2000012400005.html",

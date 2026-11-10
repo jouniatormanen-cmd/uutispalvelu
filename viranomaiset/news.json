@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-10T03:27:08.273080+00:00",
+  "updated": "2026-11-10T04:20:02.934771+00:00",
   "items": [
+    {
+      "title": "Liikenneonnettomuus Alavieskassa",
+      "link": "https://poliisi.fi/-/liikenneonnettomuus-alavieskassa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-10T02:53:00+00:00",
+      "region": "Alavieska",
+      "description": "Liikenneonnettomuus Alavieskassa",
+      "municipality": "Alavieska",
+      "province": "Pohjois-Pohjanmaa"
+    },
     {
       "title": "Vakava vene­onnettomuus Outokummussa",
       "link": "https://www.is.fi/kotimaa/art-2000012400005.html",
@@ -2315,7 +2325,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1213,
+  "newly_fetched": 1313,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2343,15 +2353,15 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2367,9 +2377,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2379,9 +2389,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -2397,9 +2407,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2449,16 +2459,16 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Lounais-Suomen",
+      "Oulun",
+      "Sisä-Suomen"
     ],
     "police_missing": [
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lapin",
-      "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2489,7 +2499,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-11T03:27:08.273080+00:00",
+  "window_start": "2026-10-11T04:20:02.934771+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2501,7 +2511,7 @@
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 18,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 16,
+    "Oulun poliisilaitos": 17,
     "Pohjanmaan poliisilaitos": 6,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 11,
