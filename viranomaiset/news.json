@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:30:25.669421+00:00",
+  "updated": "2026-11-10T10:33:56.566835+00:00",
   "items": [
     {
       "title": "Postinjakaja­naisen, 24, murhassa paljastui uusi yksityiskohta – jäljet johtivat lähi­taloon Vantaalla",
@@ -2345,7 +2345,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1113,
+  "newly_fetched": 1114,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2367,9 +2367,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -2379,9 +2379,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2391,15 +2391,15 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2458,7 +2458,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 362,
+      "fetched": 363,
       "feeds_checked": 1
     },
     {
@@ -2478,13 +2478,13 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Lapin",
-      "Lounais-Suomen"
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
-      "Itä-Suomen",
-      "Kaakkois-Suomen",
+      "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -2519,7 +2519,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-11T09:30:25.669421+00:00",
+  "window_start": "2026-10-11T10:33:56.566835+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
