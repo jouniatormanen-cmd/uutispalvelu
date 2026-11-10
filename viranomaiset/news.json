@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T23:06:59.444384+00:00",
+  "updated": "2026-11-10T23:40:54.853200+00:00",
   "items": [
     {
       "title": "Kadonnut löytyi Oulussa",
@@ -2390,16 +2390,6 @@
       "description": "Pedersöressä kadonnut mies on löytynyt menehtyneenä",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Oulun poliisilaitoksen alueella rattijuoppoja ja hirvikolareita",
-      "link": "https://poliisi.fi/-/oulun-poliisilaitoksen-alueella-rattijuoppoja-ja-hirvikolareita",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-11T23:16:00+00:00",
-      "region": "Oulu",
-      "description": "Oulun poliisilaitoksen alueella rattijuoppoja ja hirvikolareita",
-      "municipality": "Oulu",
-      "province": "Pohjois-Pohjanmaa"
     }
   ],
   "sources": [
@@ -2425,7 +2415,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1614,
+  "newly_fetched": 1214,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2459,9 +2449,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2471,9 +2461,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2483,7 +2473,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2501,15 +2491,15 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2560,15 +2550,15 @@
       "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Lapin",
-      "Lounais-Suomen",
-      "Sisä-Suomen"
+      "Lounais-Suomen"
     ],
     "police_missing": [
+      "Kaakkois-Suomen",
+      "Lapin",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2599,7 +2589,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-11T23:06:59.444384+00:00",
+  "window_start": "2026-10-11T23:40:54.853200+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2611,7 +2601,7 @@
     "Lapin poliisilaitos": 3,
     "Lounais-Suomen poliisilaitos": 19,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 20,
+    "Oulun poliisilaitos": 19,
     "Pohjanmaan poliisilaitos": 6,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 11,
