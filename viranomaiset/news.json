@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-10T04:20:02.934771+00:00",
+  "updated": "2026-11-10T05:19:57.622521+00:00",
   "items": [
+    {
+      "title": "Postinjakaja­naisen, 24, murhassa paljastui uusi yksityiskohta – jäljet johtivat lähi­taloon Vantaalla",
+      "link": "https://www.is.fi/kotimaa/art-2000012398920.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-10T05:05:00+00:00",
+      "region": "Vantaa",
+      "description": "",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72488369/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-10T04:54:29+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Liikenneonnettomuus Alavieskassa",
       "link": "https://poliisi.fi/-/liikenneonnettomuus-alavieskassa",
@@ -2325,7 +2345,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1313,
+  "newly_fetched": 913,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2347,9 +2367,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -2365,21 +2385,21 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Lapin poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
-      "source": "Lounais-Suomen poliisilaitos",
+      "source": "Lapin poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2389,9 +2409,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -2407,9 +2427,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2458,17 +2478,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Lounais-Suomen",
-      "Oulun",
-      "Sisä-Suomen"
+      "Lapin"
     ],
     "police_missing": [
+      "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Pohjanmaan"
+      "Oulun",
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2499,7 +2519,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-11T04:20:02.934771+00:00",
+  "window_start": "2026-10-11T05:19:57.622521+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2515,12 +2535,12 @@
     "Pohjanmaan poliisilaitos": 6,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 11,
-    "Keski-Suomen pelastuslaitos": 41,
+    "Keski-Suomen pelastuslaitos": 42,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 44
+    "Ilta-Sanomat": 45
   }
 }
