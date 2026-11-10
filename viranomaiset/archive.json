@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:17:24.916486+00:00",
+  "updated": "2026-11-10T14:26:36.544561+00:00",
   "items": [
     {
       "title": "Uutta tietoa Oulun puukotuksesta – poliisi: Mies löi tuntematonta puolimetrisellä veitsellä",
@@ -8,6 +8,16 @@
       "date": "2026-11-10T12:39:00+00:00",
       "region": "Oulu",
       "description": "",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
+    },
+    {
+      "title": "Oulun käräjäoikeus on vanginnut poliisin esityksestä Oulun keskustassa Rautatienkadulla tapahtuneen väkivallanteon epäillyn",
+      "link": "https://poliisi.fi/-/oulun-karajaoikeus-on-vanginnut-poliisin-esityksesta-oulun-keskustassa-rautatienkadulla-tapahtuneen-vakivallanteon-epaillyn",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-10T12:33:00+00:00",
+      "region": "Oulu",
+      "description": "Oulun käräjäoikeus on vanginnut poliisin esityksestä Oulun keskustassa Rautatienkadulla tapahtuneen väkivallanteon epäillyn",
       "municipality": "Oulu",
       "province": "Pohjois-Pohjanmaa"
     },
