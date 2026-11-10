@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-10T14:26:36.544561+00:00",
+  "updated": "2026-11-10T15:13:25.149585+00:00",
   "items": [
+    {
+      "title": "Liikenne seisoo Vantaalla – kaksi onnettomuutta",
+      "link": "https://www.is.fi/kotimaa/art-2000012402655.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-10T15:02:00+00:00",
+      "region": "Vantaa",
+      "description": "",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
     {
       "title": "Uutta tietoa Oulun puukotuksesta – poliisi: Mies löi tuntematonta puolimetrisellä veitsellä",
       "link": "https://www.is.fi/oulun-seutu/art-2000012402047.html",
@@ -2385,7 +2395,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1214,
+  "newly_fetched": 1014,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2413,9 +2423,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -2455,9 +2465,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
@@ -2518,16 +2528,16 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Uudenmaan",
-      "Oulun",
-      "Pohjanmaan"
+      "Oulun"
     ],
     "police_missing": [
       "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
+      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2559,7 +2569,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-11T14:26:36.544561+00:00",
+  "window_start": "2026-10-11T15:13:25.149585+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2581,6 +2591,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 47
+    "Ilta-Sanomat": 48
   }
 }
