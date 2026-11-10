@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-10T18:56:21.465750+00:00",
+  "updated": "2026-11-10T19:40:36.644624+00:00",
   "items": [
+    {
+      "title": "Kadonnut löytyi Oulussa",
+      "link": "https://poliisi.fi/-/kadonnut-loytyi-oulussa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-10T17:42:00+00:00",
+      "region": "Oulu",
+      "description": "Kadonnut löytyi Oulussa",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
+    },
+    {
+      "title": "Kadonneen etsintää Oulussa",
+      "link": "https://poliisi.fi/-/kadonneen-etsintaa-oulussa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-10T17:02:00+00:00",
+      "region": "Oulu",
+      "description": "Kadonneen etsintää Oulussa",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
+    },
     {
       "title": "Liikenne seisoo Vantaalla – kaksi onnettomuutta",
       "link": "https://www.is.fi/kotimaa/art-2000012402655.html",
