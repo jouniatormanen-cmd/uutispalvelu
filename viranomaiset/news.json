@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-10T11:28:28.861033+00:00",
+  "updated": "2026-11-10T12:14:57.757164+00:00",
   "items": [
+    {
+      "title": "Poliisi etsii Helsingissä kateissa olevaa 15-vuotiasta poikaa",
+      "link": "https://poliisi.fi/-/poliisi-etsii-helsingissa-kateissa-olevaa-15-vuotiasta-poikaa",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-11-10T11:48:00+00:00",
+      "region": "",
+      "description": "Poika on noin 175 cm pitkä ja hänellä on ollut päällään mustat vaatteet ja valkoiset Niken kengät. Poika saattaa liikkua pääkaupunkiseudulla, pääsääntöisesti Helsingin ja Espoon alueella. Poliisi pyytää ilmoittamaan havainnot suoraan hätäkeskukseen (112). ]]>",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Helsingin poliisi pyytää havaintoja Espoon Kivenlahdessa tapahtuneeseen tapon yritykseen",
+      "link": "https://poliisi.fi/-/helsingin-poliisi-pyytaa-havaintoja-espoon-kivenlahdessa-tapahtuneeseen-tapon-yritykseen",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-11-10T11:37:00+00:00",
+      "region": "",
+      "description": "Kyse on tilanteesta, jossa 16-vuotiaan pojan epäillään puukottaneen nuorta miestä Kivenlahdessa Aallonhuipun ja Kivenlahdenkadun alikulun kohdilla 19.10.2026 kello 14.00 aikoihin. Tapaukseen liittyen poliisilla on vangittuna kaksi henkilöä, joista toista epäillään varsinaiseksi puukottajaksi ja toista tekoon muutoin osalliseksi henkilöksi. Poliisi on kuullut esitutkinnassa todistajia, joilla on ollut havaintoja teon jälkeisistä tapahtumista. Esitutkinnassa on kuitenkin tullut ilmi, että tapahtumapaikalla olisi ollut myös muita poliisille toistaiseksi tuntemattomia todistajia. Poliisin tietojen mukaan joku on mahdollisesti huutanut tekohetkellä epäilylle tekijälle ja uhrille jotain puukotustilanteessa. Lisäksi uhrin ohi on kulkenut ainakin kaksi henkilöä ennen kuin yksi sivullinen on jäänyt auttamaan vakavasti loukkaantunutta uhria tilanteessa. Auttaja on ollut osaltaan pelastamassa hänen",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Postinjakaja­naisen, 24, murhassa paljastui uusi yksityiskohta – jäljet johtivat lähi­taloon Vantaalla",
       "link": "https://www.is.fi/kotimaa/art-2000012398920.html",
@@ -2310,16 +2330,6 @@
       "description": "Oulun poliisilaitoksen alueella rattijuoppoja ja hirvikolareita",
       "municipality": "Oulu",
       "province": "Pohjois-Pohjanmaa"
-    },
-    {
-      "title": "Rovaniemellä useita väkivaltatehtäviä lauantain ja sunnuntain aikana",
-      "link": "https://poliisi.fi/-/rovaniemella-useita-vakivaltatehtavia-lauantain-ja-sunnuntain-aikana",
-      "source": "Lapin poliisilaitos",
-      "date": "2026-10-11T11:33:00+00:00",
-      "region": "",
-      "description": "Rovaniemellä useita väkivaltatehtäviä lauantain ja sunnuntain aikana",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2345,7 +2355,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1214,
+  "newly_fetched": 914,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2373,27 +2383,27 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Keskusrikospoliisi",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
-      "source": "Lapin poliisilaitos",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Keskusrikospoliisi",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Lapin poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -2415,9 +2425,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
@@ -2477,17 +2487,17 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
-      "Lapin",
-      "Pohjanmaan"
+      "Hämeen"
     ],
     "police_missing": [
       "Itä-Suomen",
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
+      "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
+      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -2519,16 +2529,16 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-11T11:28:28.861033+00:00",
+  "window_start": "2026-10-11T12:14:57.757164+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 14,
+    "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 5,
     "Itä-Suomen poliisilaitos": 28,
     "Itä-Uudenmaan poliisilaitos": 17,
     "Kaakkois-Suomen poliisilaitos": 9,
     "Keskusrikospoliisi": 2,
-    "Lapin poliisilaitos": 4,
+    "Lapin poliisilaitos": 3,
     "Lounais-Suomen poliisilaitos": 18,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 17,
