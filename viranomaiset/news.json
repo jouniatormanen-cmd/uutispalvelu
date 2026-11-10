@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T00:47:35.264950+00:00",
+  "updated": "2026-11-10T01:50:29.971608+00:00",
   "items": [
     {
       "title": "Vakava vene­onnettomuus Outokummussa",
@@ -2290,16 +2290,6 @@
       "description": "Rovaniemellä useita väkivaltatehtäviä lauantain ja sunnuntain aikana",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Syysloman alkajaisviikonloppuna ilkivaltaa ja rattijuoppoja",
-      "link": "https://poliisi.fi/-/syysloman-alkajaisviikonloppuna-ilkivaltaa-ja-rattijuoppoja",
-      "source": "Sisä-Suomen poliisilaitos",
-      "date": "2026-10-11T01:45:00+00:00",
-      "region": "",
-      "description": "Syysloman alkajaisviikonloppuna ilkivaltaa ja rattijuoppoja",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2325,7 +2315,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1113,
+  "newly_fetched": 813,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2347,21 +2337,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2457,12 +2447,12 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen",
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Hämeen"
     ],
     "police_missing": [
+      "Itä-Suomen",
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2499,7 +2489,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-11T00:47:35.264950+00:00",
+  "window_start": "2026-10-11T01:50:29.971608+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 14,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2514,7 +2504,7 @@
     "Oulun poliisilaitos": 16,
     "Pohjanmaan poliisilaitos": 6,
     "Poliisihallitus": 0,
-    "Sisä-Suomen poliisilaitos": 12,
+    "Sisä-Suomen poliisilaitos": 11,
     "Keski-Suomen pelastuslaitos": 41,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
