@@ -1,42 +1,49 @@
 {
-  "updated": "2026-11-10T12:14:51.938511+00:00",
+  "updated": "2026-11-10T13:17:17.227088+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 8.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-10/09-08-37Z/2.49.0.1.246.0.0.2026.27076117.788781811132540661187373149698206632.xml",
-      "description": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä lauantaiaamuun.",
-      "starts": null,
-      "expires": "2026-11-14T06:00:00+00:00"
-    },
-    {
       "title": "Keltainen tuulivaroitus merelle: Merenkurkku ja Perämeri, pe 14.00 - la 8.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-10/09-08-37Z/2.49.0.1.246.0.0.2026.27076117.300921481908432782235791165435708861639.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-10/12-26-51Z/2.49.0.1.246.0.0.2026.27088011.300921481908432782235791165435708861639.xml",
       "description": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 30 % perjantaipäivästä lauantaiaamuun.",
       "starts": null,
       "expires": "2026-11-14T06:00:00+00:00"
     },
     {
+      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 8.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-10/12-26-51Z/2.49.0.1.246.0.0.2026.27088011.788781811132540661187373149698206632.xml",
+      "description": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä lauantaiaamuun.",
+      "starts": null,
+      "expires": "2026-11-14T06:00:00+00:00"
+    },
+    {
       "title": "Keltainen liikennesää: Paikoin maan keskiosa, ke 0.00 - to 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-10/09-08-37Z/2.49.0.1.246.0.0.2026.27076117.25679015743080598099618517484158084928.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-10/12-26-51Z/2.49.0.1.246.0.0.2026.27088011.25679015743080598099618517484158084928.xml",
       "description": "Liikennesää: Ajokeli muuttuu huonoksi keskiyöstä alkaen lumi- tai räntäsateen vuoksi.",
       "starts": null,
       "expires": "2026-11-11T22:00:00+00:00"
     },
     {
-      "title": "Keltainen liikennesää: Paikoin maan pohjoisosa, ti 11.08 - ke 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-10/09-08-37Z/2.49.0.1.246.0.0.2026.27076117.20285272316891504877292400655739865814.xml",
+      "title": "Keltainen liikennesää: Keski-Pohjanmaa sekä paikoin maan pohjoisosa, ti 14.26 - ke 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-10/12-26-51Z/2.49.0.1.246.0.0.2026.27088011.20285272316891504877292400655739865814.xml",
       "description": "Liikennesää: Ajokeli on huono aluksi lumi- tai räntäsateen ja tienpintojen jäätymisen vuoksi.",
       "starts": null,
       "expires": "2026-11-10T22:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus merelle: Suomenlahti, la 8.00 - su 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-10/09-08-37Z/2.49.0.1.246.0.0.2026.27076117.133131807899368091258029490708100881350.xml",
+      "link": "https://alerts.fmi.fi/cap/2026/11-10/12-26-51Z/2.49.0.1.246.0.0.2026.27088011.133131807899368091258029490708100881350.xml",
       "description": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
       "starts": null,
       "expires": "2026-11-14T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeri, to 14.00 - pe 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-10/12-26-51Z/2.49.0.1.246.0.0.2026.27088011.172728731890600091692708917683073984373.xml",
+      "description": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 60 % torstaipäivästä torstain ja perjantain väliseen yöhön.",
+      "starts": null,
+      "expires": "2026-11-12T22:00:00+00:00"
     }
   ]
 }
