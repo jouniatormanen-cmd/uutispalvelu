@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T02:16:55.454175+00:00",
+  "updated": "2026-11-11T03:14:53.511509+00:00",
   "items": [
     {
       "title": "Kadonnut löytyi Oulussa",
@@ -2415,7 +2415,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1114,
+  "newly_fetched": 914,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2443,9 +2443,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -2467,9 +2467,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2485,9 +2485,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
@@ -2497,9 +2497,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2548,17 +2548,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Uudenmaan",
-      "Lounais-Suomen",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "police_missing": [
       "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan"
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2589,7 +2589,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-12T02:16:55.454175+00:00",
+  "window_start": "2026-10-12T03:14:53.511509+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
