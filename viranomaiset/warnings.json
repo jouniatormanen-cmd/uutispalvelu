@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T08:28:49.564241+00:00",
+  "updated": "2026-11-11T09:23:54.092900+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
@@ -23,13 +23,6 @@
       "description": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
       "starts": null,
       "expires": "2026-11-15T22:00:00+00:00"
-    },
-    {
-      "title": "Keltainen liikennesää: Paikoin maan keski- ja pohjoisosa, ke 8.41 - 11.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-11/06-41-34Z/2.49.0.1.246.0.0.2026.27153694.20285272316891504877292400655739865814.xml",
-      "description": "Liikennesää: Ajokeli on huono aluksi tienpintojen jäätymisen vuoksi.",
-      "starts": null,
-      "expires": "2026-11-11T09:00:00+00:00"
     },
     {
       "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeri, su 0.00 - ma 0.00",
