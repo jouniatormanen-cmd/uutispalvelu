@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-12T04:13:19.440591+00:00",
+  "updated": "2026-11-12T12:41:44.413593+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72497423/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-12T09:57:46+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72497213/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-12T09:10:04+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72496026/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-12T05:00:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Kaksi kolaria Pirkanmaalla – useita jatkohoitoon",
       "link": "https://www.is.fi/tampereen-seutu/art-2000012406088.html",
@@ -18,6 +48,16 @@
       "date": "2026-11-11T18:21:00+00:00",
       "region": "Vantaa",
       "description": "",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Kadonnut nainen Vantaalla",
+      "link": "https://poliisi.fi/-/kadonnut-nainen-vantaalla",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-11-11T17:28:00+00:00",
+      "region": "Vantaa",
+      "description": "Kadonnut 81-vuotias nainen on nähty viimeksi keskiviikkona 11. marraskuuta aamupäivällä Vantaalla Palokujalla.",
       "municipality": "Vantaa",
       "province": "Uusimaa"
     },
