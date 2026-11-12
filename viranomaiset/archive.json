@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-12T12:41:44.413593+00:00",
+  "updated": "2026-11-12T20:26:57.966714+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72499529/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-12T17:24:16+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi ei epäile rikosta Pieksämäen Nenonpellon päiväkodin tulipalossa",
+      "link": "https://poliisi.fi/-/poliisi-ei-epaile-rikosta-pieksamaen-nenonpellon-paivakodin-tulipalossa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-12T13:35:00+00:00",
+      "region": "",
+      "description": "Poliisi ei epäile rikosta Pieksämäen Nenonpellon päiväkodin tulipalossa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja kuukausi sitten kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kuukausi-sitten-kadonneesta-miehesta",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-11-12T12:59:00+00:00",
+      "region": "Helsinki",
+      "description": "Poliisi etsii miestä, koska hän on kadonnut. Tuntomerkit: Pituus noin 180 cm, hoikka ja lyhyet hiukset. Helsingin poliisilaitos pyytää ilmoittamaan havainnot sähköpostilla kadonneet.helsinki@poliisi.fi tai 0469224651 (WhatsApp.) ]]>",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72497423/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -18,6 +48,16 @@
       "date": "2026-11-12T09:10:04+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Törkeitä rattijuoppoja Porissa ja Ulvilassa",
+      "link": "https://poliisi.fi/-/torkeita-rattijuoppoja-porissa-ja-ulvilassa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-12T07:23:00+00:00",
+      "region": "",
+      "description": "Törkeitä rattijuoppoja Porissa ja Ulvilassa",
       "municipality": "",
       "province": ""
     },

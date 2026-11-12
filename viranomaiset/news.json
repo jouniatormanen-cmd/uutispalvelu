@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-12T12:41:44.413593+00:00",
+  "updated": "2026-11-12T20:26:57.966714+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72499529/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-12T17:24:16+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi ei epäile rikosta Pieksämäen Nenonpellon päiväkodin tulipalossa",
+      "link": "https://poliisi.fi/-/poliisi-ei-epaile-rikosta-pieksamaen-nenonpellon-paivakodin-tulipalossa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-12T13:35:00+00:00",
+      "region": "",
+      "description": "Poliisi ei epäile rikosta Pieksämäen Nenonpellon päiväkodin tulipalossa",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja kuukausi sitten kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kuukausi-sitten-kadonneesta-miehesta",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-11-12T12:59:00+00:00",
+      "region": "Helsinki",
+      "description": "Poliisi etsii miestä, koska hän on kadonnut. Tuntomerkit: Pituus noin 180 cm, hoikka ja lyhyet hiukset. Helsingin poliisilaitos pyytää ilmoittamaan havainnot sähköpostilla kadonneet.helsinki@poliisi.fi tai 0469224651 (WhatsApp.) ]]>",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72497423/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -18,6 +48,16 @@
       "date": "2026-11-12T09:10:04+00:00",
       "region": "",
       "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Törkeitä rattijuoppoja Porissa ja Ulvilassa",
+      "link": "https://poliisi.fi/-/torkeita-rattijuoppoja-porissa-ja-ulvilassa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-12T07:23:00+00:00",
+      "region": "",
+      "description": "Törkeitä rattijuoppoja Porissa ja Ulvilassa",
       "municipality": "",
       "province": ""
     },
@@ -2470,16 +2510,6 @@
       "description": "Helsingin poliisilaitos on jatkanut aktiivisesti tapausten tutkintaa muun muassa kuulemalla asianosaisia henkilöitä. Esitutkintaa tehdään tiiviissä yhteistyössä eduskunnan ja Keskusrikospoliisin sekä tarvittaessa suojelupoliisin kanssa. Kyseessä on laaja esitutkintakokonaisuus, jonka tutkiminen tulee viemään aikaa. Helsingin poliisilaitoksen ei ole mahdollista kommentoida epäiltyjä rikoksia tai niiden tutkintaa tarkemmin, jotta esitutkinta ei vaarannu. Poliisi ei myöskään tässä vaiheessa tule arvioimaan tapahtumien taustoja, tekijöitä tai motiiveja. Asiasta tiedotetaan seuraavan kerran, kun se on mahdollista. ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Kadonnut mies Loviisassa – poliisi pyysi havaintoja",
-      "link": "https://poliisi.fi/-/kadonnut-mies-loviisassa",
-      "source": "Poliisi",
-      "date": "2026-10-13T20:49:00+03:00",
-      "region": "Loviisa",
-      "description": "Itä-Uudenmaan poliisi julkaisi 13.10. katoamistiedotteen Loviisasta. Kyseessä on arkistoitu, mahdollisesti päivittynyt uutinen; tarkista tilanne poliisin alkuperäisestä tiedotteesta.",
-      "municipality": "Loviisa",
-      "province": "Uusimaa"
     }
   ],
   "sources": [
@@ -2505,7 +2535,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1315,
+  "newly_fetched": 1415,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2551,19 +2581,19 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Lounais-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -2581,9 +2611,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2641,10 +2671,10 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
+      "Lounais-Suomen"
     ],
     "police_missing": [
-      "Lounais-Suomen",
+      "Lapin",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -2679,23 +2709,23 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-13T12:41:44.413593+00:00",
+  "window_start": "2026-10-13T20:26:57.966714+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 17,
+    "Helsingin poliisilaitos": 18,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 5,
-    "Itä-Suomen poliisilaitos": 28,
+    "Itä-Suomen poliisilaitos": 29,
     "Itä-Uudenmaan poliisilaitos": 18,
     "Kaakkois-Suomen poliisilaitos": 9,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 3,
-    "Lounais-Suomen poliisilaitos": 18,
+    "Lounais-Suomen poliisilaitos": 19,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 19,
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 11,
-    "Keski-Suomen pelastuslaitos": 46,
+    "Keski-Suomen pelastuslaitos": 47,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
