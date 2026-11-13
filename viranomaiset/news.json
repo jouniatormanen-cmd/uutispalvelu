@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-13T08:16:26.290340+00:00",
+  "updated": "2026-11-13T16:36:06.204065+00:00",
   "items": [
+    {
+      "title": "Onnettomuus Leppävirralla – Viitostie tunteja poikki, ruuhka purkautumassa",
+      "link": "https://www.is.fi/kotimaa/art-2000012411090.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-13T15:04:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Outokummun veneturmassa kadonnut mies löytyi kuolleena",
+      "link": "https://www.is.fi/kotimaa/art-2000012411253.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-13T13:21:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Henkilöauton ja rekan kolari Leppävirralla",
+      "link": "https://poliisi.fi/-/henkiloauton-ja-rekan-kolari-leppavirralla",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-13T12:29:00+00:00",
+      "region": "Kolari",
+      "description": "Henkilöauton ja rekan kolari Leppävirralla",
+      "municipality": "Kolari",
+      "province": "Lappi"
+    },
+    {
+      "title": "Yksi vangittu Turun henkirikoksesta epäiltynä",
+      "link": "https://poliisi.fi/-/yksi-vangittu-turun-henkirikoksesta-epailtyna",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-13T11:57:00+00:00",
+      "region": "Turku",
+      "description": "Yksi vangittu Turun henkirikoksesta epäiltynä",
+      "municipality": "Turku",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Poliisioperaatio päiväkodilla Jyväskylässä",
+      "link": "https://www.is.fi/kotimaa/art-2000012409690.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-13T09:12:00+00:00",
+      "region": "Jyväskylä",
+      "description": "",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72499823/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -2530,26 +2580,6 @@
       "description": "Rattijuopumuksia Porissa ja Ulvilassa",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Jyväskylän Vaajakoskella teollisuushallin rakenteissa tulipalo",
-      "link": "https://www.sttinfo.fi/tiedote/72412653/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
-      "date": "2026-10-14T15:28:41+03:00",
-      "region": "Jyväskylä",
-      "description": "Tulitöistä lentänyt kipinä aiheutti kytöpalon teollisuushallin välipohjaan. Ensihoito tarkasti neljä paikalla ollutta henkilöä.",
-      "source": "Keski-Suomen pelastuslaitos",
-      "municipality": "Jyväskylä",
-      "province": "Keski-Suomi"
-    },
-    {
-      "title": "Poliisi jatkaa kansanedustajien asuntoihin kohdistuneiden epäiltyjen tunkeutumisten tutkintaa",
-      "link": "https://poliisi.fi/-/poliisi-jatkaa-kansanedustajien-asuntoihin-kohdistuneiden-epailtyjen-tunkeutumisten-tutkintaa",
-      "source": "Helsingin poliisilaitos",
-      "date": "2026-10-14T09:00:00+00:00",
-      "region": "Helsinki",
-      "description": "Helsingin poliisilaitos on jatkanut aktiivisesti tapausten tutkintaa muun muassa kuulemalla asianosaisia henkilöitä. Esitutkintaa tehdään tiiviissä yhteistyössä eduskunnan ja Keskusrikospoliisin sekä tarvittaessa suojelupoliisin kanssa. Kyseessä on laaja esitutkintakokonaisuus, jonka tutkiminen tulee viemään aikaa. Helsingin poliisilaitoksen ei ole mahdollista kommentoida epäiltyjä rikoksia tai niiden tutkintaa tarkemmin, jotta esitutkinta ei vaarannu. Poliisi ei myöskään tässä vaiheessa tule arvioimaan tapahtumien taustoja, tekijöitä tai motiiveja. Asiasta tiedotetaan seuraavan kerran, kun se on mahdollista. ]]>",
-      "municipality": "Helsinki",
-      "province": "Uusimaa"
     }
   ],
   "sources": [
@@ -2575,7 +2605,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1414,
+  "newly_fetched": 1416,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2597,9 +2627,9 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
@@ -2621,33 +2651,33 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
@@ -2657,9 +2687,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2688,13 +2718,13 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 363,
+      "fetched": 364,
       "feeds_checked": 1
     },
     {
       "source": "Traficom – kyberturvallisuus",
       "status": "toimii",
-      "fetched": 66,
+      "fetched": 67,
       "feeds_checked": 1
     },
     {
@@ -2708,17 +2738,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
+      "Lapin",
+      "Lounais-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
-    ],
-    "police_missing": [
-      "Itä-Suomen",
-      "Lapin",
-      "Lounais-Suomen",
-      "Länsi-Uudenmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2749,28 +2779,28 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-14T08:16:26.290340+00:00",
+  "window_start": "2026-10-14T16:36:06.204065+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 18,
+    "Helsingin poliisilaitos": 17,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 5,
-    "Itä-Suomen poliisilaitos": 29,
+    "Itä-Suomen poliisilaitos": 30,
     "Itä-Uudenmaan poliisilaitos": 18,
     "Kaakkois-Suomen poliisilaitos": 9,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 3,
-    "Lounais-Suomen poliisilaitos": 19,
+    "Lounais-Suomen poliisilaitos": 20,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 22,
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 11,
-    "Keski-Suomen pelastuslaitos": 48,
+    "Keski-Suomen pelastuslaitos": 47,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 55
+    "Ilta-Sanomat": 58
   }
 }
