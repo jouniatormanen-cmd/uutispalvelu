@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-13T16:36:06.204065+00:00",
+  "updated": "2026-11-13T22:10:30.239035+00:00",
   "items": [
+    {
+      "title": "Iso poliisioperaatio Itä-Helsingissä – kahta ihmistä vahingoitettu",
+      "link": "https://www.is.fi/kotimaa/art-2000012412037.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-13T19:43:00+00:00",
+      "region": "Helsinki",
+      "description": "",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Lukuisia onnettomuuksia ympäri Suomen – VR:n kiskobussi jäi tunneiksi jumiin keskelle metsää",
+      "link": "https://www.is.fi/kotimaa/art-2000012411751.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-13T17:27:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72502629/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-13T16:58:54+00:00",
+      "region": "",
+      "description": "Keski-Suomen pelastuslaitoksen tehtävät perjantaina 13.11.2026 kello 7.00-19.00",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Onnettomuus Leppävirralla – Viitostie tunteja poikki, ruuhka purkautumassa",
       "link": "https://www.is.fi/kotimaa/art-2000012411090.html",
@@ -20,6 +50,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Tampereen Härmälässä tulipalo, jota epäillään tahallisesti sytytetyksi",
+      "link": "https://poliisi.fi/-/tampereen-harmalassa-tulipalo-jota-epaillaan-tahallisesti-sytytetyksi",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-13T12:42:00+00:00",
+      "region": "Tampere",
+      "description": "Tampereen Härmälässä tulipalo, jota epäillään tahallisesti sytytetyksi",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
     },
     {
       "title": "Henkilöauton ja rekan kolari Leppävirralla",
@@ -2605,7 +2645,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1416,
+  "newly_fetched": 1516,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2645,9 +2685,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2669,9 +2709,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -2687,9 +2727,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -2742,13 +2782,13 @@
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
-      "Lounais-Suomen"
+      "Lounais-Suomen",
+      "Oulun",
+      "Sisä-Suomen"
     ],
     "police_missing": [
       "Länsi-Uudenmaan",
-      "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -2779,7 +2819,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-14T16:36:06.204065+00:00",
+  "window_start": "2026-10-14T22:10:30.239035+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 17,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2794,13 +2834,13 @@
     "Oulun poliisilaitos": 22,
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 0,
-    "Sisä-Suomen poliisilaitos": 11,
-    "Keski-Suomen pelastuslaitos": 47,
+    "Sisä-Suomen poliisilaitos": 12,
+    "Keski-Suomen pelastuslaitos": 48,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 1,
-    "Ilta-Sanomat": 58
+    "Ilta-Sanomat": 60
   }
 }
