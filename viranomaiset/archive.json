@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-14T15:46:41.315642+00:00",
+  "updated": "2026-11-14T20:13:42.215533+00:00",
   "items": [
+    {
+      "title": "Poliisioperaatio Turussa",
+      "link": "https://www.is.fi/kotimaa/art-2000012413225.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-14T20:07:00+00:00",
+      "region": "Turku",
+      "description": "",
+      "municipality": "Turku",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Raideliikenne­onnettomuus Kouvolassa – pelastajat matkalla",
+      "link": "https://www.is.fi/kotimaa/art-2000012413155.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-14T18:57:00+00:00",
+      "region": "Kouvola",
+      "description": "",
+      "municipality": "Kouvola",
+      "province": "Kymenlaakso"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72503420/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-14T17:04:33+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Korsholmantien väkivaltatilanteen toinen uhri kuoli, poliisi tutkii tappoa",
       "link": "https://poliisi.fi/-/korsholmantien-vakivaltatilanteen-toinen-uhri-kuoli-poliisi-tutkii-tappoa",
