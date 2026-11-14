@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-14T02:22:29.605654+00:00",
+  "updated": "2026-11-14T09:10:30.903881+00:00",
   "items": [
+    {
+      "title": "Tulipalo Tampereen ydin­keskustassa",
+      "link": "https://www.is.fi/tampereen-seutu/art-2000012412418.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-14T08:42:00+00:00",
+      "region": "Tampere",
+      "description": "",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
+    },
+    {
+      "title": "Varusmiehet onnettomuudessa Lapissa – viisi sairaalaan",
+      "link": "https://www.is.fi/kotimaa/art-2000012412347.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-14T07:45:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72502955/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-14T06:03:22+00:00",
+      "region": "Jyväskylä",
+      "description": "Jyväskylän Säkkitiellä sijaitsevan teollisuushallin roskis syttyi palamaan aamulla kello 7.18, kun vartiointiliike havaitsi liekit valvontakameroista. Pelastuslaitoksen savusukeltajat sammuttivat palon nopeasti. Paikalle hälytettiin yhdeksän yksikköä. Henkilövahingoilta vältyttiin, ja savut tuuletettiin tiloista.",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72502889/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-14T05:04:50+00:00",
+      "region": "",
+      "description": "Keski-Suomen pelastuslaitoksen tehtävät 13.11 kello 19.00-14.11. kello 07.00",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Iso poliisioperaatio Itä-Helsingissä – kahta ihmistä vahingoitettu",
       "link": "https://www.is.fi/kotimaa/art-2000012412037.html",
