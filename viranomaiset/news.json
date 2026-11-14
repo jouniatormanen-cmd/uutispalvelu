@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-14T09:10:30.903881+00:00",
+  "updated": "2026-11-14T15:46:41.315642+00:00",
   "items": [
+    {
+      "title": "Korsholmantien väkivaltatilanteen toinen uhri kuoli, poliisi tutkii tappoa",
+      "link": "https://poliisi.fi/-/korsholmantien-vakivaltatilanteen-toinen-uhri-kuoli-poliisi-tutkii-tappoa",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-11-14T10:52:00+00:00",
+      "region": "",
+      "description": "Molemmat henkilöt saivat vammoja ja heille aloitettiin välitön ensihoito. Toinen uhreista kuoli elvytysyrityksistä huolimatta matkalla sairaalaan. Poliisin tiedon mukaan yksityisasunnossa on ollut käynnissä illan vietto, johon on liittynyt päihteitä. Illan vieton aikana kahdella asunnossa olleella miehellä oli tullut riitaa, joka oli muuttunut fyysiseksi. Molempien miesten epäillään käyttäneen riidassa teräasetta toisiaan kohtaan. Tekoa tutkitaan rikosnimikkeillä tappo ja tapon yritys. Poliisi on ottanut taposta epäillyn, noin 20-vuotiaan helsinkiläisen, miehen kiinni ja hän on tällä hetkellä pidätettynä. Väkivallanteon yhteydessä kuolleen miehen toimintaa tutkitaan tapon yrityksenä. Poliisi jatkaa asian esitutkintaa ja tapauksesta tiedotetaan lisää aikaisintaan maanantaina iltapäivällä. Aiempi tiedote: Poliisitehtävä Puotinharjussa, paikalla useita poliisin partioita ]]>",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Tulipalo Tampereen ydin­keskustassa",
       "link": "https://www.is.fi/tampereen-seutu/art-2000012412418.html",
@@ -2620,26 +2630,6 @@
       "description": "Henkilöauton kuljettaja loukkaantui vakavasti ulosajossa 16.10. Poliisi pyytää mahdollisia silminnäkijöitä kertomaan havainnoistaan.",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Teletoiminnan häiriötilanteista ilmoittaminen muuttuu",
-      "link": "https://www.traficom.fi/fi/uutiset/teletoiminnan-hairiotilanteista-ilmoittaminen-muuttuu?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "source": "Traficom – kyberturvallisuus",
-      "date": "2026-10-15T12:07:23+00:00",
-      "region": "",
-      "description": "Liikenne- ja viestintävirasto Traficomin päivitetty teletoiminnan häiriötilanteita koskeva määräys tulee voimaan 1.1.2027.",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Autoilijan epäillään törmänneen lapseen suojatiellä Pieksämäellä - vihjeitä kaivataan",
-      "link": "https://poliisi.fi/-/autoilijan-epaillaan-tormanneen-lapseen-suojatiella-pieksamaella-vihjeita-kaivataan",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-15T12:00:00+00:00",
-      "region": "",
-      "description": "Autoilijan epäillään törmänneen lapseen suojatiellä Pieksämäellä - vihjeitä kaivataan",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2665,7 +2655,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 916,
+  "newly_fetched": 1316,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2687,15 +2677,15 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -2705,9 +2695,9 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2741,9 +2731,9 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
@@ -2798,11 +2788,11 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Pohjanmaan"
     ],
     "police_missing": [
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
@@ -2839,12 +2829,12 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-15T09:10:30.903881+00:00",
+  "window_start": "2026-10-15T15:46:41.315642+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 17,
+    "Helsingin poliisilaitos": 18,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 5,
-    "Itä-Suomen poliisilaitos": 30,
+    "Itä-Suomen poliisilaitos": 29,
     "Itä-Uudenmaan poliisilaitos": 18,
     "Kaakkois-Suomen poliisilaitos": 9,
     "Keskusrikospoliisi": 2,
@@ -2860,7 +2850,7 @@
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
-    "Traficom – kyberturvallisuus": 1,
+    "Traficom – kyberturvallisuus": 0,
     "Ilta-Sanomat": 62
   }
 }
