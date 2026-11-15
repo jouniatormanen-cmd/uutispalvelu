@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-15T11:29:17.974984+00:00",
+  "updated": "2026-11-15T17:55:12.065518+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72503879/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-15T17:00:09+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Auto törmäsi jalan­kulkijoihin suojatiellä Tampereella",
+      "link": "https://www.is.fi/tampereen-seutu/art-2000012413853.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-15T14:27:00+00:00",
+      "region": "Tampere",
+      "description": "",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
+    },
     {
       "title": "Millariikka Rytkönen tykittää sote-palvelujen rajaamisesta – ”Jos nyt ajaisin auto-onnettomuuden...”",
       "link": "https://www.is.fi/politiikka/art-2000012394562.html",
@@ -2640,26 +2660,6 @@
       "description": "Paikalle meni useita poliisipartioita. Poliisi suoritti lähietsintöjä paikan päällä, mutta epäillyt tekijät jäivät kateisiin. Pahoinpitelyn uhrilla ei ole hengenvaaraa. Epäillyt tekijät ovat noin 40-vuotiaita miehiä ja heidän seurassaan on ollut nainen. Poliisi pyytää havaintoja tapahtumista sekä epäillyistä. Havainnot voi lähettää sähköpostitse vakivaltavihjeet.helsinki@poliisi.fi tai numeroon 050 562 5433 (myös WhatsApp). ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Hankasalmella tielle kallistunut puu aiheutti pelastustehtävän",
-      "link": "https://www.sttinfo.fi/tiedote/72419333/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
-      "date": "2026-10-16T19:10:26+03:00",
-      "region": "",
-      "description": "Pelastuslaitos raivasi Nälkämäentiellä tien päälle kallistuneen puun. Kyseessä on 16. lokakuuta julkaistu tehtäväkooste.",
-      "source": "Keski-Suomen pelastuslaitos",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Porin peruutusonnettomuudessa ei rikosta",
-      "link": "https://poliisi.fi/-/porin-peruutusonnettomuudessa-ei-rikosta",
-      "source": "Lounais-Suomen poliisilaitos",
-      "date": "2026-10-16T13:07:00+00:00",
-      "region": "Pori",
-      "description": "Porin peruutusonnettomuudessa ei rikosta",
-      "municipality": "Pori",
-      "province": "Satakunta"
     }
   ],
   "sources": [
@@ -2685,7 +2685,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 816,
+  "newly_fetched": 1016,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2707,15 +2707,15 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -2817,11 +2817,11 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
+      "Hämeen",
+      "Itä-Suomen",
+      "Itä-Uudenmaan"
     ],
     "police_missing": [
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
@@ -2859,7 +2859,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-16T11:29:17.974984+00:00",
+  "window_start": "2026-10-16T17:55:12.065518+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 18,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -2869,7 +2869,7 @@
     "Kaakkois-Suomen poliisilaitos": 9,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 3,
-    "Lounais-Suomen poliisilaitos": 18,
+    "Lounais-Suomen poliisilaitos": 17,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 22,
     "Pohjanmaan poliisilaitos": 5,
@@ -2881,6 +2881,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 65
+    "Ilta-Sanomat": 66
   }
 }
