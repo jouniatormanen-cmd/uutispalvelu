@@ -1,56 +1,42 @@
 {
-  "updated": "2026-11-16T09:33:26.245589+00:00",
+  "updated": "2026-11-16T19:50:58.149510+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
   "items": [
     {
-      "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 0.00 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-16/09-17-16Z/2.49.0.1.246.0.0.2026.27595036.263656732927516704239247141635756321344.xml",
-      "description": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 14 m/s.",
+      "title": "Keltainen tuulivaroitus merelle: Suomenlahti, ti 0.00 - 12.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-16/18-00-05Z/2.49.0.1.246.0.0.2026.27626405.208532614836633759919901797513619514506.xml",
+      "description": "Kovan tuulen varoitus: Etelätuulta aluksi 14 m/s.",
       "starts": null,
-      "expires": "2026-11-17T12:00:00+00:00"
+      "expires": "2026-11-17T10:00:00+00:00"
     },
     {
-      "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeren itäosa, ti 0.00 - 14.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-16/09-17-16Z/2.49.0.1.246.0.0.2026.27595036.227172518834627380838783729463997081986.xml",
-      "description": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 16 m/s.",
+      "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa ja Saaristomeri, ma 20.00 - ti 5.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-16/18-00-05Z/2.49.0.1.246.0.0.2026.27626405.263656732927516704239247141635756321344.xml",
+      "description": "Kovan tuulen varoitus: Etelätuulta aluksi 14 m/s.",
       "starts": null,
-      "expires": "2026-11-17T12:00:00+00:00"
+      "expires": "2026-11-17T03:00:00+00:00"
     },
     {
-      "title": "Keltainen liikennesää: Maan pohjoisosa, to 0.00 - pe 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-16/09-17-16Z/2.49.0.1.246.0.0.2026.27595036.337664317222571183905736943580426777339.xml",
+      "title": "Keltainen liikennesää: Lappi, to 0.00 - pe 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-16/18-00-05Z/2.49.0.1.246.0.0.2026.27626405.337664317222571183905736943580426777339.xml",
       "description": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstain ja perjantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
       "starts": null,
       "expires": "2026-11-19T22:00:00+00:00"
     },
     {
-      "title": "Keltainen liikennesää: Maan pohjoisosa, ke 0.00 - to 0.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-16/09-17-16Z/2.49.0.1.246.0.0.2026.27595036.125382543213834767633175061690742944368.xml",
-      "description": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % tiistain ja keskiviikon välisestä yöstä keskiviikon ja torstain väliseen yöhön lumi- tai räntäsateen vuoksi.",
-      "starts": null,
-      "expires": "2026-11-18T22:00:00+00:00"
-    },
-    {
       "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 14.00 - ke 6.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-16/09-17-16Z/2.49.0.1.246.0.0.2026.27595036.332073899217516060539650291649246430974.xml",
-      "description": "Kovan tuulen varoitus: Kovan koillistuulen todennäköisyys on 60 % tiistaipäivästä keskiviikkoaamuun.",
+      "link": "https://alerts.fmi.fi/cap/2026/11-16/18-00-05Z/2.49.0.1.246.0.0.2026.27626405.332073899217516060539650291649246430974.xml",
+      "description": "Kovan tuulen varoitus: Koillistuulta iltapäivästä alkaen 14 m/s.",
       "starts": null,
       "expires": "2026-11-18T04:00:00+00:00"
     },
     {
-      "title": "Keltainen liikennesää: Paikoin Pohjois-Pohjanmaa ja Etelä-Lappi, ma 11.17 - 18.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-16/09-17-16Z/2.49.0.1.246.0.0.2026.27595036.81868544213609649005737952206416854224.xml",
-      "description": "Liikennesää: Ajokeli on huono aluksi lumi- tai räntäsateen vuoksi.",
+      "title": "Keltainen liikennesää: Maan pohjoisosa, ke 0.00 - to 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-16/18-00-05Z/2.49.0.1.246.0.0.2026.27626405.125382543213834767633175061690742944368.xml",
+      "description": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % tiistain ja keskiviikon välisestä yöstä keskiviikon ja torstain väliseen yöhön lumi- tai räntäsateen vuoksi.",
       "starts": null,
-      "expires": "2026-11-16T16:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Suomenlahti, ma 11.17 - 13.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-16/09-17-16Z/2.49.0.1.246.0.0.2026.27595036.266013598103905240201328088644497579249.xml",
-      "description": "Kovan tuulen varoitus: Etelän ja lounaan välistä tuulta aluksi 14 m/s.",
-      "starts": null,
-      "expires": "2026-11-16T11:00:00+00:00"
+      "expires": "2026-11-18T22:00:00+00:00"
     }
   ]
 }
