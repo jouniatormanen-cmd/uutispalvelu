@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:15:04.032430+00:00",
+  "updated": "2026-11-16T02:10:28.187294+00:00",
   "items": [
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -2859,7 +2859,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-16T22:15:04.032430+00:00",
+  "window_start": "2026-10-17T02:10:28.187294+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 18,
     "Poliisi – valtakunnallinen RSS": 0,
