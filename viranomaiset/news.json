@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-17T02:41:10.830527+00:00",
+  "updated": "2026-11-17T11:08:25.052604+00:00",
   "items": [
+    {
+      "title": "Poliisi tutkii Mikkelissä viime yönä ollutta tulipaloa tuhotyönä",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-mikkelissa-viime-yona-ollutta-tulipaloa-tuhotyona",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-17T10:11:00+00:00",
+      "region": "Mikkeli",
+      "description": "Poliisi tutkii Mikkelissä viime yönä ollutta tulipaloa tuhotyönä",
+      "municipality": "Mikkeli",
+      "province": "Etelä-Savo"
+    },
+    {
+      "title": "Postinjakajan murha­yöstä uusia tietoja – näin surmaaja saattoi paeta Vantaalla",
+      "link": "https://www.is.fi/kotimaa/art-2000012416127.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-17T06:30:00+00:00",
+      "region": "Vantaa",
+      "description": "",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Mediatiedote Keski-Suomen pelastuslaitos",
+      "link": "https://www.sttinfo.fi/tiedote/72508928/mediatiedote-keski-suomen-pelastuslaitos?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-17T05:00:16+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Helsingissä kadonnut 45-vuotias mies",
       "link": "https://poliisi.fi/-/helsingissa-kadonnut-45-vuotias-mies",
@@ -2720,16 +2750,6 @@
       "description": "Poliisi epäilee Lahden Satamassa palaneen laivan tulipaloa tahallaan sytytetyksi",
       "municipality": "Lahti",
       "province": "Päijät-Häme"
-    },
-    {
-      "title": "Vakava liikenneonnettomuus Orimattilassa valtatie 4:lla",
-      "link": "https://poliisi.fi/-/vakava-liikenneonnettomuus-orimattilassa-valtatie-4-lla",
-      "source": "Hämeen poliisilaitos",
-      "date": "2026-10-18T04:30:00+00:00",
-      "region": "Orimattila",
-      "description": "Vakava liikenneonnettomuus Orimattilassa valtatie 4:lla",
-      "municipality": "Orimattila",
-      "province": "Päijät-Häme"
     }
   ],
   "sources": [
@@ -2755,7 +2775,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 816,
+  "newly_fetched": 1217,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2777,27 +2797,27 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
@@ -2868,7 +2888,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 364,
+      "fetched": 365,
       "feeds_checked": 1
     },
     {
@@ -2887,12 +2907,12 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
-    ],
-    "police_missing": [
+      "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
+      "Kaakkois-Suomen"
+    ],
+    "police_missing": [
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -2929,12 +2949,12 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-18T02:41:10.830527+00:00",
+  "window_start": "2026-10-18T11:08:25.052604+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 18,
     "Poliisi – valtakunnallinen RSS": 0,
-    "Hämeen poliisilaitos": 5,
-    "Itä-Suomen poliisilaitos": 29,
+    "Hämeen poliisilaitos": 4,
+    "Itä-Suomen poliisilaitos": 30,
     "Itä-Uudenmaan poliisilaitos": 18,
     "Kaakkois-Suomen poliisilaitos": 9,
     "Keskusrikospoliisi": 2,
@@ -2945,12 +2965,12 @@
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 53,
+    "Keski-Suomen pelastuslaitos": 54,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 70
+    "Ilta-Sanomat": 71
   }
 }
