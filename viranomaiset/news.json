@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-18T09:35:56.662669+00:00",
+  "updated": "2026-11-18T18:23:04.982944+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72516679/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-18T17:19:55+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisioperaatio Helsingin keskustassa",
+      "link": "https://www.is.fi/kotimaa/art-2000012422084.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-18T14:10:00+00:00",
+      "region": "Helsinki",
+      "description": "",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Yksi kuoli nokka­kolarissa Kaarinassa – mies ajoi vastaan­tulevien kaistalla",
+      "link": "https://www.is.fi/turun-seutu/art-2000012421801.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-18T13:03:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Turussa tapon yrityksestä epäiltyä miestä esitetään vangittavaksi",
+      "link": "https://poliisi.fi/-/turussa-tapon-yrityksesta-epailtya-miesta-esitetaan-vangittavaksi",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-18T12:56:00+00:00",
+      "region": "Turku",
+      "description": "Turussa tapon yrityksestä epäiltyä miestä esitetään vangittavaksi",
+      "municipality": "Turku",
+      "province": "Varsinais-Suomi"
+    },
     {
       "title": "HS: Sairaalassa kajahti merkillinen kuulutus vaaratiedote­kokeilun jälkeen",
       "link": "https://www.is.fi/kotimaa/art-2000012420461.html",
@@ -182,6 +222,16 @@
       "province": "Etelä-Savo"
     },
     {
+      "title": "Poliisi pyytää vihjeitä tulipalon sytyttäjästä Turun Mikaelinkirkolla",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-vihjeita-tulipalon-sytyttajasta-turun-mikaelinkirkolla",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-17T06:45:00+00:00",
+      "region": "Turku",
+      "description": "Poliisi pyytää vihjeitä tulipalon sytyttäjästä Turun Mikaelinkirkolla",
+      "municipality": "Turku",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Postinjakajan murha­yöstä uusia tietoja – näin surmaaja saattoi paeta Vantaalla",
       "link": "https://www.is.fi/kotimaa/art-2000012416127.html",
       "source": "Ilta-Sanomat",
@@ -200,6 +250,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Kuusamossa sijoitusnuorten epäillään ryöstäneen henkilöauton käyttöönsä",
+      "link": "https://poliisi.fi/-/kuusamossa-sijoitusnuorten-epaillaan-ryostaneen-henkiloauton-kayttoonsa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-17T03:51:00+00:00",
+      "region": "Kuusamo",
+      "description": "Kuusamossa sijoitusnuorten epäillään ryöstäneen henkilöauton käyttöönsä",
+      "municipality": "Kuusamo",
+      "province": "Pohjois-Pohjanmaa"
     },
     {
       "title": "Helsingissä kadonnut mies löytynyt",
@@ -260,6 +320,16 @@
       "description": "",
       "municipality": "Kolari",
       "province": "Lappi"
+    },
+    {
+      "title": "Lounais-Suomen poliisi selvittää murtosarjaa – neljää esitetään vangittavaksi",
+      "link": "https://poliisi.fi/-/lounais-suomen-poliisi-selvittaa-murtosarjaa-neljaa-esitetaan-vangittavaksi",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-16T13:35:00+00:00",
+      "region": "",
+      "description": "Lounais-Suomen poliisi selvittää murtosarjaa – neljää esitetään vangittavaksi",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi kaipaa havaintoja liikennevahingosta",
@@ -2860,56 +2930,6 @@
       "description": "Itä-Uudenmaan poliisissa on tutkittavana tiistaina 13.10 Hyvinkäällä tapahtunut vakava väkivallanteko, missä uhri sai sairaalahoitoa vaativia vammoja.",
       "municipality": "Hyvinkää",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Yksi kuoli kuorma-auton ja pakettiauton kolarissa Joutsassa",
-      "link": "https://poliisi.fi/-/yksi-kuoli-kuorma-auton-ja-pakettiauton-kolarissa-joutsassa",
-      "source": "Sisä-Suomen poliisilaitos",
-      "date": "2026-10-19T18:13:00+00:00",
-      "region": "",
-      "description": "Yksi kuoli kuorma-auton ja pakettiauton kolarissa Joutsassa",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Pahoinpitelytehtäviä Laitilassa viikonloppuna",
-      "link": "https://poliisi.fi/-/pahoinpitelytehtavia-laitilassa-viikonloppuna",
-      "source": "Lounais-Suomen poliisilaitos",
-      "date": "2026-10-19T12:57:00+00:00",
-      "region": "Laitila",
-      "description": "Pahoinpitelytehtäviä Laitilassa viikonloppuna",
-      "municipality": "Laitila",
-      "province": "Varsinais-Suomi"
-    },
-    {
-      "title": "Yksi kuoli kolarissa Juuassa",
-      "link": "https://poliisi.fi/-/yksi-kuoli-kolarissa-juuassa",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-19T12:10:00+00:00",
-      "region": "Kolari",
-      "description": "Yksi kuoli kolarissa Juuassa",
-      "municipality": "Kolari",
-      "province": "Lappi"
-    },
-    {
-      "title": "Omakotitalon palo Varkaudessa",
-      "link": "https://poliisi.fi/-/omakotitalon-palo-varkaudessa",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-19T11:42:00+00:00",
-      "region": "",
-      "description": "Omakotitalon palo Varkaudessa",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Poliisi on saanut valmiiksi alaikäisiin kohdistuneiden seksuaalirikosten kokonaisuuden Lappeenrannassa",
-      "link": "https://poliisi.fi/-/poliisi-on-saanut-valmiiksi-alaikaisiin-kohdistuneiden-seksuaalirikosten-kokonaisuuden-lappeenrannassa",
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "date": "2026-10-19T11:17:00+00:00",
-      "region": "",
-      "description": "Kaakkois-Suomen poliisi on saanut valmiiksi esitutkinnan rikoskokonaisuudessa, jossa kahden lappeenrantalaisen miehen epäillään syyllistyneen vuosina 2024 - 2026 useisiin alaikäisiin kohdistuneisiin seksuaalirikoksiin. Tutkinnan perusteella asianomistajat ovat olleet tekojen aikana pääasiassa vahvasti päihtyneitä.",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -2935,7 +2955,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1317,
+  "newly_fetched": 1118,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2957,21 +2977,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -2981,15 +3001,15 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Lounais-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -2999,9 +3019,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -3048,7 +3068,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 365,
+      "fetched": 366,
       "feeds_checked": 1
     },
     {
@@ -3068,15 +3088,15 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
+      "Lounais-Suomen",
+      "Oulun"
+    ],
+    "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lapin"
-    ],
-    "police_missing": [
-      "Lounais-Suomen",
+      "Lapin",
       "Länsi-Uudenmaan",
-      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
     ],
@@ -3109,28 +3129,28 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-19T09:35:56.662669+00:00",
+  "window_start": "2026-10-19T18:23:04.982944+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 20,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 4,
-    "Itä-Suomen poliisilaitos": 32,
+    "Itä-Suomen poliisilaitos": 30,
     "Itä-Uudenmaan poliisilaitos": 19,
-    "Kaakkois-Suomen poliisilaitos": 9,
+    "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
-    "Lounais-Suomen poliisilaitos": 17,
+    "Lounais-Suomen poliisilaitos": 19,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 23,
+    "Oulun poliisilaitos": 24,
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 0,
-    "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 57,
+    "Sisä-Suomen poliisilaitos": 11,
+    "Keski-Suomen pelastuslaitos": 58,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 78
+    "Ilta-Sanomat": 80
   }
 }

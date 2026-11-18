@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-18T09:35:56.662669+00:00",
+  "updated": "2026-11-18T18:23:04.982944+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72516679/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-18T17:19:55+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisioperaatio Helsingin keskustassa",
+      "link": "https://www.is.fi/kotimaa/art-2000012422084.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-18T14:10:00+00:00",
+      "region": "Helsinki",
+      "description": "",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
+    {
+      "title": "Yksi kuoli nokka­kolarissa Kaarinassa – mies ajoi vastaan­tulevien kaistalla",
+      "link": "https://www.is.fi/turun-seutu/art-2000012421801.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-18T13:03:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Turussa tapon yrityksestä epäiltyä miestä esitetään vangittavaksi",
+      "link": "https://poliisi.fi/-/turussa-tapon-yrityksesta-epailtya-miesta-esitetaan-vangittavaksi",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-18T12:56:00+00:00",
+      "region": "Turku",
+      "description": "Turussa tapon yrityksestä epäiltyä miestä esitetään vangittavaksi",
+      "municipality": "Turku",
+      "province": "Varsinais-Suomi"
+    },
     {
       "title": "HS: Sairaalassa kajahti merkillinen kuulutus vaaratiedote­kokeilun jälkeen",
       "link": "https://www.is.fi/kotimaa/art-2000012420461.html",
@@ -182,6 +222,16 @@
       "province": "Etelä-Savo"
     },
     {
+      "title": "Poliisi pyytää vihjeitä tulipalon sytyttäjästä Turun Mikaelinkirkolla",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-vihjeita-tulipalon-sytyttajasta-turun-mikaelinkirkolla",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-17T06:45:00+00:00",
+      "region": "Turku",
+      "description": "Poliisi pyytää vihjeitä tulipalon sytyttäjästä Turun Mikaelinkirkolla",
+      "municipality": "Turku",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Postinjakajan murha­yöstä uusia tietoja – näin surmaaja saattoi paeta Vantaalla",
       "link": "https://www.is.fi/kotimaa/art-2000012416127.html",
       "source": "Ilta-Sanomat",
@@ -200,6 +250,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Kuusamossa sijoitusnuorten epäillään ryöstäneen henkilöauton käyttöönsä",
+      "link": "https://poliisi.fi/-/kuusamossa-sijoitusnuorten-epaillaan-ryostaneen-henkiloauton-kayttoonsa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-17T03:51:00+00:00",
+      "region": "Kuusamo",
+      "description": "Kuusamossa sijoitusnuorten epäillään ryöstäneen henkilöauton käyttöönsä",
+      "municipality": "Kuusamo",
+      "province": "Pohjois-Pohjanmaa"
     },
     {
       "title": "Helsingissä kadonnut mies löytynyt",
@@ -260,6 +320,16 @@
       "description": "",
       "municipality": "Kolari",
       "province": "Lappi"
+    },
+    {
+      "title": "Lounais-Suomen poliisi selvittää murtosarjaa – neljää esitetään vangittavaksi",
+      "link": "https://poliisi.fi/-/lounais-suomen-poliisi-selvittaa-murtosarjaa-neljaa-esitetaan-vangittavaksi",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-16T13:35:00+00:00",
+      "region": "",
+      "description": "Lounais-Suomen poliisi selvittää murtosarjaa – neljää esitetään vangittavaksi",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Poliisi kaipaa havaintoja liikennevahingosta",
