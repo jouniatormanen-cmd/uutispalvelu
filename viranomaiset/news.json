@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:48:46.200705+00:00",
+  "updated": "2026-11-18T01:56:41.458614+00:00",
   "items": [
     {
       "title": "Ex-naisystävänsä murhannut ja törkeästi raiskannut Ahti Kvist, 30, oikeudessa – peitti kasvonsa kuolemasta kertovalla lehdellä",
@@ -2885,7 +2885,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1117,
+  "newly_fetched": 1017,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -2907,21 +2907,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -3018,11 +3018,11 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
-      "Kaakkois-Suomen",
+      "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -3059,7 +3059,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-18T19:48:46.200705+00:00",
+  "window_start": "2026-10-19T01:56:41.458614+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 18,
     "Poliisi – valtakunnallinen RSS": 0,
