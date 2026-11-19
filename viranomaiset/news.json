@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-19T07:54:58.554727+00:00",
+  "updated": "2026-11-19T16:55:06.335081+00:00",
   "items": [
+    {
+      "title": "Poliisi on edennyt Mikkelin huumerikoskokonaisuuden tutkinnassa – tapaus siirtyy syyteharkintaan",
+      "link": "https://poliisi.fi/-/poliisi-on-edennyt-mikkelin-huumerikoskokonaisuuden-tutkinnassa-tapaus-siirtyy-syyteharkintaan",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-19T09:28:00+00:00",
+      "region": "Mikkeli",
+      "description": "Poliisi on edennyt Mikkelin huumerikoskokonaisuuden tutkinnassa – tapaus siirtyy syyteharkintaan",
+      "municipality": "Mikkeli",
+      "province": "Etelä-Savo"
+    },
     {
       "title": "Poliisi muistuttaa - vain selvänä auton rattiin pikkujoululiikenteessä",
       "link": "https://poliisi.fi/-/poliisi-muistuttaa-vain-selvana-auton-rattiin-pikkujoululiikenteessa",
@@ -2960,36 +2970,6 @@
       "description": "Pelastuslaitoksen mukaan kerrostalon ensimmäisen kerroksen asunnossa syttyi tulipalo. Savua levisi porrashuoneeseen, ja Hämeenkatua sekä Vapaudenkatua suljettiin pelastustöiden ajaksi. Kyseessä on lokakuun arkistotiedote.",
       "municipality": "Jyväskylä",
       "province": "Keski-Suomi"
-    },
-    {
-      "title": "Kello-Suomisen liiketilan murto lokakuun alussa",
-      "link": "https://poliisi.fi/-/kello-suomisen-liiketilan-murto-lokakuun-alussa",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-20T11:09:00+00:00",
-      "region": "",
-      "description": "Kello-Suomisen liiketilan murto lokakuun alussa",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Poliisin viikossa tappeluita, varkauksia ja mopomiitin valvontaa",
-      "link": "https://poliisi.fi/-/poliisin-viikossa-tappeluita-varkauksia-ja-mopomiitin-valvontaa",
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "date": "2026-10-20T10:16:00+00:00",
-      "region": "",
-      "description": "Viime viikolla Itä-Uudenmaan poliisin partioille välitetyissä tehtävissä näkyivät väkivalta ja varkausrikokset. Viikonloppuna osallistuttiin myös mopomiitin valvontaan.",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Väkivallanteko Hyvinkäällä",
-      "link": "https://poliisi.fi/-/vakivallanteko-hyvinkaalla",
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "date": "2026-10-20T09:20:00+00:00",
-      "region": "Hyvinkää",
-      "description": "Itä-Uudenmaan poliisissa on tutkittavana tiistaina 13.10 Hyvinkäällä tapahtunut vakava väkivallanteko, missä uhri sai sairaalahoitoa vaativia vammoja.",
-      "municipality": "Hyvinkää",
-      "province": "Uusimaa"
     }
   ],
   "sources": [
@@ -3015,7 +2995,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1118,
+  "newly_fetched": 1119,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3043,21 +3023,21 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Keskusrikospoliisi",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Keskusrikospoliisi",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lapin poliisilaitos",
@@ -3073,7 +3053,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -3097,9 +3077,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3128,7 +3108,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 366,
+      "fetched": 367,
       "feeds_checked": 1
     },
     {
@@ -3149,16 +3129,16 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Sisä-Suomen"
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen"
     ],
     "police_missing": [
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3189,13 +3169,13 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-20T07:54:58.554727+00:00",
+  "window_start": "2026-10-20T16:55:06.335081+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 20,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 4,
     "Itä-Suomen poliisilaitos": 31,
-    "Itä-Uudenmaan poliisilaitos": 19,
+    "Itä-Uudenmaan poliisilaitos": 17,
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
