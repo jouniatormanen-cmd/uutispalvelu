@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-19T00:35:31.130437+00:00",
+  "updated": "2026-11-19T07:54:58.554727+00:00",
   "items": [
+    {
+      "title": "Poliisi muistuttaa - vain selvänä auton rattiin pikkujoululiikenteessä",
+      "link": "https://poliisi.fi/-/poliisi-muistuttaa-vain-selvana-auton-rattiin-pikkujoululiikenteessa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-19T07:21:00+00:00",
+      "region": "",
+      "description": "Poliisi muistuttaa - vain selvänä auton rattiin pikkujoululiikenteessä",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kammokelin saldo: Useita ulosajoja",
+      "link": "https://www.is.fi/kotimaa/art-2000012422861.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-19T06:16:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kansanedustajan tytär mukana rajussa kuolonkolarissa – tällaisen rangaistuksen turmakuski, 19, sai",
+      "link": "https://www.is.fi/kotimaa/art-2000012420281.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-19T06:15:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72517145/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-19T05:03:04+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72516679/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -332,6 +372,16 @@
       "province": ""
     },
     {
+      "title": "Poliisi tutkii koulun pihalla tapahtunutta väkivaltarikosta Kangasalla",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-koulun-pihalla-tapahtunutta-vakivaltarikosta-kangasalla",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-16T13:34:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii koulun pihalla tapahtunutta väkivaltarikosta Kangasalla",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Poliisi kaipaa havaintoja liikennevahingosta",
       "link": "https://poliisi.fi/-/poliisi-kaipaa-havaintoja-liikennevahingosta",
       "source": "Oulun poliisilaitos",
@@ -378,6 +428,16 @@
       "date": "2026-11-15T14:27:00+00:00",
       "region": "Tampere",
       "description": "",
+      "municipality": "Tampere",
+      "province": "Pirkanmaa"
+    },
+    {
+      "title": "Autoilija törmäsi kahteen henkilöön suojatiellä Tampereella",
+      "link": "https://poliisi.fi/-/autoilija-tormasi-kahteen-henkiloon-suojatiella-tampereella",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-15T14:20:00+00:00",
+      "region": "Tampere",
+      "description": "Autoilija törmäsi kahteen henkilöön suojatiellä Tampereella",
       "municipality": "Tampere",
       "province": "Pirkanmaa"
     },
