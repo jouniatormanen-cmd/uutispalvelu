@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-20T12:49:07.735295+00:00",
+  "updated": "2026-11-20T20:50:47.876309+00:00",
   "items": [
+    {
+      "title": "Junaliikenne Seinäjoen ja Kokkolan välillä jatkuu",
+      "link": "https://www.is.fi/kotimaa/art-2000012428147.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-20T20:08:00+00:00",
+      "region": "Kokkola",
+      "description": "",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72523487/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-20T17:20:07+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72522995/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-20T13:33:21+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Tulipalo sahalla Lappeenrannassa",
+      "link": "https://www.is.fi/kotimaa/art-2000012427303.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-20T13:19:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Expressen: Ruotsalais­naisen epäillään joutuneen palkkamurhan uhriksi Filippiineillä",
       "link": "https://www.is.fi/kotimaa/art-2000012425927.html",
@@ -88,6 +128,16 @@
       "date": "2026-11-19T14:18:00+00:00",
       "region": "",
       "description": "Poliisi on tavoittanut yleisöilmoituksen perusteella etsimänsä törkeän ryöstön epäillyn",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja kahdesta liikenneonnettomuudesta Kannuksessa ja Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kahdesta-liikenneonnettomuudesta-kannuksessa-ja-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-19T14:15:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja kahdesta liikenneonnettomuudesta Kannuksessa ja Seinäjoella",
       "municipality": "",
       "province": ""
     },
@@ -482,6 +532,16 @@
       "province": "Lappi"
     },
     {
+      "title": "Henkilöauto ja eläinkuljetusrekka törmäsivät Maalahdessa – yksi loukkaantui vakavasti",
+      "link": "https://poliisi.fi/-/henkiloauto-ja-elainkuljetusrekka-tormasivat-maalahdessa-yksi-loukkaantui-vakavasti",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-16T14:46:00+00:00",
+      "region": "",
+      "description": "Henkilöauto ja eläinkuljetusrekka törmäsivät Maalahdessa – yksi loukkaantui vakavasti",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Lounais-Suomen poliisi selvittää murtosarjaa – neljää esitetään vangittavaksi",
       "link": "https://poliisi.fi/-/lounais-suomen-poliisi-selvittaa-murtosarjaa-neljaa-esitetaan-vangittavaksi",
       "source": "Lounais-Suomen poliisilaitos",
@@ -498,6 +558,16 @@
       "date": "2026-11-16T13:34:00+00:00",
       "region": "",
       "description": "Poliisi tutkii koulun pihalla tapahtunutta väkivaltarikosta Kangasalla",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii epäiltyä tuhotyötä Seinäjoella – havaintoja pyydetään",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-epailtya-tuhotyota-seinajoella-havaintoja-pyydetaan",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-16T11:26:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii epäiltyä tuhotyötä Seinäjoella – havaintoja pyydetään",
       "municipality": "",
       "province": ""
     },
@@ -3010,26 +3080,6 @@
       "description": "Vakava väkivaltarikos Savonlinnassa – kaksi miestä vangittu",
       "municipality": "Savonlinna",
       "province": "Etelä-Savo"
-    },
-    {
-      "title": "Häiriötilannetiedote",
-      "link": "https://www.sttinfo.fi/tiedote/72432831/hairiotilannetiedote?lang=fi",
-      "source": "Pirkanmaan pelastuslaitos",
-      "date": "2026-10-21T18:20:31+00:00",
-      "region": "",
-      "description": "",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Kaakkois-Suomessa 25 epäiltyä rattijuopumusta viikossa",
-      "link": "https://poliisi.fi/-/kaakkois-suomessa-25-epailtya-rattijuopumusta-viikossa",
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "date": "2026-10-21T13:03:00+00:00",
-      "region": "",
-      "description": "Kaakkois-Suomen poliisilaitoksen tehtävämäärä nousi viikolla 42 edellisiin viikkoihin verrattuna. Poliisi hoiti viikon aikana yhteensä 1 447 tehtävää, joista 575 oli poliisille annettuja tehtäviä ja 872 poliisin oma-aloitteisesti hoitamia tehtäviä. Tehtävämäärän kasvu muodostui lähes kokonaan oma-aloitteisista tehtävistä.",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -3055,7 +3105,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1120,
+  "newly_fetched": 1020,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3089,9 +3139,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -3107,13 +3157,13 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -3125,9 +3175,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
@@ -3188,17 +3238,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Kaakkois-Suomen",
-      "Lounais-Suomen",
+      "Pohjanmaan",
       "Sisä-Suomen"
     ],
     "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun",
-      "Pohjanmaan"
+      "Oulun"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3229,28 +3279,28 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-21T12:49:07.735295+00:00",
+  "window_start": "2026-10-21T20:50:47.876309+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 20,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 4,
     "Itä-Suomen poliisilaitos": 29,
     "Itä-Uudenmaan poliisilaitos": 18,
-    "Kaakkois-Suomen poliisilaitos": 8,
+    "Kaakkois-Suomen poliisilaitos": 7,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 21,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 26,
-    "Pohjanmaan poliisilaitos": 5,
+    "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 60,
+    "Keski-Suomen pelastuslaitos": 62,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
-    "Pirkanmaan pelastuslaitos": 2,
+    "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 85
+    "Ilta-Sanomat": 87
   }
 }

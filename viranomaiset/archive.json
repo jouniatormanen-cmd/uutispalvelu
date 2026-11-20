@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-20T12:49:07.735295+00:00",
+  "updated": "2026-11-20T20:50:47.876309+00:00",
   "items": [
+    {
+      "title": "Junaliikenne Seinäjoen ja Kokkolan välillä jatkuu",
+      "link": "https://www.is.fi/kotimaa/art-2000012428147.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-20T20:08:00+00:00",
+      "region": "Kokkola",
+      "description": "",
+      "municipality": "Kokkola",
+      "province": "Keski-Pohjanmaa"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72523487/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-20T17:20:07+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72522995/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-20T13:33:21+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Tulipalo sahalla Lappeenrannassa",
+      "link": "https://www.is.fi/kotimaa/art-2000012427303.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-20T13:19:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Expressen: Ruotsalais­naisen epäillään joutuneen palkkamurhan uhriksi Filippiineillä",
       "link": "https://www.is.fi/kotimaa/art-2000012425927.html",
@@ -88,6 +128,16 @@
       "date": "2026-11-19T14:18:00+00:00",
       "region": "",
       "description": "Poliisi on tavoittanut yleisöilmoituksen perusteella etsimänsä törkeän ryöstön epäillyn",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja kahdesta liikenneonnettomuudesta Kannuksessa ja Seinäjoella",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-kahdesta-liikenneonnettomuudesta-kannuksessa-ja-seinajoella",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-19T14:15:00+00:00",
+      "region": "",
+      "description": "Poliisi pyytää havaintoja kahdesta liikenneonnettomuudesta Kannuksessa ja Seinäjoella",
       "municipality": "",
       "province": ""
     },
@@ -482,6 +532,16 @@
       "province": "Lappi"
     },
     {
+      "title": "Henkilöauto ja eläinkuljetusrekka törmäsivät Maalahdessa – yksi loukkaantui vakavasti",
+      "link": "https://poliisi.fi/-/henkiloauto-ja-elainkuljetusrekka-tormasivat-maalahdessa-yksi-loukkaantui-vakavasti",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-16T14:46:00+00:00",
+      "region": "",
+      "description": "Henkilöauto ja eläinkuljetusrekka törmäsivät Maalahdessa – yksi loukkaantui vakavasti",
+      "municipality": "",
+      "province": ""
+    },
+    {
       "title": "Lounais-Suomen poliisi selvittää murtosarjaa – neljää esitetään vangittavaksi",
       "link": "https://poliisi.fi/-/lounais-suomen-poliisi-selvittaa-murtosarjaa-neljaa-esitetaan-vangittavaksi",
       "source": "Lounais-Suomen poliisilaitos",
@@ -498,6 +558,16 @@
       "date": "2026-11-16T13:34:00+00:00",
       "region": "",
       "description": "Poliisi tutkii koulun pihalla tapahtunutta väkivaltarikosta Kangasalla",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii epäiltyä tuhotyötä Seinäjoella – havaintoja pyydetään",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-epailtya-tuhotyota-seinajoella-havaintoja-pyydetaan",
+      "source": "Pohjanmaan poliisilaitos",
+      "date": "2026-11-16T11:26:00+00:00",
+      "region": "",
+      "description": "Poliisi tutkii epäiltyä tuhotyötä Seinäjoella – havaintoja pyydetään",
       "municipality": "",
       "province": ""
     },
