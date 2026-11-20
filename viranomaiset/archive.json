@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-20T04:06:02.134874+00:00",
+  "updated": "2026-11-20T12:49:07.735295+00:00",
   "items": [
+    {
+      "title": "Expressen: Ruotsalais­naisen epäillään joutuneen palkkamurhan uhriksi Filippiineillä",
+      "link": "https://www.is.fi/kotimaa/art-2000012425927.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-20T08:17:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72520899/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-20T05:16:07+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Törkeästä rattijuopumuksesta epäilty vastusti poliisia Oulussa",
       "link": "https://poliisi.fi/-/torkeasta-rattijuopumuksesta-epailty-vastusti-poliisia-oulussa",
@@ -18,6 +38,16 @@
       "date": "2026-11-19T23:41:00+00:00",
       "region": "Oripää",
       "description": "",
+      "municipality": "Oripää",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Poliisi kaipaa havaintoja Oripäästä kateissa olevasta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-kaipaa-havaintoja-oripaasta-kateissa-olevasta-miehesta",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-19T23:30:00+00:00",
+      "region": "Oripää",
+      "description": "Poliisi kaipaa havaintoja Oripäästä kateissa olevasta miehestä",
       "municipality": "Oripää",
       "province": "Varsinais-Suomi"
     },
@@ -90,6 +120,16 @@
       "description": "Poliisi muistuttaa - vain selvänä auton rattiin pikkujoululiikenteessä",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Törkeä rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/torkea-rattijuopumus-porissa-21",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-19T07:01:00+00:00",
+      "region": "Pori",
+      "description": "Törkeä rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
     },
     {
       "title": "Kammokelin saldo: Useita ulosajoja",

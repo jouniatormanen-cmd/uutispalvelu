@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-20T04:06:02.134874+00:00",
+  "updated": "2026-11-20T12:49:07.735295+00:00",
   "items": [
+    {
+      "title": "Expressen: Ruotsalais­naisen epäillään joutuneen palkkamurhan uhriksi Filippiineillä",
+      "link": "https://www.is.fi/kotimaa/art-2000012425927.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-20T08:17:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72520899/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-20T05:16:07+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Törkeästä rattijuopumuksesta epäilty vastusti poliisia Oulussa",
       "link": "https://poliisi.fi/-/torkeasta-rattijuopumuksesta-epailty-vastusti-poliisia-oulussa",
@@ -18,6 +38,16 @@
       "date": "2026-11-19T23:41:00+00:00",
       "region": "Oripää",
       "description": "",
+      "municipality": "Oripää",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Poliisi kaipaa havaintoja Oripäästä kateissa olevasta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-kaipaa-havaintoja-oripaasta-kateissa-olevasta-miehesta",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-19T23:30:00+00:00",
+      "region": "Oripää",
+      "description": "Poliisi kaipaa havaintoja Oripäästä kateissa olevasta miehestä",
       "municipality": "Oripää",
       "province": "Varsinais-Suomi"
     },
@@ -90,6 +120,16 @@
       "description": "Poliisi muistuttaa - vain selvänä auton rattiin pikkujoululiikenteessä",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Törkeä rattijuopumus Porissa",
+      "link": "https://poliisi.fi/-/torkea-rattijuopumus-porissa-21",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-19T07:01:00+00:00",
+      "region": "Pori",
+      "description": "Törkeä rattijuopumus Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
     },
     {
       "title": "Kammokelin saldo: Useita ulosajoja",
@@ -2990,36 +3030,6 @@
       "description": "Kaakkois-Suomen poliisilaitoksen tehtävämäärä nousi viikolla 42 edellisiin viikkoihin verrattuna. Poliisi hoiti viikon aikana yhteensä 1 447 tehtävää, joista 575 oli poliisille annettuja tehtäviä ja 872 poliisin oma-aloitteisesti hoitamia tehtäviä. Tehtävämäärän kasvu muodostui lähes kokonaan oma-aloitteisista tehtävistä.",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Poliisi epäilee Jyväskylän Hämeenkadun tulipaloa tahallaan sytytetyksi",
-      "link": "https://poliisi.fi/-/poliisi-epailee-jyvaskylan-hameenkadun-tulipaloa-tahallaan-sytytetyksi",
-      "source": "Sisä-Suomen poliisilaitos",
-      "date": "2026-10-21T11:24:00+00:00",
-      "region": "Jyväskylä",
-      "description": "Poliisi epäilee Jyväskylän Hämeenkadun tulipaloa tahallaan sytytetyksi",
-      "municipality": "Jyväskylä",
-      "province": "Keski-Suomi"
-    },
-    {
-      "title": "Klarna- ja Google Meet -huijaukset edelleen vahvasti esillä itäsuomalaisella petosrintamalla",
-      "link": "https://poliisi.fi/-/klarna-ja-google-meet-huijaukset-edelleen-vahvasti-esilla-itasuomalaisella-petosrintamalla",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-21T08:14:00+00:00",
-      "region": "",
-      "description": "Klarna- ja Google Meet -huijaukset edelleen vahvasti esillä itäsuomalaisella petosrintamalla",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Poliisi sai valmiiksi Joensuun Rantakylän ryöstöjen esitutkinnan – rikoksista epäillyt ovat 14–15-vuotiaita",
-      "link": "https://poliisi.fi/-/poliisi-sai-valmiiksi-joensuun-rantakylan-ryostojen-esitutkinnan-rikoksista-epaillyt-ovat-14-15-vuotiaita",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-21T06:24:00+00:00",
-      "region": "Joensuu",
-      "description": "Poliisi sai valmiiksi Joensuun Rantakylän ryöstöjen esitutkinnan – rikoksista epäillyt ovat 14–15-vuotiaita",
-      "municipality": "Joensuu",
-      "province": "Pohjois-Karjala"
     }
   ],
   "sources": [
@@ -3045,7 +3055,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 919,
+  "newly_fetched": 1120,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3079,9 +3089,9 @@
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -3097,9 +3107,9 @@
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -3109,9 +3119,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -3127,9 +3137,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3158,7 +3168,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 367,
+      "fetched": 368,
       "feeds_checked": 1
     },
     {
@@ -3178,17 +3188,17 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Oulun"
+      "Kaakkois-Suomen",
+      "Lounais-Suomen",
+      "Sisä-Suomen"
     ],
     "police_missing": [
       "Itä-Suomen",
       "Itä-Uudenmaan",
-      "Kaakkois-Suomen",
       "Lapin",
-      "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Oulun",
+      "Pohjanmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3219,28 +3229,28 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-21T04:06:02.134874+00:00",
+  "window_start": "2026-10-21T12:49:07.735295+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 20,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 4,
-    "Itä-Suomen poliisilaitos": 31,
+    "Itä-Suomen poliisilaitos": 29,
     "Itä-Uudenmaan poliisilaitos": 18,
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 2,
     "Lapin poliisilaitos": 4,
-    "Lounais-Suomen poliisilaitos": 19,
+    "Lounais-Suomen poliisilaitos": 21,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 26,
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 0,
-    "Sisä-Suomen poliisilaitos": 13,
-    "Keski-Suomen pelastuslaitos": 59,
+    "Sisä-Suomen poliisilaitos": 12,
+    "Keski-Suomen pelastuslaitos": 60,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 2,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 84
+    "Ilta-Sanomat": 85
   }
 }
