@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-19T23:20:06.741560+00:00",
+  "updated": "2026-11-20T04:06:02.134874+00:00",
   "items": [
+    {
+      "title": "Törkeästä rattijuopumuksesta epäilty vastusti poliisia Oulussa",
+      "link": "https://poliisi.fi/-/torkeasta-rattijuopumuksesta-epailty-vastusti-poliisia-oulussa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-20T02:14:00+00:00",
+      "region": "Oulu",
+      "description": "Törkeästä rattijuopumuksesta epäilty vastusti poliisia Oulussa",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
+    },
+    {
+      "title": "Poliisi etsii Oripäässä kadonnutta 65-vuotiasta miestä",
+      "link": "https://www.is.fi/kotimaa/art-2000012425420.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-19T23:41:00+00:00",
+      "region": "Oripää",
+      "description": "",
+      "municipality": "Oripää",
+      "province": "Varsinais-Suomi"
+    },
     {
       "title": "Vakava liikenne­onnettomuus Vantaalla – rikosepäily",
       "link": "https://www.is.fi/kotimaa/art-2000012425312.html",
@@ -30,6 +50,26 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Poliisi on tavoittanut yleisöilmoituksen perusteella etsimänsä törkeän ryöstön epäillyn",
+      "link": "https://poliisi.fi/-/poliisi-on-tavoittanut-yleisoilmoituksen-perusteella-etsimansa-torkean-ryoston-epaillyn",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-19T14:18:00+00:00",
+      "region": "",
+      "description": "Poliisi on tavoittanut yleisöilmoituksen perusteella etsimänsä törkeän ryöstön epäillyn",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi kaipaa havaintoja Oulussa tapahtuneesta törkeästä ryöstöstä",
+      "link": "https://poliisi.fi/-/poliisi-kaipaa-havaintoja-oulussa-tapahtuneesta-torkeasta-ryostosta",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-19T12:53:00+00:00",
+      "region": "Oulu",
+      "description": "Poliisi kaipaa havaintoja Oulussa tapahtuneesta törkeästä ryöstöstä",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
     },
     {
       "title": "Poliisi on edennyt Mikkelin huumerikoskokonaisuuden tutkinnassa – tapaus siirtyy syyteharkintaan",

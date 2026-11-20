@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-19T23:20:06.741560+00:00",
+  "updated": "2026-11-20T04:06:02.134874+00:00",
   "items": [
+    {
+      "title": "Törkeästä rattijuopumuksesta epäilty vastusti poliisia Oulussa",
+      "link": "https://poliisi.fi/-/torkeasta-rattijuopumuksesta-epailty-vastusti-poliisia-oulussa",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-20T02:14:00+00:00",
+      "region": "Oulu",
+      "description": "Törkeästä rattijuopumuksesta epäilty vastusti poliisia Oulussa",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
+    },
+    {
+      "title": "Poliisi etsii Oripäässä kadonnutta 65-vuotiasta miestä",
+      "link": "https://www.is.fi/kotimaa/art-2000012425420.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-19T23:41:00+00:00",
+      "region": "Oripää",
+      "description": "",
+      "municipality": "Oripää",
+      "province": "Varsinais-Suomi"
+    },
     {
       "title": "Vakava liikenne­onnettomuus Vantaalla – rikosepäily",
       "link": "https://www.is.fi/kotimaa/art-2000012425312.html",
@@ -30,6 +50,26 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Poliisi on tavoittanut yleisöilmoituksen perusteella etsimänsä törkeän ryöstön epäillyn",
+      "link": "https://poliisi.fi/-/poliisi-on-tavoittanut-yleisoilmoituksen-perusteella-etsimansa-torkean-ryoston-epaillyn",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-19T14:18:00+00:00",
+      "region": "",
+      "description": "Poliisi on tavoittanut yleisöilmoituksen perusteella etsimänsä törkeän ryöstön epäillyn",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi kaipaa havaintoja Oulussa tapahtuneesta törkeästä ryöstöstä",
+      "link": "https://poliisi.fi/-/poliisi-kaipaa-havaintoja-oulussa-tapahtuneesta-torkeasta-ryostosta",
+      "source": "Oulun poliisilaitos",
+      "date": "2026-11-19T12:53:00+00:00",
+      "region": "Oulu",
+      "description": "Poliisi kaipaa havaintoja Oulussa tapahtuneesta törkeästä ryöstöstä",
+      "municipality": "Oulu",
+      "province": "Pohjois-Pohjanmaa"
     },
     {
       "title": "Poliisi on edennyt Mikkelin huumerikoskokonaisuuden tutkinnassa – tapaus siirtyy syyteharkintaan",
@@ -2980,16 +3020,6 @@
       "description": "Poliisi sai valmiiksi Joensuun Rantakylän ryöstöjen esitutkinnan – rikoksista epäillyt ovat 14–15-vuotiaita",
       "municipality": "Joensuu",
       "province": "Pohjois-Karjala"
-    },
-    {
-      "title": "Liikenneonnettomuus Limingassa",
-      "link": "https://poliisi.fi/-/liikenneonnettomuus-limingassa-4",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-21T00:09:00+00:00",
-      "region": "",
-      "description": "Liikenneonnettomuus Limingassa",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -3015,7 +3045,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1019,
+  "newly_fetched": 919,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3037,15 +3067,15 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -3079,9 +3109,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -3148,15 +3178,15 @@
     "police_active": [
       "Helsingin",
       "Hämeen",
-      "Itä-Suomen",
-      "Itä-Uudenmaan"
+      "Oulun"
     ],
     "police_missing": [
+      "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
     ],
@@ -3189,7 +3219,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-20T23:20:06.741560+00:00",
+  "window_start": "2026-10-21T04:06:02.134874+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 20,
     "Poliisi – valtakunnallinen RSS": 0,
@@ -3201,7 +3231,7 @@
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 19,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 24,
+    "Oulun poliisilaitos": 26,
     "Pohjanmaan poliisilaitos": 5,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 13,
@@ -3211,6 +3241,6 @@
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 83
+    "Ilta-Sanomat": 84
   }
 }
