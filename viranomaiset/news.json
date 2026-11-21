@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:33:03.877003+00:00",
+  "updated": "2026-11-21T21:53:16.176653+00:00",
   "items": [
     {
       "title": "Rajavartiolaitos: Tulipaloa ei ole saatu hallintaan",
@@ -3125,7 +3125,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1320,
+  "newly_fetched": 1720,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3153,15 +3153,15 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -3171,9 +3171,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -3189,9 +3189,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -3259,15 +3259,15 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Lounais-Suomen",
-      "Sisä-Suomen"
-    ],
-    "police_missing": [
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
-      "Länsi-Uudenmaan",
+      "Lounais-Suomen",
       "Oulun",
+      "Sisä-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan",
       "Pohjanmaan"
     ],
     "rescue_active": [
@@ -3299,7 +3299,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-22T16:33:03.877003+00:00",
+  "window_start": "2026-10-22T21:53:16.176653+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 19,
     "Poliisi – valtakunnallinen RSS": 0,
