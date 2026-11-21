@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:50:47.876309+00:00",
+  "updated": "2026-11-21T01:52:48.594361+00:00",
   "items": [
     {
       "title": "Junaliikenne Seinäjoen ja Kokkolan välillä jatkuu",
@@ -40,6 +40,16 @@
       "description": "",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Raju ulosajo eilen illalla Vantaalla",
+      "link": "https://poliisi.fi/-/raju-ulosajo-eilen-illalla-vantaalla",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-11-20T08:27:00+00:00",
+      "region": "Vantaa",
+      "description": "Vantaalla Hämeenlinnanväylällä, Martinkyläntien liittymän kohdalla pohjoisen suuntaan menevillä kaistoilla tapahtui eilen 19.11 illalla raju ulosajo, jossa henkilöauton kuljettaja, reilu parikymppinen mies menetti kuljettamansa henkilöauton hallinnan.",
+      "municipality": "Vantaa",
+      "province": "Uusimaa"
     },
     {
       "title": "Expressen: Ruotsalais­naisen epäillään joutuneen palkkamurhan uhriksi Filippiineillä",
