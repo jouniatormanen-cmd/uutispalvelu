@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:53:16.176653+00:00",
+  "updated": "2026-11-22T01:45:33.786809+00:00",
   "items": [
     {
       "title": "Rajavartiolaitos: Tulipaloa ei ole saatu hallintaan",
@@ -3125,7 +3125,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1720,
+  "newly_fetched": 1520,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3183,7 +3183,7 @@
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "status": "virhe: HTTP Error 403: Forbidden",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -3201,15 +3201,15 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3263,12 +3263,12 @@
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
-      "Oulun",
-      "Sisä-Suomen"
+      "Oulun"
     ],
     "police_missing": [
       "Länsi-Uudenmaan",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3299,7 +3299,7 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-22T21:53:16.176653+00:00",
+  "window_start": "2026-10-23T01:45:33.786809+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 19,
     "Poliisi – valtakunnallinen RSS": 0,
