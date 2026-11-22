@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-22T08:59:39.700060+00:00",
+  "updated": "2026-11-22T16:56:03.850166+00:00",
   "items": [
+    {
+      "title": "Ratkaiseva hetki on käsillä venäläisaluksen pelastusoperaatiossa – asiantuntija pelkää tulevaa",
+      "link": "https://www.is.fi/kotimaa/art-2000012428606.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-22T16:48:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Lapin poliisia työllistivät pahoinpitelyt ja rattijuopot",
       "link": "https://poliisi.fi/-/lapin-poliisia-tyollistivat-pahoinpitelyt-ja-rattijuopot",
@@ -3050,56 +3060,6 @@
       "description": "Järjestyshäiriöitä Oulun keskustassa",
       "municipality": "Oulu",
       "province": "Pohjois-Pohjanmaa"
-    },
-    {
-      "title": "Keski-Suomen pelastuslaitos, Mediatiedote",
-      "link": "https://www.sttinfo.fi/tiedote/72440494/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
-      "source": "Keski-Suomen pelastuslaitos",
-      "date": "2026-10-23T16:07:32+00:00",
-      "region": "",
-      "description": "",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Hoivakotikuolemaan liittyvä rikosepäily syyteharkintaan",
-      "link": "https://poliisi.fi/-/hoivakotikuolemaan-liittyva-rikosepaily-syyteharkintaan",
-      "source": "Lounais-Suomen poliisilaitos",
-      "date": "2026-10-23T12:38:00+00:00",
-      "region": "",
-      "description": "Hoivakotikuolemaan liittyvä rikosepäily syyteharkintaan",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Havaintopyyntö Kouvolassa polttoainetta perävaunussa kuljettaneesta ajoneuvosta",
-      "link": "https://poliisi.fi/-/havaintopyynto-kouvolassa-polttoainetta-peravaunussa-kuljettaneesta-ajoneuvosta",
-      "source": "Kaakkois-Suomen poliisilaitos",
-      "date": "2026-10-23T11:55:00+00:00",
-      "region": "Kouvola",
-      "description": "Kaakkois-Suomen poliisilaitos pyytää havaintoja liittyen tapaukseen, jossa ajoneuvo suistui 22. syyskuuta tieltä Kouvolan Keltakankaalla, Kenraalintien ja Varastosuoran risteyksessä. Ajoneuvon vetämästä perävaunusta putosi suistumisen seurauksena tien pientareelle kolme tynnyriä sekä kuution mallinen IBC-kontti, jotka sisälsivät polttoainetta.",
-      "municipality": "Kouvola",
-      "province": "Kymenlaakso"
-    },
-    {
-      "title": "Hirvikolari Joensuussa",
-      "link": "https://poliisi.fi/-/hirvikolari-joensuussa-5",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-23T11:22:00+00:00",
-      "region": "Joensuu",
-      "description": "Hirvikolari Joensuussa",
-      "municipality": "Joensuu",
-      "province": "Pohjois-Karjala"
-    },
-    {
-      "title": "Pakenevan seuranta päättyi epäillyn kiinniottoon",
-      "link": "https://poliisi.fi/-/pakenevan-seuranta-paattyi-epaillyn-kiinniottoon",
-      "source": "Itä-Uudenmaan poliisilaitos",
-      "date": "2026-10-23T10:34:00+00:00",
-      "region": "Vantaa",
-      "description": "Itä-Uudenmaan poliisilla oli tänään perjantaina 23.10 Vantaalta kehä III:lta käynnistynyt ja Tammiston kauppatielle päättynyt takaa-ajo-tehtävä. Tehtävälle osallistui useita poliisin partioita.",
-      "municipality": "Vantaa",
-      "province": "Uusimaa"
     }
   ],
   "sources": [
@@ -3125,7 +3085,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1720,
+  "newly_fetched": 1520,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3195,9 +3155,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Poliisihallitus",
@@ -3207,9 +3167,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3263,12 +3223,12 @@
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
-      "Oulun",
-      "Pohjanmaan",
-      "Sisä-Suomen"
+      "Oulun"
     ],
     "police_missing": [
-      "Länsi-Uudenmaan"
+      "Länsi-Uudenmaan",
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3299,28 +3259,28 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-23T08:59:39.700060+00:00",
+  "window_start": "2026-10-23T16:56:03.850166+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 19,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 3,
-    "Itä-Suomen poliisilaitos": 28,
-    "Itä-Uudenmaan poliisilaitos": 19,
-    "Kaakkois-Suomen poliisilaitos": 7,
+    "Itä-Suomen poliisilaitos": 27,
+    "Itä-Uudenmaan poliisilaitos": 18,
+    "Kaakkois-Suomen poliisilaitos": 6,
     "Keskusrikospoliisi": 1,
     "Lapin poliisilaitos": 6,
-    "Lounais-Suomen poliisilaitos": 22,
+    "Lounais-Suomen poliisilaitos": 21,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 25,
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 65,
+    "Keski-Suomen pelastuslaitos": 64,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 89
+    "Ilta-Sanomat": 90
   }
 }
