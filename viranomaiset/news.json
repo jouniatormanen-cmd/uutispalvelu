@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-22T01:45:33.786809+00:00",
+  "updated": "2026-11-22T08:59:39.700060+00:00",
   "items": [
+    {
+      "title": "Lapin poliisia työllistivät pahoinpitelyt ja rattijuopot",
+      "link": "https://poliisi.fi/-/lapin-poliisia-tyollistivat-pahoinpitelyt-ja-rattijuopot",
+      "source": "Lapin poliisilaitos",
+      "date": "2026-11-22T08:30:00+00:00",
+      "region": "",
+      "description": "Lapin poliisia työllistivät pahoinpitelyt ja rattijuopot",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72524867/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-22T04:59:15+00:00",
+      "region": "",
+      "description": "Mediatiedote (Koonti Keski-Suomen pelastuslaitoksen tehtävistä 21.11.2026 kello 19.00-22.11.2026 kello 07.00)",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Rajavartiolaitos: Tulipaloa ei ole saatu hallintaan",
       "link": "https://www.is.fi/kotimaa/art-2000012428794.html",
@@ -3080,26 +3100,6 @@
       "description": "Itä-Uudenmaan poliisilla oli tänään perjantaina 23.10 Vantaalta kehä III:lta käynnistynyt ja Tammiston kauppatielle päättynyt takaa-ajo-tehtävä. Tehtävälle osallistui useita poliisin partioita.",
       "municipality": "Vantaa",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Asikkalasta vuonna 2024 löytynyt radioaktiivinen esine osoittautui rikastetuksi uraaniksi",
-      "link": "https://poliisi.fi/-/asikkalasta-vuonna-2024-loytynyt-radioaktiivinen-esine-osoittautui-rikastetuksi-uraaniksi",
-      "source": "Hämeen poliisilaitos",
-      "date": "2026-10-23T07:43:00+00:00",
-      "region": "Asikkala",
-      "description": "Asikkalasta vuonna 2024 löytynyt radioaktiivinen esine osoittautui rikastetuksi uraaniksi",
-      "municipality": "Asikkala",
-      "province": "Päijät-Häme"
-    },
-    {
-      "title": "Tekoäly nopeuttaa haavoittuvuuksien löytymistä – kriittiset PHP-haavoittuvuudet aiheuttavat palvelukatkoja",
-      "link": "https://www.traficom.fi/fi/uutiset/tekoaly-nopeuttaa-haavoittuvuuksien-loytymista-kriittiset-php-haavoittuvuudet-aiheuttavat-palvelukatkoja?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "source": "Traficom",
-      "date": "2026-10-23T06:58:14+00:00",
-      "region": "",
-      "description": "Traficomin mukaan tietoturvahaavoittuvuuksia löydetään ennätystahtia. Kehitys edellyttää organisaatioilta entistä nopeampaa reagointia.",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -3125,7 +3125,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1520,
+  "newly_fetched": 1720,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3195,9 +3195,9 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
@@ -3207,9 +3207,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3263,12 +3263,12 @@
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
-      "Oulun"
-    ],
-    "police_missing": [
-      "Länsi-Uudenmaan",
+      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3299,23 +3299,23 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-23T01:45:33.786809+00:00",
+  "window_start": "2026-10-23T08:59:39.700060+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 19,
     "Poliisi – valtakunnallinen RSS": 0,
-    "Hämeen poliisilaitos": 4,
+    "Hämeen poliisilaitos": 3,
     "Itä-Suomen poliisilaitos": 28,
     "Itä-Uudenmaan poliisilaitos": 19,
     "Kaakkois-Suomen poliisilaitos": 7,
     "Keskusrikospoliisi": 1,
-    "Lapin poliisilaitos": 5,
+    "Lapin poliisilaitos": 6,
     "Lounais-Suomen poliisilaitos": 22,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 25,
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 64,
+    "Keski-Suomen pelastuslaitos": 65,
     "Helsingin pelastuslaitos": 0,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 1,
