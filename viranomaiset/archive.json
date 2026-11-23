@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-23T02:45:48.151499+00:00",
+  "updated": "2026-11-23T11:28:19.348439+00:00",
   "items": [
+    {
+      "title": "Potilastietojärjestelmässä toimintahäiriöitä Keski-Suomen hyvinvointialueella",
+      "link": "https://www.sttinfo.fi/tiedote/72527307/potilastietojarjestelmassa-toimintahairioita-keski-suomen-hyvinvointialueella?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T10:02:05+00:00",
+      "region": "",
+      "description": "Keski-Suomen hyvinvointialueen käyttämässä potilastietojärjestelmässä on maanantaina 23.11. ilmennyt koko hyvinvointialuetta koskeva häiriö. Häiriö havaittiin järjestelmän viikonloppuisen versiopäivityksen jälkeen.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Nurmijärveltä kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-nurmijarvelta-kadonneesta-miehesta",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-11-23T09:37:00+00:00",
+      "region": "",
+      "description": "Itä-Uudenmaan poliisi pyytää havaintoja Nurmijärveltä Hongisojalta kadonneesta 27-vuotiaasta miehestä. Mies on kadonnut lauantaina 21.11 klo 21 jälkeen.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72526538/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T07:52:06+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Törkeitä rattijuopumuksia Porissa",
+      "link": "https://poliisi.fi/-/torkeita-rattijuopumuksia-porissa-4",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-23T07:19:00+00:00",
+      "region": "Pori",
+      "description": "Törkeitä rattijuopumuksia Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
+      "title": "Oranssit päivät 25.11.–10.12. nostaa esiin naisiin kohdistuvaa väkivaltaa",
+      "link": "https://www.sttinfo.fi/tiedote/72525984/oranssit-paivat-2511-1012-nostaa-esiin-naisiin-kohdistuvaa-vakivaltaa?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T06:31:05+00:00",
+      "region": "Jyväskylä",
+      "description": "Oranssit valot syttyvät naisiin kohdistuvan väkivallan lopettamisen puolesta, kun Keski-Suomen hyvinvointialue, Jyväskylän kaupunki ja useat muut alueen toimijat osallistuvat maailmanlaajuiseen YK:n Oranssit päivät -kampanjaan. Kampanjan tarkoituksena on lisätä tietoisuutta naisiin kohdistuvasta väkivallasta sekä tukea työtä väkivallan ehkäisemiseksi.",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72525890/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T05:11:56+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Sparta II alukseen liittyvä pelastustoimen varautumistehtävä Suomenlahdella on päättynyt",
       "link": "https://www.sttinfo.fi/tiedote/72525266/sparta-ii-alukseen-liittyva-pelastustoimen-varautumistehtava-suomenlahdella-on-paattynyt?lang=fi",

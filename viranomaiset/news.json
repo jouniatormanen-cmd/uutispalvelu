@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-23T02:45:48.151499+00:00",
+  "updated": "2026-11-23T11:28:19.348439+00:00",
   "items": [
+    {
+      "title": "Potilastietojärjestelmässä toimintahäiriöitä Keski-Suomen hyvinvointialueella",
+      "link": "https://www.sttinfo.fi/tiedote/72527307/potilastietojarjestelmassa-toimintahairioita-keski-suomen-hyvinvointialueella?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T10:02:05+00:00",
+      "region": "",
+      "description": "Keski-Suomen hyvinvointialueen käyttämässä potilastietojärjestelmässä on maanantaina 23.11. ilmennyt koko hyvinvointialuetta koskeva häiriö. Häiriö havaittiin järjestelmän viikonloppuisen versiopäivityksen jälkeen.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pyytää havaintoja Nurmijärveltä kadonneesta miehestä",
+      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-nurmijarvelta-kadonneesta-miehesta",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-11-23T09:37:00+00:00",
+      "region": "",
+      "description": "Itä-Uudenmaan poliisi pyytää havaintoja Nurmijärveltä Hongisojalta kadonneesta 27-vuotiaasta miehestä. Mies on kadonnut lauantaina 21.11 klo 21 jälkeen.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72526538/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T07:52:06+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Törkeitä rattijuopumuksia Porissa",
+      "link": "https://poliisi.fi/-/torkeita-rattijuopumuksia-porissa-4",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-23T07:19:00+00:00",
+      "region": "Pori",
+      "description": "Törkeitä rattijuopumuksia Porissa",
+      "municipality": "Pori",
+      "province": "Satakunta"
+    },
+    {
+      "title": "Oranssit päivät 25.11.–10.12. nostaa esiin naisiin kohdistuvaa väkivaltaa",
+      "link": "https://www.sttinfo.fi/tiedote/72525984/oranssit-paivat-2511-1012-nostaa-esiin-naisiin-kohdistuvaa-vakivaltaa?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T06:31:05+00:00",
+      "region": "Jyväskylä",
+      "description": "Oranssit valot syttyvät naisiin kohdistuvan väkivallan lopettamisen puolesta, kun Keski-Suomen hyvinvointialue, Jyväskylän kaupunki ja useat muut alueen toimijat osallistuvat maailmanlaajuiseen YK:n Oranssit päivät -kampanjaan. Kampanjan tarkoituksena on lisätä tietoisuutta naisiin kohdistuvasta väkivallasta sekä tukea työtä väkivallan ehkäisemiseksi.",
+      "municipality": "Jyväskylä",
+      "province": "Keski-Suomi"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72525890/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-23T05:11:56+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Sparta II alukseen liittyvä pelastustoimen varautumistehtävä Suomenlahdella on päättynyt",
       "link": "https://www.sttinfo.fi/tiedote/72525266/sparta-ii-alukseen-liittyva-pelastustoimen-varautumistehtava-suomenlahdella-on-paattynyt?lang=fi",
@@ -3040,56 +3100,6 @@
       "description": "Mies on löytynyt ja uutinen on kokonaan päivitetty. ]]>",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Epäiltyjä rattijuopumuksia Savossa",
-      "link": "https://poliisi.fi/-/epailtyja-rattijuopumuksia-savossa",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-24T09:09:00+00:00",
-      "region": "",
-      "description": "Epäiltyjä rattijuopumuksia Savossa",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Pahoinpitelyt työllistivät poliisia perjantain ja lauantain välisenä yönä Meri-Lapissa ja Rovaniemellä",
-      "link": "https://poliisi.fi/-/pahoinpitelyt-tyollistivat-poliisia-perjantain-ja-lauantain-valisena-yona-meri-lapissa-ja-rovaniemella",
-      "source": "Lapin poliisilaitos",
-      "date": "2026-10-24T07:41:00+00:00",
-      "region": "",
-      "description": "Pahoinpitelyt työllistivät poliisia perjantain ja lauantain välisenä yönä Meri-Lapissa ja Rovaniemellä",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Joensuussa epäilty törkeä rattijuopumus",
-      "link": "https://poliisi.fi/-/joensuussa-epailty-torkea-rattijuopumus-3",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-24T04:44:00+00:00",
-      "region": "Joensuu",
-      "description": "Joensuussa epäilty törkeä rattijuopumus",
-      "municipality": "Joensuu",
-      "province": "Pohjois-Karjala"
-    },
-    {
-      "title": "Keski-Suomen pelastuslaitos mediatiedote",
-      "link": "https://www.sttinfo.fi/tiedote/72440885/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
-      "source": "Keski-Suomen pelastuslaitos",
-      "date": "2026-10-24T04:05:09+00:00",
-      "region": "",
-      "description": "",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Järjestyshäiriöitä Oulun keskustassa",
-      "link": "https://poliisi.fi/-/jarjestyshairioita-oulun-keskustassa",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-24T02:51:00+00:00",
-      "region": "Oulu",
-      "description": "Järjestyshäiriöitä Oulun keskustassa",
-      "municipality": "Oulu",
-      "province": "Pohjois-Pohjanmaa"
     }
   ],
   "sources": [
@@ -3115,7 +3125,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1720,
+  "newly_fetched": 1521,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3179,9 +3189,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -3197,9 +3207,9 @@
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3228,7 +3238,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 368,
+      "fetched": 369,
       "feeds_checked": 1
     },
     {
@@ -3252,13 +3262,13 @@
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
-      "Lounais-Suomen",
-      "Oulun",
-      "Sisä-Suomen"
+      "Lounais-Suomen"
     ],
     "police_missing": [
       "Länsi-Uudenmaan",
-      "Pohjanmaan"
+      "Oulun",
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3289,23 +3299,23 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-24T02:45:48.151499+00:00",
+  "window_start": "2026-10-24T11:28:19.348439+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 19,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 3,
-    "Itä-Suomen poliisilaitos": 27,
-    "Itä-Uudenmaan poliisilaitos": 18,
+    "Itä-Suomen poliisilaitos": 25,
+    "Itä-Uudenmaan poliisilaitos": 19,
     "Kaakkois-Suomen poliisilaitos": 6,
     "Keskusrikospoliisi": 1,
-    "Lapin poliisilaitos": 6,
-    "Lounais-Suomen poliisilaitos": 21,
+    "Lapin poliisilaitos": 5,
+    "Lounais-Suomen poliisilaitos": 22,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 25,
+    "Oulun poliisilaitos": 24,
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 66,
+    "Keski-Suomen pelastuslaitos": 69,
     "Helsingin pelastuslaitos": 1,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 1,
