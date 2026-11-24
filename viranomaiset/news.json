@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-23T22:49:15.701117+00:00",
+  "updated": "2026-11-24T06:35:04.578075+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72530510/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-24T05:03:18+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72530184/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -3140,36 +3150,6 @@
       "description": "Ulosajo Enonkoskella",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
-      "link": "https://www.sttinfo.fi/tiedote/72441443/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
-      "source": "Keski-Suomen pelastuslaitos",
-      "date": "2026-10-25T04:58:28+00:00",
-      "region": "",
-      "description": "",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Joensuussa kaksi törkeää rattijuopumusta",
-      "link": "https://poliisi.fi/-/joensuussa-kaksi-torkeaa-rattijuopumusta",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-25T04:52:00+00:00",
-      "region": "Joensuu",
-      "description": "Joensuussa kaksi törkeää rattijuopumusta",
-      "municipality": "Joensuu",
-      "province": "Pohjois-Karjala"
-    },
-    {
-      "title": "Nujakointia Oulussa ja törkeä rattijuopumus Paltamossa",
-      "link": "https://poliisi.fi/-/nujakointia-oulussa-ja-torkea-rattijuopumus-paltamossa",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-25T02:37:00+00:00",
-      "region": "",
-      "description": "Nujakointia Oulussa ja törkeä rattijuopumus Paltamossa",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -3195,7 +3175,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1521,
+  "newly_fetched": 1320,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3223,15 +3203,15 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Kaakkois-Suomen poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
@@ -3241,9 +3221,9 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
@@ -3259,9 +3239,9 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Pohjanmaan poliisilaitos",
@@ -3271,15 +3251,15 @@
     },
     {
       "source": "Poliisihallitus",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3308,7 +3288,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 369,
+      "fetched": 368,
       "feeds_checked": 1
     },
     {
@@ -3329,16 +3309,16 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Lapin",
+      "Kaakkois-Suomen",
       "Lounais-Suomen",
-      "Sisä-Suomen"
+      "Oulun"
     ],
     "police_missing": [
-      "Kaakkois-Suomen",
+      "Itä-Uudenmaan",
+      "Lapin",
       "Länsi-Uudenmaan",
-      "Oulun",
-      "Pohjanmaan"
+      "Pohjanmaan",
+      "Sisä-Suomen"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3369,19 +3349,19 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-24T22:49:15.701117+00:00",
+  "window_start": "2026-10-25T06:35:04.578075+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 19,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 3,
-    "Itä-Suomen poliisilaitos": 25,
+    "Itä-Suomen poliisilaitos": 24,
     "Itä-Uudenmaan poliisilaitos": 19,
     "Kaakkois-Suomen poliisilaitos": 6,
     "Keskusrikospoliisi": 1,
     "Lapin poliisilaitos": 5,
     "Lounais-Suomen poliisilaitos": 22,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 24,
+    "Oulun poliisilaitos": 23,
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
