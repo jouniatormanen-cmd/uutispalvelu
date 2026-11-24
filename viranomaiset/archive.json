@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-24T06:35:04.578075+00:00",
+  "updated": "2026-11-24T18:18:10.120108+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitoksen mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72533950/keski-suomen-pelastuslaitoksen-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-24T17:00:02+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Iäkäs nainen kuoli tulipalossa Paimiossa",
+      "link": "https://www.is.fi/kotimaa/art-2000012434934.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-24T15:58:00+00:00",
+      "region": "Paimio",
+      "description": "",
+      "municipality": "Paimio",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Itä-Suomen poliisi pyytää havaintoja Iisalmessa tapahtuneeseen henkilöauton ja polkupyöräilijän törmäykseen liittyen",
+      "link": "https://poliisi.fi/-/ita-suomen-poliisi-pyytaa-havaintoja-iisalmessa-tapahtuneeseen-henkiloauton-ja-polkupyorailijan-tormaykseen-liittyen",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-24T13:31:00+00:00",
+      "region": "",
+      "description": "Itä-Suomen poliisi pyytää havaintoja Iisalmessa tapahtuneeseen henkilöauton ja polkupyöräilijän törmäykseen liittyen",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii epäiltyä salakatselua Imatralla",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-epailtya-salakatselua-imatralla",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-24T11:45:00+00:00",
+      "region": "Imatra",
+      "description": "Kaakkois-Suomen poliisilaitos tutkii tapahtumakokonaisuutta, jossa kymmenien henkilöiden epäillään joutuneen salakatselun kohteeksi yksityisen ammatinharjoittajan toimitiloissa Imatralla.",
+      "municipality": "Imatra",
+      "province": "Etelä-Karjala"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72532455/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-24T10:58:05+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Liikennevalvonnassa paljastui 20 rattijuopumusta",
+      "link": "https://poliisi.fi/-/liikennevalvonnassa-paljastui-20-rattijuopumusta",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-24T08:01:00+00:00",
+      "region": "",
+      "description": "Kaakkois-Suomen poliisilaitoksen tehtävämäärä pysyi viikolla 47 vuodenaikaan nähden tavanomaisella tasolla.&#xa0;",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kadonnut 20-vuotias löytyi kuolleena Helsingin keskustasta",
+      "link": "https://www.is.fi/kotimaa/art-2000012433175.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-24T07:59:00+00:00",
+      "region": "Helsinki",
+      "description": "",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72530510/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",

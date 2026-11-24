@@ -1,28 +1,6 @@
 {
-  "updated": "2026-11-24T06:34:58.889847+00:00",
+  "updated": "2026-11-24T18:18:05.320825+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
-  "items": [
-    {
-      "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Selkämeri, ti 5.06 - 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-24/03-06-47Z/2.49.0.1.246.0.0.2026.28264007.25567646753013688287709800160492126936.xml",
-      "description": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 14 m/s.",
-      "starts": null,
-      "expires": "2026-11-24T07:00:00+00:00"
-    },
-    {
-      "title": "Keltainen liikennesää: Paikoin maan itäosa, ti 5.06 - 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-24/03-06-47Z/2.49.0.1.246.0.0.2026.28264007.205384133487040870444859787598516617497.xml",
-      "description": "Liikennesää: Ajokeli on huono aluksi tienpintojen jäätymisen vuoksi.",
-      "starts": null,
-      "expires": "2026-11-24T07:00:00+00:00"
-    },
-    {
-      "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri, ti 5.06 - 9.00",
-      "link": "https://alerts.fmi.fi/cap/2026/11-24/03-06-47Z/2.49.0.1.246.0.0.2026.28264007.243424210753887912546985865070183759998.xml",
-      "description": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 16 m/s.",
-      "starts": null,
-      "expires": "2026-11-24T07:00:00+00:00"
-    }
-  ]
+  "items": []
 }

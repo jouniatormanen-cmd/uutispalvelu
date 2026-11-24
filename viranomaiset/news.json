@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-24T06:35:04.578075+00:00",
+  "updated": "2026-11-24T18:18:10.120108+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitoksen mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72533950/keski-suomen-pelastuslaitoksen-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-24T17:00:02+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Iäkäs nainen kuoli tulipalossa Paimiossa",
+      "link": "https://www.is.fi/kotimaa/art-2000012434934.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-24T15:58:00+00:00",
+      "region": "Paimio",
+      "description": "",
+      "municipality": "Paimio",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Itä-Suomen poliisi pyytää havaintoja Iisalmessa tapahtuneeseen henkilöauton ja polkupyöräilijän törmäykseen liittyen",
+      "link": "https://poliisi.fi/-/ita-suomen-poliisi-pyytaa-havaintoja-iisalmessa-tapahtuneeseen-henkiloauton-ja-polkupyorailijan-tormaykseen-liittyen",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-24T13:31:00+00:00",
+      "region": "",
+      "description": "Itä-Suomen poliisi pyytää havaintoja Iisalmessa tapahtuneeseen henkilöauton ja polkupyöräilijän törmäykseen liittyen",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi tutkii epäiltyä salakatselua Imatralla",
+      "link": "https://poliisi.fi/-/poliisi-tutkii-epailtya-salakatselua-imatralla",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-24T11:45:00+00:00",
+      "region": "Imatra",
+      "description": "Kaakkois-Suomen poliisilaitos tutkii tapahtumakokonaisuutta, jossa kymmenien henkilöiden epäillään joutuneen salakatselun kohteeksi yksityisen ammatinharjoittajan toimitiloissa Imatralla.",
+      "municipality": "Imatra",
+      "province": "Etelä-Karjala"
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72532455/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-24T10:58:05+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Liikennevalvonnassa paljastui 20 rattijuopumusta",
+      "link": "https://poliisi.fi/-/liikennevalvonnassa-paljastui-20-rattijuopumusta",
+      "source": "Kaakkois-Suomen poliisilaitos",
+      "date": "2026-11-24T08:01:00+00:00",
+      "region": "",
+      "description": "Kaakkois-Suomen poliisilaitoksen tehtävämäärä pysyi viikolla 47 vuodenaikaan nähden tavanomaisella tasolla.&#xa0;",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kadonnut 20-vuotias löytyi kuolleena Helsingin keskustasta",
+      "link": "https://www.is.fi/kotimaa/art-2000012433175.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-24T07:59:00+00:00",
+      "region": "Helsinki",
+      "description": "",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
       "link": "https://www.sttinfo.fi/tiedote/72530510/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
@@ -3120,36 +3190,6 @@
       "description": "Poliisi pyytää ilmoittamaan kaikki havainnot kadonneesta hätänumeroon 112. Uutista muokattu 26.10.2026 klo 00.55. Poistettu kadonneen tuntomerkit ja kuva, koska kadonnut on löytynyt. ]]>",
       "municipality": "Helsinki",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Poliisi etsii Helsingin keskustassa kadonnutta miestä − löytynyt",
-      "link": "https://poliisi.fi/-/poliisi-etsii-helsingin-keskustassa-kadonnutta-miesta",
-      "source": "Helsingin poliisilaitos",
-      "date": "2026-10-25T15:55:00+00:00",
-      "region": "Helsinki",
-      "description": "Noin 60-vuotias mies katosi Lönnrotinkadun ja Fredrikinkadun risteysalueella. Uutista on muokattu löytymisen jälkeen. ]]>",
-      "municipality": "Helsinki",
-      "province": "Uusimaa"
-    },
-    {
-      "title": "Lapissa kirjattiin viikonloppuna useita rikosilmoituksia pahoinpitelyistä",
-      "link": "https://poliisi.fi/-/lapissa-kirjattiin-viikonloppuna-useita-rikosilmoituksia-pahoinpitelyista",
-      "source": "Lapin poliisilaitos",
-      "date": "2026-10-25T10:22:00+00:00",
-      "region": "",
-      "description": "Lapissa kirjattiin viikonloppuna useita rikosilmoituksia pahoinpitelyistä",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Ulosajo Enonkoskella",
-      "link": "https://poliisi.fi/-/ulosajo-enonkoskella",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-25T09:35:00+00:00",
-      "region": "",
-      "description": "Ulosajo Enonkoskella",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -3175,7 +3215,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1320,
+  "newly_fetched": 1420,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3203,9 +3243,9 @@
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
@@ -3221,15 +3261,15 @@
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lounais-Suomen poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -3239,15 +3279,15 @@
     },
     {
       "source": "Oulun poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
-    },
-    {
-      "source": "Pohjanmaan poliisilaitos",
       "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
+    },
+    {
+      "source": "Pohjanmaan poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
@@ -3309,15 +3349,15 @@
       "Helsingin",
       "Hämeen",
       "Itä-Suomen",
+      "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lounais-Suomen",
-      "Oulun"
+      "Lapin",
+      "Pohjanmaan"
     ],
     "police_missing": [
-      "Itä-Uudenmaan",
-      "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
-      "Pohjanmaan",
+      "Oulun",
       "Sisä-Suomen"
     ],
     "rescue_active": [
@@ -3349,28 +3389,28 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-25T06:35:04.578075+00:00",
+  "window_start": "2026-10-25T18:18:10.120108+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 19,
+    "Helsingin poliisilaitos": 18,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 3,
     "Itä-Suomen poliisilaitos": 24,
     "Itä-Uudenmaan poliisilaitos": 19,
-    "Kaakkois-Suomen poliisilaitos": 6,
+    "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 1,
-    "Lapin poliisilaitos": 5,
+    "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 22,
     "Länsi-Uudenmaan poliisilaitos": 0,
     "Oulun poliisilaitos": 23,
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 73,
+    "Keski-Suomen pelastuslaitos": 75,
     "Helsingin pelastuslaitos": 1,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 1,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 93
+    "Ilta-Sanomat": 95
   }
 }
