@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-25T11:42:37.643054+00:00",
+  "updated": "2026-11-25T20:39:35.494138+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72538280/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-25T17:00:46+00:00",
+      "region": "",
+      "description": "Keski-Suomen pelastuslaitoksen tehtäväkoonti ke 25.11.2026 kello 7.00-19.00",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Laitilassa kadonnut 95-vuotias mies löytyi",
+      "link": "https://www.is.fi/kotimaa/art-2000012436466.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-25T14:05:00+00:00",
+      "region": "Laitila",
+      "description": "",
+      "municipality": "Laitila",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Potilastietojärjestelmän häiriö ruuhkauttaa puhelin- ja chatpalveluja Keski-Suomessa",
+      "link": "https://www.sttinfo.fi/tiedote/72537840/potilastietojarjestelman-hairio-ruuhkauttaa-puhelin-ja-chatpalveluja-keski-suomessa?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-25T13:53:22+00:00",
+      "region": "",
+      "description": "Keski-Suomen hyvinvointialueen Lifecare potilastietojärjestelmässä on keskiviikkona iltapäivällä ilmennyt häiriö, joka on vaikeuttanut erityisesti terveydenhuollon palvelujen toimintaa ja ruuhkauttanut puhelin- ja chatpalveluja.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kuopion Petosella puhkottu renkaita useasta autosta",
+      "link": "https://poliisi.fi/-/kuopion-petosella-puhkottu-renkaita-useasta-autosta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-25T13:51:00+00:00",
+      "region": "Kuopio",
+      "description": "Kuopion Petosella puhkottu renkaita useasta autosta",
+      "municipality": "Kuopio",
+      "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Nurmijärvellä kadonnut mies löytyi",
+      "link": "https://www.is.fi/kotimaa/art-2000012431109.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-25T13:48:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisin viikossa omaisuusrikoksia, väkivaltarikoksia ja päihtyneitä",
+      "link": "https://poliisi.fi/-/poliisin-viikossa-omaisuusrikoksia-vakivaltarikoksia-ja-paihtyneita",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-11-25T13:14:00+00:00",
+      "region": "",
+      "description": "Itä-Uudenmaan poliisin partioiden viime viikon tehtävissä näkyivät omaisuus- ja väkivaltarikokset sekä päihtyneet. Pelkästään viikonlopun aikana erilaisia poliisitehtäviä hoidettiin noin 800.",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Hätätilanne Ahvenanmaalla: sukellusonnettomuus",
       "link": "https://www.is.fi/kotimaa/art-2000012436521.html",

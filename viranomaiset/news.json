@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-25T11:42:37.643054+00:00",
+  "updated": "2026-11-25T20:39:35.494138+00:00",
   "items": [
+    {
+      "title": "Keski-Suomen pelastuslaitos mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72538280/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-25T17:00:46+00:00",
+      "region": "",
+      "description": "Keski-Suomen pelastuslaitoksen tehtäväkoonti ke 25.11.2026 kello 7.00-19.00",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Laitilassa kadonnut 95-vuotias mies löytyi",
+      "link": "https://www.is.fi/kotimaa/art-2000012436466.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-25T14:05:00+00:00",
+      "region": "Laitila",
+      "description": "",
+      "municipality": "Laitila",
+      "province": "Varsinais-Suomi"
+    },
+    {
+      "title": "Potilastietojärjestelmän häiriö ruuhkauttaa puhelin- ja chatpalveluja Keski-Suomessa",
+      "link": "https://www.sttinfo.fi/tiedote/72537840/potilastietojarjestelman-hairio-ruuhkauttaa-puhelin-ja-chatpalveluja-keski-suomessa?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-25T13:53:22+00:00",
+      "region": "",
+      "description": "Keski-Suomen hyvinvointialueen Lifecare potilastietojärjestelmässä on keskiviikkona iltapäivällä ilmennyt häiriö, joka on vaikeuttanut erityisesti terveydenhuollon palvelujen toimintaa ja ruuhkauttanut puhelin- ja chatpalveluja.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kuopion Petosella puhkottu renkaita useasta autosta",
+      "link": "https://poliisi.fi/-/kuopion-petosella-puhkottu-renkaita-useasta-autosta",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-25T13:51:00+00:00",
+      "region": "Kuopio",
+      "description": "Kuopion Petosella puhkottu renkaita useasta autosta",
+      "municipality": "Kuopio",
+      "province": "Pohjois-Savo"
+    },
+    {
+      "title": "Nurmijärvellä kadonnut mies löytyi",
+      "link": "https://www.is.fi/kotimaa/art-2000012431109.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-25T13:48:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisin viikossa omaisuusrikoksia, väkivaltarikoksia ja päihtyneitä",
+      "link": "https://poliisi.fi/-/poliisin-viikossa-omaisuusrikoksia-vakivaltarikoksia-ja-paihtyneita",
+      "source": "Itä-Uudenmaan poliisilaitos",
+      "date": "2026-11-25T13:14:00+00:00",
+      "region": "",
+      "description": "Itä-Uudenmaan poliisin partioiden viime viikon tehtävissä näkyivät omaisuus- ja väkivaltarikokset sekä päihtyneet. Pelkästään viikonlopun aikana erilaisia poliisitehtäviä hoidettiin noin 800.",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Hätätilanne Ahvenanmaalla: sukellusonnettomuus",
       "link": "https://www.is.fi/kotimaa/art-2000012436521.html",
@@ -3190,36 +3250,6 @@
       "description": "Kooste illan ja yön hälytyksistä Keski-Suomen pelastuslaitoksella.",
       "municipality": "",
       "province": ""
-    },
-    {
-      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
-      "link": "https://www.sttinfo.fi/tiedote/72446059/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
-      "source": "Keski-Suomen pelastuslaitos",
-      "date": "2026-10-26T17:01:06+00:00",
-      "region": "",
-      "description": "Kooste Keski-Suomen pelastuslaitoksen alueella kuluneen 12 tunnin aikana olleista hälytyksistä.",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Poliisi jatkaa Puijonlaakson kaupparyöstön tutkintaa ja poliisi pyytää havaintoja ryöstäjästä",
-      "link": "https://poliisi.fi/-/poliisi-jatkaa-puijonlaakson-kaupparyoston-tutkintaa-ja-poliisi-pyytaa-havaintoja-ryostajasta",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-26T14:08:00+00:00",
-      "region": "",
-      "description": "Poliisi jatkaa Puijonlaakson kaupparyöstön tutkintaa ja poliisi pyytää havaintoja ryöstäjästä",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Lahtelainen mies vangittu epäiltynä törkeään ryöstöön",
-      "link": "https://poliisi.fi/-/lahtelainen-mies-vangittu-epailtyna-torkeaan-ryostoon",
-      "source": "Hämeen poliisilaitos",
-      "date": "2026-10-26T11:48:00+00:00",
-      "region": "",
-      "description": "Lahtelainen mies vangittu epäiltynä törkeään ryöstöön",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -3245,7 +3275,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1221,
+  "newly_fetched": 1321,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3285,25 +3315,25 @@
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
-    },
-    {
-      "source": "Lounais-Suomen poliisilaitos",
       "status": "toimii",
       "fetched": 100,
       "feeds_checked": 1
     },
     {
+      "source": "Lapin poliisilaitos",
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
+    },
+    {
+      "source": "Lounais-Suomen poliisilaitos",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
+    },
+    {
       "source": "Länsi-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 403: Forbidden",
+      "status": "virhe: HTTP Error 429: Too Many Requests",
       "fetched": 0,
       "feeds_checked": 0
     },
@@ -3381,10 +3411,10 @@
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
-      "Lounais-Suomen"
+      "Lapin"
     ],
     "police_missing": [
-      "Lapin",
+      "Lounais-Suomen",
       "Länsi-Uudenmaan",
       "Oulun",
       "Pohjanmaan",
@@ -3419,13 +3449,13 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-26T11:42:37.643054+00:00",
+  "window_start": "2026-10-26T20:39:35.494138+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 15,
     "Poliisi – valtakunnallinen RSS": 0,
-    "Hämeen poliisilaitos": 3,
+    "Hämeen poliisilaitos": 2,
     "Itä-Suomen poliisilaitos": 25,
-    "Itä-Uudenmaan poliisilaitos": 19,
+    "Itä-Uudenmaan poliisilaitos": 20,
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 1,
     "Lapin poliisilaitos": 4,
@@ -3435,12 +3465,12 @@
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 75,
+    "Keski-Suomen pelastuslaitos": 76,
     "Helsingin pelastuslaitos": 1,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 98
+    "Ilta-Sanomat": 100
   }
 }
