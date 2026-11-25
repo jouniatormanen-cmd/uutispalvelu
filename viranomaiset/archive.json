@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-25T02:40:06.704839+00:00",
+  "updated": "2026-11-25T11:42:37.643054+00:00",
   "items": [
+    {
+      "title": "Hätätilanne Ahvenanmaalla: sukellusonnettomuus",
+      "link": "https://www.is.fi/kotimaa/art-2000012436521.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-25T11:28:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Pelastustoimen valtakunnallinen tietojärjestelmäuudistus vaikuttaa tietopyyntöihin myös Pirkanmaalla",
+      "link": "https://www.sttinfo.fi/tiedote/72536532/pelastustoimen-valtakunnallinen-tietojarjestelmauudistus-vaikuttaa-tietopyyntoihin-myos-pirkanmaalla?lang=fi",
+      "source": "Pirkanmaan pelastuslaitos",
+      "date": "2026-11-25T10:54:42+00:00",
+      "region": "",
+      "description": "Pelastustoimessa siirrytään uuteen tietojärjestelmään marraskuun lopulla. Muutoksen vuoksi tilastotietojen ja onnettomuuksia koskevien selosteiden toimittamiseen tulee tauko loppuvuoden aikana myös Pirkanmaan pelastuslaitoksella.",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi pääsi murtovarkaan jäljille Mikkelissä",
+      "link": "https://poliisi.fi/-/poliisi-paasi-murtovarkaan-jaljille-mikkelissa",
+      "source": "Itä-Suomen poliisilaitos",
+      "date": "2026-11-25T10:35:00+00:00",
+      "region": "Mikkeli",
+      "description": "Poliisi pääsi murtovarkaan jäljille Mikkelissä",
+      "municipality": "Mikkeli",
+      "province": "Etelä-Savo"
+    },
+    {
+      "title": "Junaliikenne sekaisin pääradalla",
+      "link": "https://www.is.fi/kotimaa/art-2000012435433.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-25T06:41:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Keski-Suomen pelastuslaitos mediatiedote",
+      "link": "https://www.sttinfo.fi/tiedote/72534499/keski-suomen-pelastuslaitos-mediatiedote?lang=fi",
+      "source": "Keski-Suomen pelastuslaitos",
+      "date": "2026-11-25T05:07:11+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Video näyttää rajun törmäyksen Joensuussa – nainen astui suojatielle karmein seurauksin",
       "link": "https://www.is.fi/kotimaa/art-2000012426044.html",
@@ -32,6 +82,16 @@
       "province": "Varsinais-Suomi"
     },
     {
+      "title": "Menehtymiseen johtanut tulipalo Paimiossa",
+      "link": "https://poliisi.fi/-/menehtymiseen-johtanut-tulipalo-paimiossa",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-24T15:44:00+00:00",
+      "region": "Paimio",
+      "description": "Menehtymiseen johtanut tulipalo Paimiossa",
+      "municipality": "Paimio",
+      "province": "Varsinais-Suomi"
+    },
+    {
       "title": "Itä-Suomen poliisi pyytää havaintoja Iisalmessa tapahtuneeseen henkilöauton ja polkupyöräilijän törmäykseen liittyen",
       "link": "https://poliisi.fi/-/ita-suomen-poliisi-pyytaa-havaintoja-iisalmessa-tapahtuneeseen-henkiloauton-ja-polkupyorailijan-tormaykseen-liittyen",
       "source": "Itä-Suomen poliisilaitos",
@@ -40,6 +100,16 @@
       "description": "Itä-Suomen poliisi pyytää havaintoja Iisalmessa tapahtuneeseen henkilöauton ja polkupyöräilijän törmäykseen liittyen",
       "municipality": "",
       "province": ""
+    },
+    {
+      "title": "Rauman toukokuinen epäilty henkirikos siirtyy syyteharkintaan",
+      "link": "https://poliisi.fi/-/rauman-toukokuinen-epailty-henkirikos-siirtyy-syyteharkintaan",
+      "source": "Lounais-Suomen poliisilaitos",
+      "date": "2026-11-24T12:02:00+00:00",
+      "region": "Rauma",
+      "description": "Rauman toukokuinen epäilty henkirikos siirtyy syyteharkintaan",
+      "municipality": "Rauma",
+      "province": "Satakunta"
     },
     {
       "title": "Poliisi tutkii epäiltyä salakatselua Imatralla",
