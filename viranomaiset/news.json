@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-26T03:05:49.866168+00:00",
+  "updated": "2026-11-26T12:19:04.264041+00:00",
   "items": [
+    {
+      "title": "Varusmies kuoli mönkijä­onnettomuudessa Vekaranjärvellä – poliisi epäilee rikosta",
+      "link": "https://www.is.fi/kotimaa/art-2000012439296.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-26T11:39:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Poliisi uudistaa talousrikostutkintaa – valtakunnallinen toimintamalli käyttöön vuoden alusta",
+      "link": "https://poliisi.fi/-/poliisi-uudistaa-talousrikostutkintaa-valtakunnallinen-toimintamalli-kayttoon-vuoden-alusta",
+      "source": "Helsingin poliisilaitos",
+      "date": "2026-11-26T06:51:00+00:00",
+      "region": "Helsinki",
+      "description": "Vuodenvaihteessa talousrikosasioiden esikäsittely keskitetään valtakunnallisesti Helsingin poliisilaitokselle. Samalla tiivistetään viranomaisyhteistyötä sekä yhdenmukaistetaan rikostutkinnan toimintatapoja, johtamista ja seurantaa. – Tavoitteena on vastata kasvaneeseen työmäärään ja varmistaa, että talousrikokset tutkitaan tehokkaasti koko maassa, poliisijohtaja Sanna Heikinheimo Poliisihallituksesta toteaa. Valtiontalouden tarkastusvirasto VTV on julkaissut tarkastuksen poliisin talousrikostutkinnasta ja rikoshyödyn takaisinsaannista. Tarkastuksessa nostetaan esiin muun muassa talousrikostutkinnan ohjaukseen, resurssien seurantaan, tutkinta-aikoihin ja viranomaisyhteistyöhön liittyviä kehittämistarpeita. Keskusrikospoliisin talousrikostutkinta painottuu vaativiin rikoskokonaisuuksiin Keskusrikospoliisi ei kaikilta osin tunnista VTV:n tiedotteen kritiikkiä. Keskusrikospoliisin vastuu ha",
+      "municipality": "Helsinki",
+      "province": "Uusimaa"
+    },
     {
       "title": "Junaliikenne sekaisin",
       "link": "https://www.is.fi/kotimaa/art-2000012437879.html",
@@ -3240,26 +3260,6 @@
       "description": "Poliisi tutkii ryöstön yritystä Kajaanissa",
       "municipality": "Kajaani",
       "province": "Kainuu"
-    },
-    {
-      "title": "Poliisi pyytää havaintoja Seinäjoella tapahtuneesta liikenneonnettomuudesta",
-      "link": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-seinajoella-tapahtuneesta-liikenneonnettomuudesta-1",
-      "source": "Poliisi",
-      "date": "2026-10-27T10:50:00+02:00",
-      "region": "",
-      "description": "Poliisi selvittää liikenneonnettomuutta, jossa auto törmäsi polkupyörällä liikkuneeseen lapseen ja kuljettaja poistui paikalta.",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
-      "link": "https://www.sttinfo.fi/tiedote/72446888/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
-      "source": "Keski-Suomen pelastuslaitos",
-      "date": "2026-10-27T05:00:47+00:00",
-      "region": "",
-      "description": "Kooste illan ja yön hälytyksistä Keski-Suomen pelastuslaitoksella.",
-      "municipality": "",
-      "province": ""
     }
   ],
   "sources": [
@@ -3285,7 +3285,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 1121,
+  "newly_fetched": 821,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3307,21 +3307,21 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "toimii",
-      "fetched": 100,
-      "feeds_checked": 1
+      "status": "virhe: HTTP Error 429: Too Many Requests",
+      "fetched": 0,
+      "feeds_checked": 0
     },
     {
       "source": "Keskusrikospoliisi",
@@ -3417,12 +3417,12 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen",
-      "Itä-Suomen",
-      "Itä-Uudenmaan",
-      "Kaakkois-Suomen"
+      "Hämeen"
     ],
     "police_missing": [
+      "Itä-Suomen",
+      "Itä-Uudenmaan",
+      "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
       "Länsi-Uudenmaan",
@@ -3459,9 +3459,9 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-27T03:05:49.866168+00:00",
+  "window_start": "2026-10-27T12:19:04.264041+00:00",
   "source_counts_30d": {
-    "Helsingin poliisilaitos": 15,
+    "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 2,
     "Itä-Suomen poliisilaitos": 25,
@@ -3475,12 +3475,12 @@
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 76,
+    "Keski-Suomen pelastuslaitos": 75,
     "Helsingin pelastuslaitos": 1,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 101
+    "Ilta-Sanomat": 102
   }
 }

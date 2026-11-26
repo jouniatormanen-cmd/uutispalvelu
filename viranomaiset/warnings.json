@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-26T03:05:42.082736+00:00",
+  "updated": "2026-11-26T12:18:57.491925+00:00",
   "source": "Ilmatieteen laitos",
   "status": "ok",
-  "items": []
+  "items": [
+    {
+      "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri sekä paikoin Pohjanlahti, su 0.00 - ma 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-26/09-53-22Z/2.49.0.1.246.0.0.2026.28461202.198887101586917072330694719453881490082.xml",
+      "description": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 20 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön.",
+      "starts": null,
+      "expires": "2026-11-29T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 2.00 - su 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-26/09-53-22Z/2.49.0.1.246.0.0.2026.28461202.39002143955244212835170908282270599401.xml",
+      "description": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 20 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön.",
+      "starts": null,
+      "expires": "2026-11-28T22:00:00+00:00"
+    },
+    {
+      "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa sekä paikoin Pohjanlahti, ma 0.00 - ti 0.00",
+      "link": "https://alerts.fmi.fi/cap/2026/11-26/09-53-22Z/2.49.0.1.246.0.0.2026.28461202.225012729698895603980000182531912420721.xml",
+      "description": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 20 % sunnuntain ja maanantain välisestä yöstä maanantain ja tiistain väliseen yöhön.",
+      "starts": null,
+      "expires": "2026-11-30T22:00:00+00:00"
+    }
+  ]
 }
