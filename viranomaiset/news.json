@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-26T12:19:04.264041+00:00",
+  "updated": "2026-11-26T21:46:40.131046+00:00",
   "items": [
+    {
+      "title": "Auto törmäsi törmäys­suojaan",
+      "link": "https://www.is.fi/kotimaa/art-2000012440615.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-26T20:57:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
+    {
+      "title": "Kolmen auton ketju­kolari Porissa – viisi sairaalaan",
+      "link": "https://www.is.fi/kotimaa/art-2000012440164.html",
+      "source": "Ilta-Sanomat",
+      "date": "2026-11-26T14:50:00+00:00",
+      "region": "",
+      "description": "",
+      "municipality": "",
+      "province": ""
+    },
     {
       "title": "Varusmies kuoli mönkijä­onnettomuudessa Vekaranjärvellä – poliisi epäilee rikosta",
       "link": "https://www.is.fi/kotimaa/art-2000012439296.html",
@@ -240,6 +260,16 @@
       "description": "",
       "municipality": "Helsinki",
       "province": "Uusimaa"
+    },
+    {
+      "title": "Ajoneuvoyhdistelmän kuljettaja kuoli ulosajossa Toivakassa",
+      "link": "https://poliisi.fi/-/ajoneuvoyhdistelman-kuljettaja-kuoli-ulosajossa-toivakassa",
+      "source": "Sisä-Suomen poliisilaitos",
+      "date": "2026-11-24T07:23:00+00:00",
+      "region": "",
+      "description": "Ajoneuvoyhdistelmän kuljettaja kuoli ulosajossa Toivakassa",
+      "municipality": "",
+      "province": ""
     },
     {
       "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
@@ -3210,56 +3240,6 @@
       "description": "Helsingin poliisilaitoksen valtakunnallinen ihmiskauppatutkintaryhmä tutkii laajaa paritusrikoskokonaisuutta, jonka epäillään liittyvän kansainväliseen järjestäytyneeseen rikollisuuteen. Tekojen epäillään alkaneen elokuussa 2025 ja jatkuneen siitä asti, kunnes poliisi otti epäillyt kiinni. Esitutkinnassa tutkittavat rikosnimikkeet ovat törkeä paritus ja törkeä rahanpesu. Lisäksi esitutkinnan aikana pyritään selvittämään, onko asiassa syytä epäillä ihmiskauppaa. Useita satoja tuhansia euroja rikoshyötyä Rikollisorganisaation epäillään vastanneen parituksesta Helsingin ja muun pääkaupunkiseudun lisäksi myös muissa Suomen suurissa ja keskisuurissa kaupungeissa. Poliisin tiedossa olevia parituksen kohteeksi joutuneita henkilöitä on useita kymmeniä ja he ovat kaikki ulkomaalaistaustaisia. Paritustoiminta on tapahtunut pääsääntöisesti lyhytvuokra-asunnoissa ympäri Suomea. Rikoksella on poliisi",
       "municipality": "Helsinki",
       "province": "Uusimaa"
-    },
-    {
-      "title": "Henkilöautoilijan ja polkupyöräilijän välinen liikenneonnettomuus Oulussa",
-      "link": "https://poliisi.fi/-/henkiloautoilijan-ja-polkupyorailijan-valinen-liikenneonnettomuus-oulussa",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-27T19:07:00+00:00",
-      "region": "Oulu",
-      "description": "Henkilöautoilijan ja polkupyöräilijän välinen liikenneonnettomuus Oulussa.",
-      "municipality": "Oulu",
-      "province": "Pohjois-Pohjanmaa"
-    },
-    {
-      "title": "Poliisi selvittänyt Suonenjoella ilmoitusta epäillystä aseella uhkaamisesta",
-      "link": "https://poliisi.fi/-/poliisi-selvittanyt-suonenjoella-ilmoitusta-epaillysta-aseella-uhkaamisesta",
-      "source": "Itä-Suomen poliisilaitos",
-      "date": "2026-10-27T18:50:00+00:00",
-      "region": "",
-      "description": "Poliisi selvittänyt Suonenjoella ilmoitusta epäillystä aseella uhkaamisesta",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Keski-Suomen pelastuslaitos onnettomuustiedote",
-      "link": "https://www.sttinfo.fi/tiedote/72450056/keski-suomen-pelastuslaitos-onnettomuustiedote?lang=fi",
-      "source": "Keski-Suomen pelastuslaitos",
-      "date": "2026-10-27T17:33:48+00:00",
-      "region": "",
-      "description": "",
-      "municipality": "",
-      "province": ""
-    },
-    {
-      "title": "Poliisioperaatio Jyväskylän Tourulassa",
-      "link": "https://poliisi.fi/-/poliisioperaatio-jyvaskylan-tourulassa",
-      "source": "Sisä-Suomen poliisilaitos",
-      "date": "2026-10-27T15:05:00+00:00",
-      "region": "Jyväskylä",
-      "description": "Poliisioperaatio Jyväskylän Tourulassa",
-      "municipality": "Jyväskylä",
-      "province": "Keski-Suomi"
-    },
-    {
-      "title": "Poliisi tutkii ryöstön yritystä Kajaanissa",
-      "link": "https://poliisi.fi/-/poliisi-tutkii-ryoston-yritysta-kajaanissa",
-      "source": "Oulun poliisilaitos",
-      "date": "2026-10-27T12:59:00+00:00",
-      "region": "Kajaani",
-      "description": "Poliisi tutkii ryöstön yritystä Kajaanissa",
-      "municipality": "Kajaani",
-      "province": "Kainuu"
     }
   ],
   "sources": [
@@ -3285,7 +3265,7 @@
     "Traficom – kyberturvallisuus",
     "Ilta-Sanomat"
   ],
-  "newly_fetched": 821,
+  "newly_fetched": 1722,
   "monitoring": [
     {
       "source": "Helsingin poliisilaitos",
@@ -3307,39 +3287,39 @@
     },
     {
       "source": "Itä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Itä-Uudenmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Kaakkois-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keskusrikospoliisi",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lapin poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Lounais-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Länsi-Uudenmaan poliisilaitos",
@@ -3355,21 +3335,21 @@
     },
     {
       "source": "Pohjanmaan poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Poliisihallitus",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Sisä-Suomen poliisilaitos",
-      "status": "virhe: HTTP Error 429: Too Many Requests",
-      "fetched": 0,
-      "feeds_checked": 0
+      "status": "toimii",
+      "fetched": 100,
+      "feeds_checked": 1
     },
     {
       "source": "Keski-Suomen pelastuslaitos",
@@ -3398,7 +3378,7 @@
     {
       "source": "Traficom – tieliikenne",
       "status": "toimii",
-      "fetched": 369,
+      "fetched": 370,
       "feeds_checked": 1
     },
     {
@@ -3417,18 +3397,18 @@
   "coverage": {
     "police_active": [
       "Helsingin",
-      "Hämeen"
-    ],
-    "police_missing": [
+      "Hämeen",
       "Itä-Suomen",
       "Itä-Uudenmaan",
       "Kaakkois-Suomen",
       "Lapin",
       "Lounais-Suomen",
-      "Länsi-Uudenmaan",
-      "Oulun",
       "Pohjanmaan",
       "Sisä-Suomen"
+    ],
+    "police_missing": [
+      "Länsi-Uudenmaan",
+      "Oulun"
     ],
     "rescue_active": [
       "Helsingin",
@@ -3459,28 +3439,28 @@
     "aland_rescue_verified": false
   },
   "window_days": 30,
-  "window_start": "2026-10-27T12:19:04.264041+00:00",
+  "window_start": "2026-10-27T21:46:40.131046+00:00",
   "source_counts_30d": {
     "Helsingin poliisilaitos": 16,
     "Poliisi – valtakunnallinen RSS": 0,
     "Hämeen poliisilaitos": 2,
-    "Itä-Suomen poliisilaitos": 25,
+    "Itä-Suomen poliisilaitos": 24,
     "Itä-Uudenmaan poliisilaitos": 20,
     "Kaakkois-Suomen poliisilaitos": 8,
     "Keskusrikospoliisi": 1,
     "Lapin poliisilaitos": 4,
     "Lounais-Suomen poliisilaitos": 24,
     "Länsi-Uudenmaan poliisilaitos": 0,
-    "Oulun poliisilaitos": 22,
+    "Oulun poliisilaitos": 20,
     "Pohjanmaan poliisilaitos": 8,
     "Poliisihallitus": 0,
     "Sisä-Suomen poliisilaitos": 12,
-    "Keski-Suomen pelastuslaitos": 75,
+    "Keski-Suomen pelastuslaitos": 74,
     "Helsingin pelastuslaitos": 1,
     "Ilmatieteen laitos": 1,
     "Pirkanmaan pelastuslaitos": 2,
     "Traficom – tieliikenne": 0,
     "Traficom – kyberturvallisuus": 0,
-    "Ilta-Sanomat": 102
+    "Ilta-Sanomat": 104
   }
 }
